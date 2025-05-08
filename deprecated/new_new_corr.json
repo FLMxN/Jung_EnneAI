@@ -1,0 +1,201 @@
+[
+  {
+    "enneagram": "sp8",
+    "traits": ["extraverted","amoral", "anti-intellectual", "territorial", "pragmatic power-seeker"],
+    "anti_traits": ["planning", "intellectual", "emotional", "approval-seeking"],
+    "socionics": "SLE",
+    "psychosophy": ["VFLE", "VFEL"]
+  },
+  {
+    "enneagram": "so8",
+    "traits": ["extraverted","anti-intellectual","tribe leader", "publicly assertive", "justice-driven"],
+    "anti_traits": ["intellectual", "apathetic", "submissive", "planning"],
+    "socionics": "SEE",
+    "psychosophy": "VFLE"
+  },
+  {
+    "enneagram": "sx8",
+    "traits": ["extraverted","anti-intellectual","intense bonds", "protective in relationships", "fiery loyalty"],
+    "anti_traits": ["smart", "intellectual", "passive", "avoidant", "calculating"],
+    "socionics": "SEE",
+    "psychosophy": ["VFLE", "VFEL"]
+  },
+  {
+    "enneagram": "sp9",
+    "traits": ["comfort-seeking", "resistant to disruption", "quietly stubborn"],
+    "anti_traits": ["confrontational", "attention-seeking", "emotionally volatile"],
+    "socionics": "SLI",
+    "psychosophy": "FLEV"
+  },
+  {
+    "enneagram": "so9",
+    "traits": ["extraverted","sociable peacemaker", "group-oriented", "optimistically detached"],
+    "anti_traits": ["aggressive", "isolated", "rigid"],
+    "socionics": ["SEI", "ESE"],
+    "psychosophy": ["FELV", "FVLE"]
+  },
+  {
+    "enneagram": "sx9",
+    "traits": ["emotionally diffused", "idealistic", "relationship-focused"],
+    "anti_traits": ["emotionally intense", "dominant", "assertively independent"],
+    "socionics": ["SEI", "ESE"],
+    "psychosophy": "FELV"
+  },
+  {
+    "enneagram": "sp1",
+    "traits": ["disciplined", "private conscience", "self-contained"],
+    "anti_traits": ["impulsive", "loudly moralizing", "hedonistic"],
+    "socionics": "LSE",
+    "psychosophy": ["LVFE", "LFVE"]
+  },
+  {
+    "enneagram": "so1",
+    "traits": ["publicly principled", "moral leader", "corrective"],
+    "anti_traits": ["amoral", "socially passive", "reckless"],
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["VFLE", "VLFE", "LVFE"]
+  },
+  {
+    "enneagram": "sx1",
+    "traits": ["extraverted","morally intense", "idealistic in relationships", "black-and-white loyalty"],
+    "anti_traits": ["careless", "emotionally distant", "neutral in values"],
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["VFLE", "VLFE"]
+  },
+  {
+    "enneagram": "sp2",
+    "traits": ["extraverted","quietly helpful", "physically attentive", "seeks unconditional love"],
+    "anti_traits": ["demanding", "emotionally intrusive", "publicly performative"],
+    "socionics": "ESE",
+    "psychosophy": ["FEVL", "FELV"]
+  },
+  {
+    "enneagram": "so2",
+    "traits": ["extraverted","manipulative leader", "group-oriented helper", "seeks submissiveness as reward"],
+    "anti_traits": ["withdrawn", "neglecting", "self-denying"],
+    "socionics": "EIE",
+    "psychosophy": ["VELF", "VEFL"]
+  },
+  {
+    "enneagram": "sx2",
+    "traits": ["extraverted","intimate caretaker", "emotionally intense", "devoted", "flirtatious"],
+    "anti_traits": ["cold", "uninterested in connection", "casual"],
+    "socionics": "ESE",
+    "psychosophy": "FEVL"
+  },
+  {
+    "enneagram": "sp3",
+    "traits": ["efficient", "seeks security in money", "private achiever"],
+    "anti_traits": ["lazy", "boastful", "messy"],
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["FVLE", "FVEL"]
+  },
+  {
+    "enneagram": "so3",
+    "traits": ["extraverted","amoral", "socially adaptive", "polished", "narcissistic and competitive", "vain"],
+    "anti_traits": ["altruistic", "transparent", "honest"],
+    "socionics": "LIE",
+    "psychosophy": "FLVE"
+  },
+  {
+    "enneagram": "sx3",
+    "traits": ["extraverted","seductive achiever", "charismatic", "driven by admiration"],
+    "anti_traits": ["emotionally dull", "indifferent to attention", "emotionally flat"],
+    "socionics": "ESE",
+    "psychosophy": "FEVL"
+  },
+  {
+    "enneagram": "sp4",
+    "traits": ["introverted","private melancholy", "creative through solitude", "aesthetic-focused"],
+    "anti_traits": ["emotionally explosive", "attention-seeking", "chaotic"],
+    "socionics": ["ESI", "EII"],
+    "psychosophy": ["EFLV", "EVFL"]
+  },
+  {
+    "enneagram": "so4",
+    "traits": ["introverted","expressive outsider", "socially envious", "ideals vs reality tension"],
+    "anti_traits": ["socially confident", "conventional", "competitive"],
+    "socionics": ["EII", "IEI"],
+    "psychosophy": "ELVF"
+  },
+  {
+    "enneagram": "sx4",
+    "traits": ["romantic intensity", "raw emotional expression", "identity-obsessed"],
+    "anti_traits": ["neutral", "emotionally distant", "bland"],
+    "socionics": "ESI",
+    "psychosophy": ["EFVL", "ELVF"]
+  },
+  {
+    "enneagram": "sp5",
+    "traits": ["introverted","humble","self-contained", "knowledge-focused", "withdrawn"],
+    "anti_traits": ["needy", "emotionally expressive", "team-dependent"],
+    "socionics": ["ILI", "LII"],
+    "psychosophy": ["LFEV", "FLEV"]
+  },
+  {
+    "enneagram": "so5",
+    "traits": ["introverted","observer", "coldly analytical", "disconnected from emotions"],
+    "anti_traits": ["emotionally reactive", "tribal", "assertive"],
+    "socionics": ["ILI", "LII"],
+    "psychosophy": ["LVEF", "LFVE"]
+  },
+  {
+    "enneagram": "sx5",
+    "traits": ["introverted","mystical", "focused on deep connections", "conceptual intensity"],
+    "anti_traits": ["open-hearted", "practical", "surface-level"],
+    "socionics": "IEI",
+    "psychosophy": "LEVF"
+  },
+  {
+    "enneagram": "sp6",
+    "traits": ["introverted","prepared", "responsible", "skeptically warm"],
+    "anti_traits": ["impulsive", "naive", "chaotic"],
+    "socionics": ["LII", "IEI"],
+    "psychosophy": ["LEFV", "LFEV"]
+  },
+  {
+    "enneagram": "so6",
+    "traits": ["introverted","loyalist", "rigid and rational", "group protector"],
+    "anti_traits": ["rebellious", "independent to a fault", "apathetic"],
+    "socionics": ["LII", "LSI"],
+    "psychosophy": "LVFE"
+  },
+  {
+    "enneagram": "sx6",
+    "traits": ["introverted","devoted or defiant", "passionate loyalty", "bond through tension"],
+    "anti_traits": ["emotionally stable", "detached", "consistently warm"],
+    "socionics": "LSI",
+    "psychosophy": "LFVE"
+  },
+  {
+    "enneagram": "sp7",
+    "traits": ["practical narcissist", "future planner", "escapes through stimulation", "gluttonous"],
+    "anti_traits": ["ascetic", "boring", "rigid"],
+    "socionics": ["ILE", "LIE"],
+    "psychosophy": ["VLFE", "FLVE", "FLEV"]
+  },
+  {
+    "enneagram": "so7",
+    "traits": ["saintliness", "false altruist", "visionary optimist"],
+    "anti_traits": ["gloomy", "emotional", "disengaged"],
+    "socionics": ["ILE", "LIE"],
+    "psychosophy": ["VLFE", "VLEF"]
+  },
+  {
+    "enneagram": "sx7",
+    "traits": ["extraverted","romantic escapist", "playfully seductive", "spontaneous connector"],
+    "anti_traits": ["cautious", "emotionally closed", "predictable"],
+    "socionics": "IEE",
+    "psychosophy": "ELFV"
+  },
+  {
+    "systems": {
+      "socionics": "Describes how characters process information and interact with the world",
+      "enneagram": "Identifies core motivations and fears (instincts: sp=self-preservation, so=social, sx=sexual)",
+      "psychosophy": "Prioritization of mental aspects: V = Volition, E = Emotion, L = Logic, F = Physics. 1st aspect is confident, 2nd is flexible, 3rd is vulnerable and 4th is submissive."
+    }
+  }
+  ]
+
+
+

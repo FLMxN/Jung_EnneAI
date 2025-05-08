@@ -1,0 +1,139 @@
+{
+  "mandatory_correlations": [
+  {
+    "enneagram": "sp8",
+    "socionics": "SLE",
+    "psychosophy": ["VFLE", "VFEL"]
+  },
+  {
+    "enneagram": "so8",
+    "socionics": "SEE",
+    "psychosophy": "VFLE"
+  },
+  {
+    "enneagram": "sx8",
+    "socionics": "SEE",
+    "psychosophy": ["VFLE", "VFEL"]
+  },
+  {
+    "enneagram": "sp9",
+    "socionics": "SLI",
+    "psychosophy": "FLEV"
+  },
+  {
+    "enneagram": "so9",
+    "socionics": ["SEI", "ESE"],
+    "psychosophy": ["FELV", "FVLE"]
+  },
+  {
+    "enneagram": "sx9",
+    "socionics": ["SEI", "ESE"],
+    "psychosophy": "FELV"
+  },
+  {
+    "enneagram": "sp1",
+    "socionics": "LSE",
+    "psychosophy": ["LVFE", "LFVE"]
+  },
+  {
+    "enneagram": "so1",
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["VFLE", "VLFE", "LVFE"]
+  },
+  {
+    "enneagram": "sx1",
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["VFLE", "VLFE"]
+  },
+  {
+    "enneagram": "sp2",
+    "socionics": "ESE",
+    "psychosophy": ["FEVL", "FELV"]
+  },
+  {
+    "enneagram": "so2",
+    "socionics": "EIE",
+    "psychosophy": ["VELF", "VEFL"]
+  },
+  {
+    "enneagram": "sx2",
+    "socionics": "ESE",
+    "psychosophy": "FEVL"
+  },
+  {
+    "enneagram": "sp3",
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["FVLE", "FVEL"]
+  },
+  {
+    "enneagram": "so3",
+    "socionics": "LIE",
+    "psychosophy": "FLVE"
+  },
+  {
+    "enneagram": "sx3",
+    "socionics": "ESE",
+    "psychosophy": "FEVL"
+  },
+  {
+    "enneagram": "sp4",
+    "socionics": ["ESI", "EII"],
+    "psychosophy": ["EFLV", "EVFL"]
+  },
+  {
+    "enneagram": "so4",
+    "socionics": ["EII", "IEI"],
+    "psychosophy": "ELVF"
+  },
+  {
+    "enneagram": "sx4",
+    "socionics": "ESI",
+    "psychosophy": ["EFVL", "ELVF"]
+  },
+  {
+    "enneagram": "sp5",
+    "socionics": ["ILI", "LII"],
+    "psychosophy": ["LFEV", "FLEV"]
+  },
+  {
+    "enneagram": "so5",
+    "socionics": ["ILI", "LII"],
+    "psychosophy": ["LVEF", "LFVE"]
+  },
+  {
+    "enneagram": "sx5",
+    "socionics": "IEI",
+    "psychosophy": "LEVF"
+  },
+  {
+    "enneagram": "sp6",
+    "socionics": ["LII", "IEI"],
+    "psychosophy": ["LEFV", "LFEV"]
+  },
+  {
+    "enneagram": "so6",
+    "socionics": ["LII", "LSI"],
+    "psychosophy": "LVFE"
+  },
+  {
+    "enneagram": "sx6",
+    "socionics": "LSI",
+    "psychosophy": "LFVE"
+  },
+  {
+    "enneagram": "sp7",
+    "socionics": ["ILE", "LIE"],
+    "psychosophy": ["VLFE", "FLVE", "FLEV"]
+  },
+  {
+    "enneagram": "so7",
+    "socionics": ["ILE", "LIE"],
+    "psychosophy": ["VLFE", "VLEF"]
+  },
+  {
+    "enneagram": "sx7",
+    "socionics": "IEE",
+    "psychosophy": "ELFV"
+  }
+]
+}

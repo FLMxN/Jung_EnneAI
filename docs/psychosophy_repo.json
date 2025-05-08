@@ -1,0 +1,141 @@
+[
+    {
+      "aspect": "Volition (V)",
+      "position_traits": {
+        "1V": {
+          "traits": ["Strong-willed and dominating. Thinks highly about themselves, but rarely narcissistic.",
+          "Leads naturally and always right in own eyes. Does`nt doubt itself.",
+          "Resistant to outside influence or manipulation. Stubborn and lacks justification.",
+            "Rigid in self-identification and lacks introspection.",
+            "Exhibits traits of all other 1st aspects (1E, 1L, 1F)."
+          ]
+        },
+        "2V": {
+          "traits": ["Flexible and hardworking.",
+          "Supports others' decisions unless values are violated.",
+          "Comfortable taking initiative and standing his ground.",
+            "Well-balanced. Not narcissistic or self-degrading.",
+            "Exhibits traits of all other 2nd aspects (2E, 2L, 2F)."
+          ]
+        },
+        "3V": {
+          "traits": [
+            "Uncertain in asserting desires and decisions. Swings between pure narcissism and self-deprecation.",
+            "Sensitive to control, critique or expectations. Craves external recognition and affirmation.",
+            "Can be passive-aggressive or retreat when pressured. Insecure and often self-destructive.",
+            "Overly aware of society, but lack stable self-identification.",
+            "Exhibits traits of all other 3rd aspects (3E, 3L, 3F)."
+          ]
+        },
+        "4V": {
+          "traits": ["Disinterested in control or imposing will.",
+          "Adaptable or subordinate to others' agendas.",
+          "Can feel directionless without external structure.",
+            "Despite submissiveness, loves freedom and/or adventure.",
+            "Exhibits traits of all other 4th aspects (4E, 4L, 4F)."
+          ]
+        }
+      }
+    },
+    {
+      "aspect": "Emotion (E)",
+      "position_traits": {
+        "1E": {
+          "traits": ["Emotionally expressive and reactive; acts on impulse.",
+          "Uses emotions confidently and recklessly.",
+          "Can dramatize or exaggerate for effect.",
+            "Prone to introspection and projection."
+          ]
+        },
+        "2E": {
+          "traits": ["Emotionally fluent but respectful.",
+          "Uses emotions flexibly and widely to persuade or bond.",
+          "Understands others emotions and prone to manipulations.",
+            "Attracted to art and aesthetics."
+          ]
+        },
+        "3E": {
+          "traits": ["Emotionally vulnerable, but often lacks empathy.",
+          "Fears emotional exposure or misunderstanding.",
+          "Either suppresses or awkwardly express feelings.",
+            "May be very introspective when calm and unaffected."
+          ]
+        },
+        "4E": {
+          "traits": ["Detached from emotional intensity by default.",
+          "Merges with emotional environment uncontrollably.",
+          "Focuses more on reason or physical action than feeling.",
+            "May be sentimental or emotional if suggested."
+          ]
+        }
+      }
+    },
+    {
+      "aspect": "Logic (L)",
+      "position_traits": {
+        "1L": {
+          "traits": ["Overly rational and rigid in logical reasoning.",
+          "Values reason, clarity, structure, and intellectual autonomy.",
+          "Often critical of flawed logic in others. Never elaborates or justifies itself.",
+            "Despite opportunities, rarely engages in debates or intellectual competition."
+          ]
+        },
+        "2L": {
+          "traits": ["Adaptable thinker, learner and debater.",
+            "Talks too much, does even more.",
+          "Explains clearly and adjusts communication style for the listener.",
+          "Confident but not necessarily dominating in intellectual spaces."
+          ]
+        },
+        "3L": {
+          "traits": ["Insecure about intelligence or articulation.",
+          "Avoids planning, debating or any intellectual exposure.",
+          "Prone to over-explaining and intellectual defensiveness.",
+            "Prone to over-planning and fake intellectual grandiosity."
+          ]
+        },
+        "4L": {
+          "traits": ["Disengaged from complex logic.",
+          "May find abstract ideas tedious or irrelevant.",
+          "Prefers practical or emotional ways of knowing.",
+            "Often acts on impulse or instinct."
+          ]
+        }
+      }
+    },
+    {
+      "aspect": "Physics (F)",
+      "position_traits": {
+        "1F": {
+          "traits": ["Highly attuned to the material stuff: money, food, appearance.",
+          "Strive to comfort (both physical and mental) and sensory aesthetics.",
+          "Very indulgent and image-conscious. Calculating of their resources.",
+            "Violent, avaricious and kleptomaniac, but may hide it.",
+            "Consumes everything and much. Has blunter disgust feeling."
+          ]
+        },
+        "2F": {
+          "traits": ["Very confident and exploitative with physical reality.",
+          "Enjoys sensual experiences and aesthetics when appropriate.",
+          "Affects others on the physical plane.",
+            "Tends to be aggressive on physical plane and is prone to violence.",
+            "Avaricious, but sharing with close ones."
+          ]
+        },
+        "3F": {
+          "traits": ["Insecure about appearance, health, or material stability.",
+          "Body is a sacred temple. Overcautious about physical matters and own body.",
+          "Can swing between indulgence and asceticism.",
+            "Physically fragile and prone to amplified sensory disgust."
+          ]
+        },
+        "4F": {
+          "traits": ["Neglectful or indifferent to bodily and material concerns by default.",
+          "Disinterested in comfort, appearance, or luxury.",
+          "May treat the body as a tool rather than a priority.",
+            "Prone to philosophical romanticism and neglect of own body."
+          ]
+        }
+      }
+    }
+]

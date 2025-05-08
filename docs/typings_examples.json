@@ -1,0 +1,191 @@
+{
+  "typing_examples": [
+    {
+      "name": "Hannibal Lecter",
+      "typology": "EIE so2 VELF",
+      "arguments": {
+        "socionics": "EIE: Dramatic, intense, and masterful at emotional manipulation. Hannibal's charismatic persona and ability to read/control others' emotions perfectly fit the Ethical-Intuitive Extrovert.",
+        "enneagram": "so2: 'Social Conqueror' subtype, using charm and intellect to draw people in while maintaining hidden motives. His nurturing facade (as a psychiatrist) masks predatory instincts.",
+        "psychosophy": "VELF (1V, 2E, 3L, 4F): Rationalizes his actions through a self-created moral code. His aestheticism and sensory indifference manifest in gourmet cannibalism, while his manupulativeness and social image justify his philosophy."
+      }
+    },
+    {
+      "name": "Kaneki Ken",
+      "typology": "IEI so4 ELVF",
+      "arguments": {
+        "socionics": "IEI: Introspective, identity-shifting, and prone to existential crises. Kaneki's internal monologues and evolving self-concept mirror the Intuitive-Ethical Introvert.",
+        "enneagram": "so4: 'Outsider' subtype, oscillating between self-loathing and grandiosity. His struggle to belong (e.g., human/ghoul duality) reflects social instinct with a 4's intensity.",
+        "psychosophy": "ELVF (1E, 2L, 3V, 4L): Emotionally turbulent, intellectualizes suffering and his own philosophy, usually both physically and emotionally fragile, effortlessly adapts to physical environment for survival with no disgust."
+      }
+    },
+    {
+      "name": "Goro Akechi",
+      "typology": "LIE so3 FLVE",
+      "arguments": {
+        "socionics": "LIE: Strategic ambition masked by calculated charm. Akechi's relentless pursuit of recognition and mastery of systemic manipulation ('playing the game') reflect the Logical-Intuitive Extrovert's Te/Ni efficiency.",
+        "enneagram": "so3: 'Deceptive Achiever' subtype, crafting a heroic public persona to conceal vengeful motives. His obsession with surpassing rivals (e.g., Joker) mirrors so3's addiction to external validation.",
+        "psychosophy": "FLVE (1F, 2L, 3V, 4E): Obsessive control over outcomes, coldly pragmatic logic, vanity in his detective image, and emotionally compartmentalized rage fuel his martyr-complex theatrics."
+      }
+    },
+    {
+      "name": "Sheldon Cooper",
+      "typology": "LII so6 LVFE",
+      "arguments": {
+        "socionics": "LII: Hyper-logical, theoretical, and socially awkward. Sheldon's rigid adherence to systems (e.g., seat spot, roommate agreement) exemplifies the Logical-Intuitive Introvert.",
+        "enneagram": "so6: 'Loyal Skeptic' subtype, seeking security through routines and intellectual superiority. His anxiety about change and need for 'safe' people (e.g., Leonard) reflect counterphobic 6.",
+        "psychosophy": "LVFE (1L, 2V, 3F, 4E): Truth-seeking, conformist, physically disgusted, and emotionally childlike."
+      }
+    },
+    {
+      "name": "Walter White",
+      "typology": "LSI sx6 LFVE",
+      "arguments": {
+        "socionics": "LSI: Stoic, territorial, and ruthlessly pragmatic. Walt's transformation from meek teacher to drug kingpin mirrors the Logical-Sensory Introvert's latent intensity.",
+        "enneagram": "sx6: 'Lone Wolf' subtype, reacting to fear with aggression. His 'I am the danger' persona and loyalty tests (e.g., 'Say my name') show sexual 6's defensive dominance.",
+        "psychosophy": "LFVE (1L, 2F, 3V, 4E): Control-obsessed, physically resourceful, self-esteem troubles & reputation anxiety, emotionally inert."
+      }
+    },
+    {
+      "name": "Anakin Skywalker",
+      "typology": "ESI sx4 EFVL",
+      "arguments": {
+        "socionics": "ESI: Passionate, morally absolutist, and possessive. Anakin's black-and-white loyalty ('If you're not with me, you're my enemy') fits the Ethical-Sensory Introvert.",
+        "enneagram": "sx4: 'Hateful Romantic' subtype, oscillating between devotion and rage. His obsession with Padmé and fear of abandonment drive his downfall, classic for sexual 4.",
+        "psychosophy": "EFVL (1E, 2F, 3V, 4L): Emotionally volatile, physically skilled, self-justifying, and rigid in beliefs."
+      }
+    },
+    {
+      "name": "Donald Trump",
+      "typology": "SLE sp8 VFLE",
+      "arguments": {
+        "socionics": "SLE: Assertive, strategic, focused on power and dominance. His transactional worldview and instinct for competition are hallmarks of the Sensory-Logical Extrovert.",
+        "enneagram": "sp8: 'Survivalist' subtype, embodying drive for control manifests in his business and political tactics. The 'Might Makes Right' philosophy and constant boundary-testing are textbook sp8.",
+        "psychosophy": "VFLE (1V, 2F, 3L, 4E): Outgoing dominant charisma, pragmatic focus on material results, competitive and questionable logic, emotional recklessness create his signature combative yet engaging style."
+      }
+    },
+    {
+  "name": "James McGill/Saul Goodman",
+  "typology": "ILE sp7 FLVE",
+  "arguments": {
+    "socionics": "ILE: Rapid conceptual thinking, improvisational problem-solving, and Ne-driven scheming. Thrives on intellectual loopholes and adaptive 'clever guy' personas.",
+    "enneagram": "sp7: 'Chaotic Charlatan' subtype anxiety channeled into hustles and silver-tongued reframing. Uses charm/denial to bypass consequences, framing survival as 'winning' through mental gymnastics.",
+    "psychosophy": "FLVE (1F, 2L, 3V, 4E): Survival-first pragmatism, self-justifying logics, fluid self-presentation and chaotic emotional outbursts fuel his chameleonic grifts."
+    }
+  },
+    {
+      "name": "Naked Snake/Big Boss",
+      "typology": "LIE so7 VLFE",
+      "arguments": {
+        "socionics": "LIE: Strategic commander who reinvents military paradigms. His constant innovation in warfare tactics reflects Te/Ni goal-orientation of Logical-Intuitive Extravert.",
+        "enneagram": "so7: 'Visionary Mastermind' subtype, justifying morally gray ops through grand ideological narratives. Uses revolutionary rhetoric to escape accountability.",
+        "psychosophy": "VLFE (1V, 2L, 3F, 4E: Self-righteous visionary, pragmatic and debating, physically indulgent, emotionally detached from casualties."
+      }
+    },
+    {
+      "name": "Rei Ayanami",
+      "typology": "ILI sp5 LFEV",
+      "arguments": {
+        "socionics": "ILI: Detached strategic observer predicting Angel attack patterns. Her Ni/Te analysis of combat scenarios fits Intuitive-Logical Introvert's forecasting.",
+        "enneagram": "sp5: 'Withdrawn Observer' avoids emotional entanglement while cataloging human behavior. Treats body as disposable vessel (3F insecurity).",
+        "psychosophy": "LFEV (1L, 2F, 3E, 4V): Analytical observer, physically indifferent, emotionally blank, will-less instrument."
+      }
+    },
+    {
+      "name": "Misato Katsuragi",
+      "typology": "ESE sx2 FEVL",
+      "arguments": {
+        "socionics": "ESE: Her Fe/Si warmth creates makeshift family unit for pilots. Bubbly social energy masks trauma through sensory indulgence (beer, casual dress).",
+        "enneagram": "sx2: 'Flirtatious Caregiver' uses playful sexuality to bond with Kaji/Shinji. Clings to NERV team as substitute family after paternal loss.",
+        "psychosophy": "FEVL (1F, 2E, 3V, 4L): Comfort-focused, emotionally demonstrative, reckless and self-critical, avoids complex strategies."
+      }
+    },
+    {
+      "name": "Baku Madarame (Usogui)",
+      "typology": "ILE sp7 VLFE",
+      "arguments": {
+        "socionics": "ILE: Master gambler exploiting Ne/Ti loopholes in games. His conceptual leaps and rule-bending epitomize Intuitive-Logical Extravert's intellectual play.",
+        "enneagram": "sp7: 'Planning Charlatan' avoids emotional pain through high-stakes stimulation. Treats life as series of mental puzzles to conquer.",
+        "psychosophy": "VLFE (1V, 2L, 3F, 4E): Willful strategist, logical trickster, physically resilient, emotionally detached."
+      }
+    },
+    {
+      "name": "Kim Wexler",
+      "typology": "LSE so1 LVFE",
+      "arguments": {
+        "socionics": "LSE: Methodical and pragmatic problem-solver. Kim's structured approach to law and emphasis on measurable results ('doing the right way') aligns with Logical-Sensory Extravert's Te/Si prioritization.",
+        "enneagram": "so1: 'Reformer' subtype, channeling perfectionism into social justice. Her repressed anger at systemic corruption reflects e1's moral rigidity fused with social instinct.",
+        "psychosophy": "LVFE (1L, 2V, 3F, 4E): Truth-driven yet socially adaptable, physically disciplined and emotionally reserved."
+      }
+      },
+      {
+      "name": "Shinji Ikari",
+      "typology": "EII so4 ELVF",
+      "arguments": {
+      "socionics": "EII: Introverted ethical sensitivity fused with abstract idealism. Shinji's paralyzing self-doubt and desperate need for approval ('I mustn't run away') reflect the Ethical-Intuitive Introvert's conflict between internal values and external demands.",
+      "enneagram": "so4: 'Tormented Artist' subtype, amplifying alienation through social comparisons. His oscillation between clinging to Misato/Rei and rejecting connection mirrors 4's shame about inadequacy within group dynamics.",
+      "psychosophy": "ELVF (1E, 2L, 3V, 4F): Emotionally overwhelmed, intellectualizes suffering through existential musings. Struggles to assert willpower, treats body as passive instrument, yet retains rigid moral idealism despite trauma."
+    }
+    },
+    {
+      "name": "Arthur Morgan",
+      "typology": "SLI sp9 FLEV",
+      "arguments": {
+        "socionics": "SLI: Practical survivalist focused on tangible skills. Arthur's wilderness expertise and 'get the job done' mentality exemplify Si/Te pragmatism and passivity.",
+        "enneagram": "sp9: 'Appetite' subtype, avoiding conflict through routine. His loyalty to the gang despite moral doubts reflects 9's dissociation from personal needs.",
+        "psychosophy": "FLEV (1F, 2L, 3E, 4V): Survival-focused, analytical but self-doubting, emotionally repressed and adaptable to others' leadership."
+      }
+    },
+    {
+      "name": "Luke Skywalker",
+      "typology": "IEE sx7 ELFV",
+      "arguments": {
+        "socionics": "IEE: Idealistic connector of people/ideas. Luke's faith in redemption ('there's still good in him') and Ne-driven optimism mirror Ethical-Intuitive Extravert traits.",
+        "enneagram": "sx7: 'Enthusiast' subtype, chasing adventure to avoid pain. His shift from farmboy to Jedi reflects 7's escapism through grand narratives.",
+        "psychosophy": "ELFV (1E, 2L, 3F, 4V): Emotionally expressive, intellectually curious, physically restless and unbothered by ethics."
+      }
+    },
+    {
+      "name": "Rohan Kishibe",
+      "typology": "ILI so5 LFVE",
+      "arguments": {
+        "socionics": "ILI: Strategic analyst prioritizing Ni/Te. Rohan's detached observation of humanity and narrative manipulation exemplify Ni-base's future forecasting.",
+        "enneagram": "so5: 'Ivory Tower' subtype. His artistic elitism and emotional detachment reflect 5's fear of helplessness through specialization.",
+        "psychosophy": "LFVE (1L, 2F, 3V, 4E): Knowledge-hoarding, physically skilled/flexible, socially/competently insecure and emotionally chameleon."
+      }
+    },
+    {
+      "name": "Tuco Salamanca",
+      "typology": "SEE sx8 VFEL",
+      "arguments": {
+        "socionics": "SEE: Tactical opportunist thriving on Se/Fi dynamism. Tuco's explosive negotiations and resource control ('tight tight tight!') showcase Sensory-Ethical Extravert's adaptability.",
+        "enneagram": "sx8: 'Challenger' subtype, enforcing loyalty through volatility. His 'family first' rhetoric masking paranoia aligns with sexual 8's possessive intensity.",
+        "psychosophy": "VFEL (1V, 2F, 3E, 4L): Dominant willpower, physically indulgent, emotionally reckless, and dismissive of abstract logic."
+      }
+    },
+    {
+        "name": "Ichigo Kurosaki",
+        "typology": "ESI sp4 EFVL",
+        "arguments": {
+          "socionics": "ESI: Ethically rigid protector driven by personal loyalty. Ichigo's relentless defense of loved ones and black-and-white moral code ('I fight to protect') align with the Ethical-Sensory Introvert's Fi/Se resolve.",
+          "enneagram": "sp4: 'Enduring Individualist' subtype, transmuting shame into hyper-competence. His secret fear of inadequacy (e.g., hybrid identity crises) manifests as overcompensation through battle prowess and emotional isolation.",
+          "psychosophy": "EFVL (1E, 2F, 3V, 4L): Emotionally intense convictions fuel his willpower, physically dominant in combat, strategically pragmatic under pressure, yet struggles with existential self-worth beyond his warrior role."
+        }
+    },
+    {
+      "name": "Fluttershy",
+      "typology": "SEI sx9 FELV",
+      "arguments": {
+        "socionics": "SEI: Harmonious mediator attuned to Si/Fe. Her animal caretaking and aversion to conflict reflect Sensory-Ethical Introvert's comfort-focused empathy.",
+        "enneagram": "sx9: 'Symbiosis' subtype, diffusing identity into relationships. Her 'Stare' episodes paradoxically show 9's repressed assertiveness emerging under pressure.",
+        "psychosophy": "FELV: Physically nurturing, emotionally gentle, intellectually self-effacing, and morally flexible."
+      }
+    }
+  ],
+  "metadata": {
+    "systems": {
+      "socionics": "Describes how characters process information and interact with the world",
+      "enneagram": "Identifies core motivations and fears (instincts: sp=self-preservation, so=social, sx=sexual)",
+      "psychosophy": "Prioritization of mental aspects: V = Volition, E = Emotion, L = Logic, F = Physics"
+    }
+  }
+}

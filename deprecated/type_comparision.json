@@ -1,0 +1,253 @@
+[
+  {
+    "types_compared": ["sp8", "sp1"],
+    "similarities": [
+      "Strong self-control and focus on personal boundaries",
+      "Desire for autonomy and maintaining personal integrity"
+    ],
+    "differences": [
+      "Sp8 seeks control to avoid vulnerability and maintain power; driven by a fear of being controlled or harmed.",
+      "Sp1 seeks control to maintain moral purity; driven by a fear of being wrong or corrupt."
+    ]
+  },
+  {
+    "types_compared": ["so8", "so3"],
+    "similarities": [
+      "Image-conscious and socially dominant",
+      "Desire to maintain influence in group settings"
+    ],
+    "differences": [
+      "So8 asserts power to control social dynamics and uphold justice; fears losing power or appearing weak.",
+      "So3 adapts to gain recognition and status; fears worthlessness and failure to meet external expectations."
+    ]
+  },
+  {
+    "types_compared": ["sx8", "sx6"],
+    "similarities": [
+      "Intense relational styles with loyalty or defiance in close bonds",
+      "Protective of loved ones and sensitive to betrayal"
+    ],
+    "differences": [
+      "Sx8 asserts dominance to control intimacy and prevent betrayal; fears vulnerability.",
+      "Sx6 oscillates between devotion and defiance due to fear of abandonment; driven by insecurity and a need for reassurance."
+    ]
+  },
+  {
+    "types_compared": ["sp9", "sp5"],
+    "similarities": [
+      "Low energy outwardly, prioritizing personal space and comfort",
+      "Withdrawing tendencies to preserve inner stability"
+    ],
+    "differences": [
+      "Sp9 withdraws to maintain inner peace and avoid conflict; fears disruption and loss of comfort.",
+      "Sp5 withdraws to conserve resources and energy; fears depletion and incompetence."
+    ]
+  },
+  {
+    "types_compared": ["so9", "so2"],
+    "similarities": [
+      "Group-oriented and relationship-focused",
+      "Prioritize maintaining harmony in social settings"
+    ],
+    "differences": [
+      "So9 minimizes personal needs to preserve group peace; fears conflict and disconnection.",
+      "So2 actively seeks validation by helping others to secure their place in the group; fears rejection and being unneeded."
+    ]
+  },
+  {
+    "types_compared": ["sx9", "sx4"],
+    "similarities": [
+      "Desire for deep emotional connection and idealized relationships",
+      "Struggle with self-expression in intimate bonds"
+    ],
+    "differences": [
+      "Sx9 diffuses their identity and merges with others to maintain peace; fears separation and conflict.",
+      "Sx4 intensifies emotional experiences and expresses longing for uniqueness; fears abandonment and being misunderstood."
+    ]
+  },
+  {
+    "types_compared": ["sp1", "sp6"],
+    "similarities": [
+      "Cautious, responsible, and focused on maintaining order",
+      "Strong inner critic and tendency toward anxiety"
+    ],
+    "differences": [
+      "Sp1 channels anxiety into self-discipline and moral regulation; fears being corrupt or flawed.",
+      "Sp6 channels anxiety into preparedness and loyalty; fears uncertainty and insecurity."
+    ]
+  },
+  {
+    "types_compared": ["so1", "so8"],
+    "similarities": [
+      "Desire to correct or protect others in group contexts",
+      "Strong presence in social environments"
+    ],
+    "differences": [
+      "So1 enforces moral standards to create an ideal environment; fears moral failure and disorder.",
+      "So8 enforces power dynamics to protect themselves and others; fears being controlled or disempowered."
+    ]
+  },
+  {
+    "types_compared": ["sp2", "sx2"],
+    "similarities": [
+      "Caregiving tendencies and desire to be needed",
+      "Difficulty expressing personal needs directly"
+    ],
+    "differences": [
+      "Sp2 provides support quietly to feel secure in relationships; fears being unloved or unwanted.","Sx2 expresses care intensely to secure intimacy; fears rejection and emotional abandonment."
+    ]
+  },
+  {
+    "types_compared": ["sp3", "sp7"],
+    "similarities": [
+      "Goal-oriented and focused on maintaining personal security",
+      "Concern with maintaining a positive self-image"
+    ],
+    "differences": [
+      "Sp3 achieves through efficiency and image management to avoid feelings of inadequacy.",
+      "Sp7 plans for pleasurable experiences and future security to avoid discomfort and restriction."
+    ]
+  },
+  {
+    "types_compared": ["so3", "so7"],
+    "similarities": [
+      "Sociable and focused on external validation or group perception",
+      "Tendency to adapt to social expectations"
+    ],
+    "differences": [
+      "So3 seeks success and recognition to validate self-worth; fears being seen as a failure.",
+      "So7 seeks inspiration and positivity to avoid pain and limitation; fears missing out or emotional suffering."
+    ]
+  },
+  {
+    "types_compared": ["sx3", "sx4"],
+    "similarities": [
+      "Emphasis on self-expression and identity in close relationships",
+      "Desire for admiration or emotional intensity"
+    ],
+    "differences": [
+      "Sx3 shapes their image to attract admiration and avoid insignificance.",
+      "Sx4 amplifies emotional authenticity to avoid feeling ordinary or abandoned."
+    ]
+  },
+  {
+    "types_compared": ["sp5", "sp8"],
+    "similarities": [
+      "Self-sufficient, withdrawn from emotional entanglements",
+      "Highly resistant to being controlled or overwhelmed"
+    ],
+    "differences": [
+      "Sp5 controls by withdrawing and minimizing needs; fears depletion and incompetence.",
+      "Sp8 controls by confronting and dominating their space; fears vulnerability and being harmed."
+    ]
+  },
+  {
+    "types_compared": ["sp8", "sp7"],
+    "similarities": [
+      "Assertive and energetic when pursuing personal goals",
+      "Seek freedom and self-governance"
+    ],
+    "differences": [
+      "Sp8 asserts power to secure safety and independence; driven by fear of vulnerability.",
+      "Sp7 seeks options and stimulation to avoid pain and restriction; driven by fear of deprivation."
+    ]
+  },
+  {
+    "types_compared": ["so8", "so2"],
+    "similarities": [
+      "Group-focused with protective tendencies",
+      "Concerned with being seen as valuable or influential"
+    ],
+    "differences": [
+      "So8 leads through strength and confrontation to maintain justice and respect.",
+      "So2 leads through support and strategic care to feel irreplaceable and needed."
+    ]
+  },
+  {
+    "types_compared": ["sx8", "sx2"],
+    "similarities": [
+      "Intense relational focus and strong emotional expression",
+      "Protective or possessive in close relationships"
+    ],
+    "differences": [
+      "Sx8 uses intensity to guard intimacy and assert control; fears betrayal and loss of power.",
+      "Sx2 uses intensity to secure love and be indispensable; fears emotional rejection."
+    ]
+  },
+  {
+    "types_compared": ["so2", "sx2"],
+    "similarities": [
+      "Driven to connect and be needed",
+      "Can become emotionally manipulative to maintain bonds"
+    ],
+    "differences": [
+      "So2 focuses on public care and social bonding to secure appreciation; fears irrelevance in the group.",
+      "Sx2 intensifies emotional closeness in private relationships to earn devotion; fears abandonment."
+    ]
+  },
+  {
+    "types_compared": ["sp1", "so6"],
+    "similarities": [
+      "Rule-following, responsible, and self-critical",
+      "Driven by duty and concern for correctness"
+    ],
+    "differences": [
+      "Sp1 internalizes standards and aims for personal perfection; fears moral failure.",
+      "So6 externalizes safety through loyal adherence to systems; fears betrayal and instability."]
+  },
+  {
+    "types_compared": ["so4", "sx4"],
+    "similarities": [
+      "Identity-focused, emotionally sensitive, and idealistic",
+      "Feel misunderstood or different"
+    ],
+    "differences": [
+      "So4 idealizes a social role or archetype and experiences public longing; fears being unremarkable or invisible.",
+      "Sx4 intensifies emotional connection and seeks recognition in intimate bonds; fears being unloved or abandoned."
+    ]
+  },
+  {
+    "types_compared": ["so3", "sp7"],
+    "similarities": [
+      "Energetic, goal-oriented, and concerned with how others perceive them",
+      "Adaptive and socially competent"
+    ],
+    "differences": [
+      "So3 is motivated by the need for validation through visible success and admiration; fears being worthless or unimpressive.",
+      "Sp7 is motivated by the need to avoid pain and limitation through planning and private enjoyment; fears deprivation and being trapped."
+    ]
+  },
+  {
+    "types_compared": ["so2", "so3"],
+    "similarities": [
+      "Highly image-aware, focused on being appreciated and valued by others",
+      "Motivated by external feedback"
+    ],
+    "differences": [
+      "So2 gains value by being helpful, nurturing, and needed; fears being rejected or unloved.",
+      "So3 gains value by being impressive, competent, and admired; fears failure or being seen as inadequate."
+    ]
+  },
+  {
+    "types_compared": ["so2", "so7"],
+    "similarities": [
+      "Charismatic, people-oriented, and enthusiastic",
+      "Concerned with being liked and staying connected"
+    ],
+    "differences": [
+      "So2 uses charm and service to gain affection and relational safety; fears disapproval and being unnecessary.",
+      "So7 uses charm and positivity to maintain freedom and avoid pain; fears being trapped in suffering or emotional heaviness."
+    ]
+  },
+  {
+    "types_compared": ["sx2", "sx7"],
+    "similarities": [
+      "Intense in relationships, focused on winning others’ affection",
+      "Charismatic, seductive, and emotionally engaging"
+    ],
+    "differences": [
+      "Sx2 seeks fusion and emotional dependence to feel irreplaceable; fears abandonment and rejection.",
+      "Sx7 seeks excitement and stimulation in connection, but avoids deep vulnerability; fears being consumed or bored."
+    ]
+  }
+]

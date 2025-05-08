@@ -1,0 +1,164 @@
+[
+  {
+    "enneagram": "sp8",
+    "traits": ["autonomous", "protective", "low tolerance for vulnerability", "defends territory", "pragmatic power-seeking"],
+    "socionics": "SLE",
+    "psychosophy": ["VFLE", "VFEL"]
+  },
+  {
+    "enneagram": "so8",
+    "traits": ["dominant leader", "champion of the group", "provocative", "rebellious", "asserts justice publicly"],
+    "socionics": "SEE",
+    "psychosophy": "VFLE"
+  },
+  {
+    "enneagram": "sx8",
+    "traits": ["intense bonds", "possessive", "eroticism fused with power", "protects the weak", "explosive temperament"],
+    "socionics": "SEE",
+    "psychosophy": ["VFLE", "VFEL"]
+  },
+  {
+    "enneagram": "sp9",
+    "traits": ["comfort-seeking", "resistant to disruption", "emotionally steady", "quietly stubborn", "merge by withdrawing"],
+    "socionics": "SLI",
+    "psychosophy": "FLEV"
+  },
+  {
+    "enneagram": "so9",
+    "traits": ["sociable peacemaker", "identifies with group harmony", "diplomatic", "minimizes personal needs", "optimistic detachment"],
+    "socionics": ["SEI", "ESE"],
+    "psychosophy": ["FELV", "FVLE"]
+  },
+  {
+    "enneagram": "sx9",
+    "traits": ["emotionally diffused", "focus on harmony in intimate bonds", "dreamy", "merging in relationships", "passive idealism"],
+    "socionics": ["SEI", "ESE"],
+    "psychosophy": "FELV"
+  },
+  {
+    "enneagram": "sp1",
+    "traits": ["self-controlled", "clean and efficient", "righteous in routines", "private morality", "harsh inner critic"],
+    "socionics": "LSE",
+    "psychosophy": ["LVFE", "LFVE"]
+  },
+  {
+    "enneagram": "so1",
+    "traits": ["social reformer", "moral authority", "upholds group standards", "idealistic", "assertive about right and wrong"],
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["VFLE", "VLFE", "LVFE"]
+  },
+  {
+    "enneagram": "sx1",
+    "traits": ["intense ideals", "rigid in personal relationships", "black-and-white loyalty", "sacrificial", "moralistic passion"],
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["VFLE", "VLFE"]
+  },
+  {
+    "enneagram": "sp2",
+    "traits": ["caretaking behind the scenes", "overextends privately", "warm and physically attentive", "possessive about those they help"],
+    "socionics": "ESE",
+    "psychosophy": ["FEVL", "FELV"]
+  },
+  {
+    "enneagram": "so2",
+    "traits": ["public servant", "networker", "charming and self-important", "sacrifices for image", "seeks visible appreciation"],
+    "socionics": "EIE",
+    "psychosophy": ["VELF", "VEFL"]
+  },
+  {
+    "enneagram": "sx2",
+    "traits": ["intensely seductive", "emotionally manipulative", "enmeshed with others' needs", "possessive devotion", "romantic fixer"],
+    "socionics": "ESE",
+    "psychosophy": "FEVL"
+  },
+  {
+    "enneagram": "sp3",
+    "traits": ["pragmatic achiever", "image through results", "polished but private", "compartmentalizes feelings", "efficiency-focused"],
+    "socionics": ["LSE", "LIE"],
+    "psychosophy": ["FVLE", "FVEL"]
+  },
+  {
+    "enneagram": "so3",
+    "traits": ["publicly successful", "image-conscious", "adapts for applause", "chameleonic", "network savvy"],
+    "socionics": "LIE",
+    "psychosophy": "FLVE"
+  },
+  {
+    "enneagram": "sx3",
+    "traits": ["seductive achiever", "intense charm", "success through attraction", "competitive in relationships"],
+    "socionics": "ESE",
+    "psychosophy": "FEVL"
+  },
+  {
+    "enneagram": "sp4",
+    "traits": ["internalized aesthetics", "quietly melancholic", "self-referencing", "creative through withdrawal", "longing for uniqueness"],
+    "socionics": ["ESI", "EII"],
+    "psychosophy": ["EFLV", "EVFL"]
+  },
+  {
+    "enneagram": "so4",
+    "traits": ["romantic outsider", "social envy", "authenticity over fitting in", "ideals vs reality", "wounded teacher"],
+    "socionics": ["EII", "IEI"],
+    "psychosophy": "ELVF"
+  },
+  {
+    "enneagram": "sx4",
+    "traits": ["raw emotional expression", "self-revealing", "envy and longing in relationships", "high-intensity shame", "identity drama"],
+    "socionics": "ESI",
+    "psychosophy": ["EFVL", "ELVF"]
+  },
+  {
+    "enneagram": "sp5",
+    "traits": ["self-contained", "privacy-loving", "retreats into intellect", "conservative energy use", "resource hoarder"],
+    "socionics": ["ILI", "LII"],
+    "psychosophy": ["LFEV", "FLEV"]
+  },
+  {
+    "enneagram": "so5",
+    "traits": ["observer of systems", "detached analyst", "social knowledge collector", "cold but curious", "watches from the edge"],
+    "socionics": ["ILI", "LII"],
+    "psychosophy": ["LVEF", "LFVE"]
+  },
+  {
+    "enneagram": "sx5",
+    "traits": ["deep bonds or nothing", "intellectual intensity", "mystical thinker", "withdraws and merges", "fantasy-prone"],
+    "socionics": "IEI",
+    "psychosophy": "LEVF"
+  },
+  {
+    "enneagram": "sp6",
+    "traits": ["secure by preparation", "responsible but anxious", "warm when safe", "suspicious of threats", "covert control"],
+    "socionics": ["LII", "IEI"],
+    "psychosophy": ["LEFV", "LFEV"]
+  },
+  {
+    "enneagram": "so6",
+    "traits": ["duty-bound", "group loyalist", "authority tester", "asks questions out loud", "heroic when needed"],
+    "socionics": ["LII", "LSI"],
+    "psychosophy": "LVFE"
+  },
+  {
+    "enneagram": "sx6",
+    "traits": ["devotion or defiance", "tense bonding", "magnetic paranoia", "fear and desire entangled", "contradictory"],
+    "socionics": "LSI",
+    "psychosophy": "LFVE"
+  },
+  {
+    "enneagram": "sp7",
+    "traits": ["resource planner", "pragmatic freedom-seeker", "distracts from discomfort", "internal safety net", "cheerful but avoidant"],
+    "socionics": ["ILE", "LIE"],
+    "psychosophy": ["VLFE", "FLVE", "FLEV"]
+  },
+  {
+    "enneagram": "so7",
+    "traits": ["social butterfly", "inspirational", "false altruism", "wide networks", "illusory saintliness"],
+    "socionics": ["ILE", "LIE"],
+    "psychosophy": ["VLFE", "VLEF"]
+  },
+  {
+    "enneagram": "sx7",
+    "traits": ["charming and chaotic", "bond through play", "escapist through connection", "seductive fun-seeker", "bounces from intimacy"],
+    "socionics": "IEE",
+    "psychosophy": "ELFV"
+  }
+]

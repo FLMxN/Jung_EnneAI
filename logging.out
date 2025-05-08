@@ -1,0 +1,6 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @test_jung_bot id=8146851047 - 'Jung_Test'
+INFO:root:group
+INFO:root:тест
+INFO:aiogram.event:Update id=23546596 is handled. Duration 0 ms by bot id=8146851047
+INFO:aiogram.dispatcher:Polling stopped

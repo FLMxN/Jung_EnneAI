@@ -1,0 +1,110 @@
+{
+  "sp1": {
+    "socionics_correlation": "only LSE",
+    "psychosophy_correlation": "LVFE or LFVE"
+  },
+  "so1": {
+    "socionics_correlation": "LSE or LIE",
+    "psychosophy_correlation": "VFLE or VLFE or LVFE"
+  },
+  "sx1": {
+    "socionics_correlation": "LSE or LIE",
+    "psychosophy_correlation": "VFLE or VLFE"
+  },
+  "sp2": {
+    "socionics_correlation": "only ESE",
+    "psychosophy_correlation": "FEVL or FELV"
+  },
+  "so2": {
+    "socionics_correlation": "only EIE",
+    "psychosophy_correlation": "VELF or VEFL"
+  },
+  "sx2": {
+    "socionics_correlation": "only ESE",
+    "psychosophy_correlation": "FEVL"
+  },
+  "sp3": {
+    "socionics_correlation": "LSE or LIE",
+    "psychosophy_correlation": "only FVLE"
+  },
+  "so3": {
+    "socionics_correlation": "only LIE",
+    "psychosophy_correlation": "only FLVE"
+  },
+  "sx3": {
+    "socionics_correlation": "only ESE",
+    "psychosophy_correlation": "only FEVL"
+  },
+  "sp4": {
+    "socionics_correlation": "ESI or EII",
+    "psychosophy_correlation": "EFLV or EVFL or EFVL"
+  },
+  "so4": {
+    "socionics_correlation": "EII or IEI",
+    "psychosophy_correlation": "only ELVF"
+  },
+  "sx4": {
+    "socionics_correlation": "only ESI",
+    "psychosophy_correlation": "EFVL or ELVF"
+  },
+  "sp5": {
+    "socionics_correlation": "only ILI",
+    "psychosophy_correlation": "only LFEV"
+  },
+  "so5": {
+    "socionics_correlation": "ILI or LII",
+    "psychosophy_correlation": "LVEF or LFVE"
+  },
+  "sx5": {
+    "socionics_correlation": "IEI or ILI",
+    "psychosophy_correlation": "LEVF or LEFV"
+  },
+  "sp6": {
+    "socionics_correlation": "LII or IEI",
+    "psychosophy_correlation": "LEFV or LFEV"
+  },
+  "so6": {
+    "socionics_correlation": "LII or LSI",
+    "psychosophy_correlation": "LVFE"
+  },
+  "sx6": {
+    "socionics_correlation": "only LSI",
+    "psychosophy_correlation": "LFVE"
+  },
+  "sp7": {
+    "socionics_correlation": "ILE or LIE",
+    "psychosophy_correlation": "VLFE or FLVE"
+  },
+  "so7": {
+    "socionics_correlation": "ILE or LIE",
+    "psychosophy_correlation": "VLFE or VLEF"
+  },
+  "sx7": {
+    "socionics_correlation": "only IEE",
+    "psychosophy_correlation": "only ELFV"
+  },
+  "sp8": {
+    "socionics_correlation": "only SLE",
+    "psychosophy_correlation": "VFLE or VFEL"
+  },
+  "so8": {
+    "socionics_correlation": "only SEE",
+    "psychosophy_correlation": "only VFLE"
+  },
+  "sx8": {
+    "socionics_correlation": "only SEE",
+    "psychosophy_correlation": "VFLE or VFEL"
+  },
+  "sp9": {
+    "socionics_correlation": "only SLI",
+    "psychosophy_correlation": "only FLEV"
+  },
+  "so9": {
+    "socionics_correlation": "SEI or ESE",
+    "psychosophy_correlation": "FELV or FVLE"
+  },
+  "sx9": {
+    "socionics_correlation": "SEI or ESE",
+    "psychosophy_correlation": "only FELV"
+  }
+}

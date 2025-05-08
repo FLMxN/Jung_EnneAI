@@ -1,0 +1,262 @@
+{
+  "Alpha": {
+    "description": "The Alpha quadra values open-mindedness, intellectual exploration, and a positive, relaxed atmosphere. They appreciate theoretical discussions, shared humor, and harmonious social interactions.",
+    "valued_elements": [
+      "Ti",
+      "Fe",
+      "Si",
+      "Ne"
+    ],
+    "types": {
+      "ILE": {
+        "name": "Intuitive Logical Extravert",
+        "original_description": "The ILE (Intuitive Logical Extratim) in Socionics is often described as curious and insightful, with a tendency toward exploring new opportunities and seeking logical connections. They are typically seen as quick thinkers, able to make fast decisions based on abstract patterns and possibilities, but struggling with personal relationships. Cognitive-wise, they excel at processing complex concepts, often jumping between topics in a nonlinear, spontaneous manner. They may come across as scattered or disorganized.",
+        "description_by_flmxn": "Curious mister know-it-all: sarcastic and intellectually charming. Scattered, but constantly planning and reasoning, while jumping between topics/goals.",
+        "associated_with": [
+          "sp7",
+          "so7"
+        ],
+        "lifestyle": "irrational",
+        "base_function": "Extroverted Intuition (Ne): Constantly generates novel ideas and possibilities, thrives on exploring connections between concepts.",
+        "creative_function": "Introverted Thinking (Ti): Uses logic playfully to deconstruct systems, rules or debate ideas and laws, but lacks rigidity.",
+        "vulnerable_function_PoLR": "Introverted Ethics (Fi): Struggles with personal emotional bonds and may appear indifferent to subjective values or loyalty."
+      },
+      "SEI": {
+        "name": "Sensory Ethical Introvert",
+        "original_description": "The SEI (Sensory Ethical Intratim) in Socionics is grounded, calm, and empathetic, often valuing harmony and sensory experiences. They are attuned to their surroundings, often appearing comfortable and at ease in various settings. Cognitive-wise, SEIs excel at understanding and navigating physical pleasures and social dynamics, with a strong awareness of the moment. They tend to focus on the practical and sensory aspects of life, often considering the immediate comfort and well-being of those around them. Their thinking is grounded, avoiding pragmatism and abstractions.",
+        "description_by_flmxn": "Quiet indulgent soul: warm yet evasive, finds peace in comfort and company. Witty in a sleepy way, grounded in vibes over vision.",
+        "associated_with": [
+          "so9",
+          "sx9"
+        ],
+        "lifestyle": "irrational",
+        "base_function": "Introverted Sensing (Si): Focuses on physical comfort, sensory details, and maintaining a calm, stable environment.",
+        "creative_function": "Extroverted Ethics (Fe): Lightheartedly uplifts moods or mediates conflicts, but avoids deep emotional intensity.",
+        "vulnerable_function_PoLR": "Extroverted Thinking (Te): Finds structured planning and impersonal efficiency stressful or overly rigid."
+      },
+      "LII": {
+        "name": "Logical Intuitive Introvert",
+        "original_description": "The LII (Logical Intuitive Intratim) in Socionics is analytical, introspective, and methodical. Cognitive-wise, LIIs are adept at deconstructing complex systems, analyzing information logically, and building structured, objective frameworks. They are more focused on theory and concepts than on practical implementation, often preferring to explore ideas in depth and develop abstract models. They tend to prioritize accuracy and coherence in their thinking, often avoiding emotional or physical influences.",
+        "description_by_flmxn": "Abstracted logic monk: deeply rational and systematic, conflict-avoidant and vaguely annoyed by reality, being one Leetcode problem away from inner peace.",
+        "associated_with": [
+          "so5",
+          "sp6",
+          "so6"
+        ],
+        "lifestyle": "rational",
+        "base_function": "Introverted Thinking (Ti): Excels at analyzing logical frameworks and creating coherent systems of thought.",
+        "creative_function": "Extroverted Intuition (Ne): Generates theoretical possibilities but prioritizes logical consistency over exploration.",
+        "vulnerable_function_PoLR": "Extroverted Sensing (Se): Struggles with assertive action, competition, or adapting to rapidly changing physical demands."
+      },
+      "ESE": {
+        "name": "Ethical Sensory Extravert",
+        "original_description": "The ESE (Ethical Sensory Extratim) in Socionics is warm, expressive, and socially attuned. Cognitive-wise, ESEs excel in understanding social dynamics, fostering relationships, and creating a positive, supportive atmosphere. They are highly attuned to the emotional needs of those around them, often prioritizing harmony and connection. They prefer concrete, sensory experiences and are pragmatic in their approach to navigating society, focusing on immediate, tangible results rather than abstract theories and future.",
+        "description_by_flmxn": "Jovial people-pleaser with a flair for the melodramatic: lives in emotional high-definition, dispensing affection like snacks.",
+        "associated_with": [
+          "so9",
+          "sx9",
+          "sp2",
+          "sx2",
+          "sx3"
+        ],
+        "lifestyle": "rational",
+        "base_function": "Extroverted Ethics (Fe): Naturally attuned to group emotions, skilled at uplifting moods and fostering social harmony.",
+        "creative_function": "Introverted Sensing (Si): Creates cozy atmospheres but prioritizes social energy over meticulous routines.",
+        "vulnerable_function_PoLR": "Introverted Intuition (Ni): Discomfort with long-term abstract predictions or interpreting hidden symbolic meanings."
+      }
+    }
+  },
+  "Beta": {
+    "description": "The Beta quadra emphasizes hierarchy, strategic vision, and expressive emotional dynamics. They are drawn to leadership, drama, and transformative ideas.",
+    "valued_elements": [
+      "Ti",
+      "Fe",
+      "Se",
+      "Ni"
+    ],
+    "types": {
+      "SLE": {
+        "name": "Sensory Logical Extravert",
+        "original_description": "The SLE (Sensory Logical Extratim) in Socionics is assertive, action-oriented, and sensation-driven. Cognitive-wise, SLEs excel at quickly assessing situations and making decisions based on concrete facts and immediate needs, but lack strategy and future-vision. They are goal-oriented, often prioritizing momentarily outcomes over abstract theorizing. They value strength, control, and independence, avoiding belonging and close relationships.",
+        "description_by_flmxn": "Blunt force charisma: fearless, strategic, and occasionally terrifying. Life is a game, and they're the tank.",
+        "associated_with": [
+          "sp8"
+        ],
+        "lifestyle": "irrational",
+        "base_function": "Extroverted Sensing (Se): Directly engages with the physical world, thrives on competition and decisive action.",
+        "creative_function": "Introverted Thinking (Ti): Uses logic strategically to justify actions or dismantle opposition, but isn't dogmatic.",
+        "vulnerable_function_PoLR": "Introverted Ethics (Fi): Struggles to navigate personal emotional boundaries or prioritize individual values over group goals."
+      },
+      "IEI": {
+        "name": "Intuitive Ethical Introvert",
+        "original_description": "The IEI (Intuitive Ethical Intratim) in Socionics is introspective, idealistic, and emotionally attuned. Cognitive-wise, IEIs are highly attuned to emotional and intuitive patterns, excelling at understanding underlying meanings, motivations, and connections in the world around them. They are often more interested in abstract ideas, possibilities, and future potential than in immediate realities and pragmatic possibilities.",
+        "description_by_flmxn": "Dreamy doomsayer: poetic and spaced-out, with prophetic angst and the moodboard to match. Time traveler stuck in a hoodie.",
+        "associated_with": [
+          "so4",
+          "sx5",
+          "sp6"
+        ],
+        "lifestyle": "irrational",
+        "base_function": "Introverted Intuition (Ni): Focuses on symbolic interpretations, future visions, and uncovering hidden patterns.",
+        "creative_function": "Extroverted Ethics (Fe): Expresses emotions artistically or manipulatively, but avoids sustained social intensity.",
+        "vulnerable_function_PoLR": "Extroverted Thinking (Te): Finds rigid systems, impersonal logic, or bureaucratic processes draining and restrictive."
+      },
+      "EIE": {
+        "name": "Ethical Intuitive Extravert",
+        "original_description": "The EIE (Ethical Intuitive Extratim) in Socionics is charismatic, persuasive, and visionary. Cognitive-wise, EIEs excel at understanding and influencing the emotions and motivations of others, using their strong intuition to read situations and people with remarkable accuracy. They are focused on ideas, ideals, and future possibilities, often driven by a vision of what could be and seeking to inspire others to align with that vision. They tend to approach problems from a holistic, ethical perspective, emphasizing psychology and emotions over detached logic or sensory pleasures in the moment.",
+        "description_by_flmxn": "Charismatic cult leader vibes: grand emotional arcs, intense eye contact, orchestrating people like symphonies.",
+        "associated_with": [
+          "so2"
+        ],
+        "lifestyle": "rational",
+        "base_function": "Extroverted Ethics (Fe): Masters emotional expression, using charisma and enthusiasm to motivate others.",
+        "creative_function": "Introverted Intuition (Ni): Crafts compelling narratives about the future, but prioritizes emotional impact over accuracy.",
+        "vulnerable_function_PoLR": "Introverted Sensing (Si): Neglects physical routines or practical comfort, often leading to burnout."
+      },
+        "LSI": {
+          "name": "Logical Sensory Introvert",
+          "original_description": "The LSI (Logical Sensory Intratim) in Socionics is analytical, methodical, and focused on control. Cognitive-wise, LSIs excel at logical analysis, organizing information, and ensuring that systems or processes work effectively and efficiently. They value structure, order, and practical results, often approaching problems with a clear, objective mindset. They are less focused on emotional considerations, preferring to rely on rational authority or own`s power to navigate challenges. LSIs are often concerned with ensuring that things function properly and are highly attuned to detail and reliability, instead of introspection and idealism.",
+          "description_by_flmxn": "Steely-eyed orderbringer: efficient, emotionally constipated, and low-key judgmental. Thinks rules are sexy (still breaks them on his revenge arc).",
+          "associated_with": [
+            "so6",
+            "sx6"
+          ],
+          "lifestyle": "rational",
+          "base_function": "Introverted Thinking (Ti): Builds precise logical systems and adheres to clear principles for decision-making.",
+          "creative_function": "Extroverted Sensing (Se): Enforces rules or hierarchies assertively, but prefers stability over conflict.",
+          "vulnerable_function_PoLR": "Extroverted Intuition (Ne): Resists speculative ideas or unpredictable changes, preferring concrete plans."
+        }
+      }
+    },
+    "Gamma": {
+      "description": "The Gamma quadra focuses on pragmatic action, personal responsibility, and realistic outcomes. They value efficiency, profit and transformative change.",
+      "valued_elements": [
+        "Te",
+        "Fi",
+        "Se",
+        "Ni"
+      ],
+      "types": {
+        "SEE": {
+          "name": "Sensory Ethical Extravert",
+          "original_description": "The SEE (Sensory Ethical Extratim) in Socionics is lively, sociable, and action-oriented. Cognitive-wise, SEEs excel at understanding and dominating social dynamics, often being attuned to the needs and emotions of those around them. They are pragmatic, focusing on the immediate, sensory experiences of the present moment, and are skilled at handling practical tasks with a focus on results. They are motivated by a desire for positive experiences, personal success, and maintaining a sense of control in their social and physical environments in the exact moment.",
+          "description_by_flmxn": "Sparkly bulldozer: primal, stylish, assertive and flirty with menace. Can cheer up a room or wreck it—dealer’s choice.",
+          "associated_with": [
+            "so8",
+            "sx8"
+          ],
+          "lifestyle": "irrational",
+          "base_function": "Extroverted Sensing (Se): Excels in tactical maneuvering, resource acquisition, and adapting to immediate challenges.",
+          "creative_function": "Introverted Ethics (Fi): Uses personal charm or loyalty, but avoids deep emotional analysis.",
+          "vulnerable_function_PoLR": "Introverted Thinking (Ti): Disregards abstract theories or systems that lack practical application."
+        },
+        "ILI": {
+          "name": "Intuitive Logical Introvert",
+          "original_description": "The ILI (Intuitive Logical Intratim) in Socionics is introspective, strategic, and analytical. Cognitive-wise, ILIs excel at synthesizing complex information and developing long-term strategies based on theoretical frameworks. They are highly future-oriented, preferring to explore practical possibilities and potential outcomes rather than dealing with immediate action. They tend to analyze systems, concepts, and relationships from a logical and abstract perspective, avoiding actual emotional engagement.",
+          "description_by_flmxn": "Brooding mind palace dweller: speaks in riddles, predicts collapse, and quietly judges your existential toolkit.",
+          "associated_with": [
+            "sp5",
+            "so5"
+          ],
+          "lifestyle": "irrational",
+          "base_function": "Introverted Intuition (Ni): Specializes in predicting long-term outcomes and identifying systemic flaws.",
+          "creative_function": "Extroverted Thinking (Te): Applies logic pragmatically to achieve goals, but isn't rigidly systematic.",
+          "vulnerable_function_PoLR": "Extroverted Ethics (Fe): Struggles with expressive emotional displays or managing group sentiments."
+        },
+        "LIE": {
+          "name": "Logical Intuitive Extravert",
+          "original_description": "The LIE (Logical Intuitive Extratim) in Socionics is confident, assertive, and goal-oriented. Cognitive-wise, LIEs are often boring/nerdy, but excel at strategic thinking and organizing resources to achieve their objectives. They are logical and analytical, approaching problems with a focus on practicality and long-term outcomes. They value competence and efficiency, while focusing on innovation and future possibilities that may give them material profit. To be 'more efficient', often neglects own`s physica needs, like eating, sleeping or hygiene.",
+          "description_by_flmxn": "Hyperfocused productivity engine: probably networking while making a spreadsheet for world domination.",
+          "associated_with": [
+            "so1",
+            "sx1",
+            "sp3",
+            "so3",
+            "sp7",
+            "so7"
+          ],
+          "lifestyle": "rational",
+          "base_function": "Extroverted Thinking (Te): Prioritizes efficiency, measurable results, and optimizing workflows.",
+          "creative_function": "Introverted Intuition (Ni): Strategizes long-term but focuses on actionable steps over abstract visions.",
+          "demonstrative_function": "Extroverted Intuition (Ne): Generates ideas but dismisses them as distractions.",
+          "vulnerable_function_PoLR": "Introverted Sensing (Si): Overlooks physical well-being or routine maintenance, leading to oversight in practical details."
+        },
+        "ESI": {
+          "name": "Ethical Sensory Introvert",
+          "original_description": "The ESI (Ethical Sensory Intratim) in Socionics is thoughtful, protective, and value-driven. Cognitive-wise, ESIs excel at understanding and preserving personal values, focusing on ethical principles and values of themselves and others. They are highly attuned to the others` power and sensory experiences of the present moment, often prioritizing comfort and security. They tend to avoid conflict, instead seeking ways to ensure security and protect those in their close circle, while valuing personal integrity and consistency in their interactions.",
+          "description_by_flmxn": "Loyal, defensive guardian: morally stubborn, tender in private, and ready to fight you over ethics.",
+          "associated_with": [
+            "sp4",
+            "sx4"
+          ],
+          "lifestyle": "rational",
+          "base_function": "Introverted Ethics (Fi): Deeply committed to personal morals and fostering authentic one-on-one connections.",
+          "creative_function": "Extroverted Sensing (Se): Defends boundaries fiercely but avoids unnecessary conflict.",
+          "vulnerable_function_PoLR": "Extroverted Intuition (Ne): Distrusts speculative ideas or unpredictable possibilities, preferring tried-and-true methods."
+        }
+      }
+    },
+    "Delta": {
+      "description": "The Delta quadra values personal growth, ethical integrity, and collaborative efforts. They appreciate stability, meaningful relationships, and practical knowledge.",
+      "valued_elements": [
+        "Te",
+        "Fi",
+        "Si",
+        "Ne"
+      ],
+      "types": {
+        "IEE": {
+          "name": "Intuitive Ethical Extravert",
+          "original_description": "The IEE (Intuitive Ethical Extratim) in Socionics is enthusiastic, imaginative, and emotionally attuned. Cognitive-wise, IEEs excel at keeping fun atmosphere and understanding emotional needs of others, often navigating social dynamics with ease. They are future-oriented and imaginative, constantly exploring new ideas and possibilities. They prioritize personal connections and value the potential for growth in relationships and experiences. Their thinking tends to focus on abstract concepts and the exploration of ideals, often looking for deeper meaning and the potential for personal or collective evolution.",
+          "description_by_flmxn": "Chaotic manic pixie dream diplomat: empathizing mid-tangent, offering 8 games instead of a solution and probably laughing all the way.",
+          "associated_with": [
+            "sx7"
+          ],
+          "lifestyle": "irrational",
+          "base_function": "Extroverted Intuition (Ne): Generates diverse possibilities and connects people/ideas in unconventional ways.",
+          "creative_function": "Introverted Ethics (Fi): Advocates for individual authenticity but avoids moralizing.",
+          "vulnerable_function_PoLR": "Introverted Thinking (Ti): Avoids rigid logical frameworks, perceiving them as limiting creativity."
+        },
+        "SLI": {
+          "name": "Sensory Logical Introvert",
+          "original_description": "The SLI (Sensory Logical Intratim) in Socionics is practical, reliable, and grounded. Cognitive-wise, SLIs excel at managing the sensory and practical aspects of life (like food and routine), paying close attention to details and ensuring that tasks are completed effectively. They are highly attuned to their environment and tend to focus on real-world, tangible results. They prefer to operate in familiar, predictable settings and value practicality over abstract concepts or emotional engagement. SLIs prioritize comfort, security, and functionality, often seeking to create a stable, harmonious environment for themselves and others.",
+          "description_by_flmxn": "Chill handyman Buddha: less words, more practicality. Could fix your sink and laugh over brainrot joke in the same afternoon.",
+          "associated_with": [
+            "sp9"
+          ],
+          "lifestyle": "irrational",
+          "base_function": "Introverted Sensing (Si): Values practical skills, routine, and tangible improvements to daily life.",
+          "creative_function": "Extroverted Thinking (Te): Optimizes systems for efficiency but dislikes over-complication.",
+          "vulnerable_function_PoLR": "Extroverted Ethics (Fe): Feels overwhelmed by intense emotional displays or social obligations."
+        },
+        "LSE": {
+          "name": "Logical Sensory Extravert",
+          "original_description": "The LSE (Logical Sensory Extratim) in Socionics is efficient, pragmatic, and results-driven. Cognitive-wise, LSEs excel at organizing tasks, managing resources, and ensuring that systems run smoothly. They approach problems with a logical, structured mindset, always looking for the most effective and efficient solutions. They are highly attuned to the practical needs of their environment and tend to prioritize concrete, immediate results over abstract theories or long-term possibilities. LSEs value stability, order, and productivity, often taking charge in situations that require clear, rational decision-making and efficient execution.",
+          "description_by_flmxn": "Gruff dad-like logistics warlord: competent to a fault, allergic to inefficiency, and likely hates your vibe.",
+          "associated_with": [
+            "sp1",
+            "so1",
+            "sx1",
+            "sp3"
+          ],
+          "lifestyle": "rational",
+          "base_function": "Extroverted Thinking (Te): Excels at organizing workflows, setting clear goals, and achieving measurable outcomes.",
+          "creative_function": "Introverted Sensing (Si): Ensures practical reliability but prioritizes productivity over comfort.",
+          "vulnerable_function_PoLR": "Introverted Intuition (Ni): Skeptical of abstract predictions, preferring data-driven and immediate solutions."
+        },
+        "EII": {
+          "name": "Ethical Intuitive Introvert",
+          "original_description": "The EII (Ethical Intuitive Intratim) in Socionics is introspective, empathetic, and idealistic. Cognitive-wise, EIIs excel at understanding personal values, human motivations, and the emotional undercurrents of situations. They tend to focus on abstract concepts and ideals, often prioritizing ethical considerations and the pursuit of personal authenticity. They are highly empathetic, attuned to the emotional needs of others, and are driven by a strong sense of personal integrity and the desire for meaningful, harmonious relationships. They may shy away from conflict, instead seeking understanding and resolution based on shared values.",
+          "description_by_flmxn": "Soft-spoken romantic moral compass: slow but deliberate, often emotionally tangled in everyone’s (including themselves) problems.",
+          "associated_with": [
+            "sp4",
+            "so4"
+          ],
+          "lifestyle": "rational",
+          "base_function": "Introverted Ethics (Fi): Prioritizes authenticity, empathy, and aligning actions with internal moral principles.",
+          "creative_function": "Extroverted Intuition (Ne): Explores ideals or humanitarian possibilities but grounds them in ethics.",
+          "vulnerable_function_PoLR": "Extroverted Sensing (Se): Avoids confrontational or competitive environments, preferring calm cooperation."
+        }
+      }
+    }
+}
