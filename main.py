@@ -159,42 +159,42 @@ async def kin(message: Message) -> None:
         json.dump(user_data, f, indent=4, ensure_ascii=False)
 
 
-@dp.message(Command('types'))
-async def kin(message: Message) -> None:
-    logging.info(msg="Request received from user_id: " + str(message.from_user.id))
-    os.makedirs("memory", exist_ok=True)
-
-    user_file = f"memory/{message.from_user.id}.json"
-    user_template = {"kin_list": "Not specified (don`t mention it)", "bio": "Not specified (don`t mention it)",
-                     "types": "Not specified (don`t mention it)"}
-
-    try:
-        # Try to load existing user data
-        with open(user_file, 'r', encoding='utf-8') as f:
-            user_data = json.load(f)
-    except FileNotFoundError:
-        # If file doesn't exist, create with template
-        with open(user_file, 'w', encoding='utf-8') as f:
-            json.dump(user_template, f, indent=4, ensure_ascii=False)
-        user_data = user_template.copy()
-    except json.JSONDecodeError:
-        # If file is corrupted, overwrite with template
-        with open(user_file, 'w', encoding='utf-8') as f:
-            json.dump(user_template, f, indent=4, ensure_ascii=False)
-        user_data = user_template.copy()
-
-    # Process kin list if command has arguments
-    if len(message.text.split()) > 1:
-        types = message.text.split(maxsplit=1)[1].split(" ")
-        types = [types.strip() for types in types if types.strip()]
-        user_data["types"] = str(types)
-        await message.reply("Твои типологии обновлены!")
-    else:
-        await message.reply(str(user_data["types"]))
-
-    # Save updated data
-    with open(user_file, 'w', encoding='utf-8') as f:
-        json.dump(user_data, f, indent=4, ensure_ascii=False)
+# @dp.message(Command('types'))
+# async def kin(message: Message) -> None:
+#     logging.info(msg="Request received from user_id: " + str(message.from_user.id))
+#     os.makedirs("memory", exist_ok=True)
+#
+#     user_file = f"memory/{message.from_user.id}.json"
+#     user_template = {"kin_list": "Not specified (don`t mention it)", "bio": "Not specified (don`t mention it)",
+#                      "types": "Not specified (don`t mention it)"}
+#
+#     try:
+#         # Try to load existing user data
+#         with open(user_file, 'r', encoding='utf-8') as f:
+#             user_data = json.load(f)
+#     except FileNotFoundError:
+#         # If file doesn't exist, create with template
+#         with open(user_file, 'w', encoding='utf-8') as f:
+#             json.dump(user_template, f, indent=4, ensure_ascii=False)
+#         user_data = user_template.copy()
+#     except json.JSONDecodeError:
+#         # If file is corrupted, overwrite with template
+#         with open(user_file, 'w', encoding='utf-8') as f:
+#             json.dump(user_template, f, indent=4, ensure_ascii=False)
+#         user_data = user_template.copy()
+#
+#     # Process kin list if command has arguments
+#     if len(message.text.split()) > 1:
+#         types = message.text.split(maxsplit=1)[1].split(" ")
+#         types = [types.strip() for types in types if types.strip()]
+#         user_data["types"] = str(types)
+#         await message.reply("Твои типологии обновлены!")
+#     else:
+#         await message.reply(str(user_data["types"]))
+#
+#     # Save updated data
+#     with open(user_file, 'w', encoding='utf-8') as f:
+#         json.dump(user_data, f, indent=4, ensure_ascii=False)
 
 
 @dp.message()
