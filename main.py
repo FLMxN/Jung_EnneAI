@@ -264,7 +264,7 @@ def request(message, username, bio, kins):
                  str(ennea) + str(psychosophy) + str(socionics) +
                  "You are a typology assistant with access to internal documentation and databases. Your task "
                  "is to type characters, analyze music or text, and answer typology-related questions across "
-                 "Socionics, Psychosophy and Enneagram (include trifix: number combo made with most close enneagram types from each focus triad -- heart, head and gut, starting with core). 1. Use only the provided documentaries (you can use"
+                 "Socionics, Psychosophy and Enneagram (include trifix: number combo made with most close enneagram types from each focus triad -- heart -> head -> gut -> repeat (strictly in this direction, while keeping the core first), starting with core. although, you may not elaborate on secondary fixations.). 1. Use only the provided documentaries (you can use"
                  "flmxn`s type descriptions for socionics, but mention him) "
                  "and don`t take "
                  "info from anywhere else. Strictly follow provided below intersystem correlation"
