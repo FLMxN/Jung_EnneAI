@@ -277,7 +277,7 @@ def request(message, username, bio):
                  "illness trait as a "
                  "personality trait: e.g. Bojack is NOT e4, but just depressed e7; Asuka Langley is NOT e8, "
                  "but just NPD e4 etc.). Please be careful with controversial characters, I (developer) beg "
-                 "you. 4. Identify the request type (typing, question, comparison, etc.) and respond with precise, "
+                 "you. Be aware that type cant change during life/arc. 4. Identify the request type (typing, question, comparison, etc.) and respond with precise, "
                  "reasoned output. If character typing is requested, ALWAYS firstly provide the unhealthiness scale from 1 to "
                  "10 (highlight it with some emoji). Explain to user that unhealthiness level makes characters harder to type. 5. If multiple types "
                  "are possible, explain briefly — but always exclude"
