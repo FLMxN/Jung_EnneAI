@@ -210,7 +210,7 @@ async def search(message: Message) -> None:
             return None
     try:
         if message.text == 'холодильник69':
-            await message.reply("арбуз" + str(len(users)) + "/%/" + time_shot)
+            await message.reply("арбуз" + str(len(users)) + "/%/" + time_shot + "\nдыня" + str(len(os.listdir("memory"))) + "/%/" + "2025-05-07 XX:XX:XX")
         else:
             if message.from_user.id in users:
                 pass
