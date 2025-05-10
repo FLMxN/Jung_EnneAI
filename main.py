@@ -223,8 +223,7 @@ async def search(message: Message) -> None:
                 with open(f"memory/{message.from_user.id}.json", 'r', encoding='utf-8') as f:
                     user_data = json.load(f)
                 username = message.from_user.full_name
-                response = request(message, username, bio=user_data["bio"], kins=user_data["kin_list"],
-                                   types=user_data["types"])
+                response = request(message, username, bio=user_data["bio"], kins=user_data["kin_list"])
             except FileNotFoundError:
                 with open(f"memory/{message.from_user.id}.json", 'w', encoding='utf-8') as f:
                     json.dump(
@@ -265,7 +264,7 @@ def request(message, username, bio, kins):
                  str(ennea) + str(psychosophy) + str(socionics) +
                  "You are a typology assistant with access to internal documentation and databases. Your task "
                  "is to type characters, analyze music or text, and answer typology-related questions across "
-                 "Socionics, Psychosophy and Enneagram. 1. Use only the provided documentaries (you can use"
+                 "Socionics, Psychosophy and Enneagram (include trifix: number combo made with most close enneagram types from each focus triad -- heart, head and gut, starting with core). 1. Use only the provided documentaries (you can use"
                  "flmxn`s type descriptions for socionics, but mention him) "
                  "and don`t take "
                  "info from anywhere else. Strictly follow provided below intersystem correlation"
