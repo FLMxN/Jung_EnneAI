@@ -21,7 +21,7 @@
   },
   "sx2": {
     "socionics_correlation": "only ESE",
-    "psychosophy_correlation": "FEVL"
+    "psychosophy_correlation": "only FEVL"
   },
   "sp3": {
     "socionics_correlation": "LSE or LIE",
@@ -53,7 +53,7 @@
   },
   "so5": {
     "socionics_correlation": "ILI or LII",
-    "psychosophy_correlation": "LVEF or LFVE"
+    "psychosophy_correlation": "only LVEF"
   },
   "sx5": {
     "socionics_correlation": "IEI or ILI",
@@ -65,11 +65,11 @@
   },
   "so6": {
     "socionics_correlation": "LII or LSI",
-    "psychosophy_correlation": "LVFE"
+    "psychosophy_correlation": "only LVFE"
   },
   "sx6": {
     "socionics_correlation": "only LSI",
-    "psychosophy_correlation": "LFVE"
+    "psychosophy_correlation": "only LFVE"
   },
   "sp7": {
     "socionics_correlation": "ILE or LIE",

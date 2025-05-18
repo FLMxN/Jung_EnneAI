@@ -1,12 +1,12 @@
 {
   "typing_examples": [
     {
-      "name": "Hannibal Lecter",
+      "name": "Makima",
       "typology": "EIE so2-51 VELF",
       "arguments": {
-        "socionics": "EIE: Dramatic, intense, and masterful at emotional manipulation. Hannibal's charismatic persona and ability to read/control others' emotions perfectly fit the Ethical-Intuitive Extrovert.",
-        "enneagram": "so2: 'Social Conqueror' subtype, using charm and intellect to draw people in while maintaining hidden motives. His nurturing facade (as a psychiatrist) masks predatory instincts.",
-        "psychosophy": "VELF (1V, 2E, 3L, 4F): Rationalizes his actions through a self-created moral code. His aestheticism and sensory indifference manifest in gourmet cannibalism, while his manupulativeness and social image justify his philosophy."
+        "socionics": "EIE: Dramatic, intense, and masterful at emotional manipulation. Makima's charismatic persona and ability to read/control others' emotions perfectly fit the Ethical-Intuitive Extrovert.",
+        "enneagram": "so2: 'Social Conqueror' subtype, using charm and intellect to draw people in while maintaining hidden motives. Her nurturing facade masks true intent.",
+        "psychosophy": "VELF (1V, 2E, 3L, 4F): Rationalizes her actions through a self-righteous outlook. Her aestheticism, sensory indifference and manupulativeness in social image justify her philosophy."
       }
     },
     {
@@ -55,23 +55,23 @@
       }
     },
     {
-      "name": "Donald Trump",
-      "typology": "SLE sp8-37 VFLE",
+      "name": "Toji Fushiguro",
+      "typology": "SLE sp8-47 VFEL",
       "arguments": {
         "socionics": "SLE: Assertive, strategic, focused on power and dominance. His transactional worldview and instinct for competition are hallmarks of the Sensory-Logical Extrovert.",
-        "enneagram": "sp8: 'Survivalist' subtype, embodying drive for control manifests in his business and political tactics. The 'Might Makes Right' philosophy and constant boundary-testing are textbook sp8.",
-        "psychosophy": "VFLE (1V, 2F, 3L, 4E): Outgoing dominant charisma, pragmatic focus on material results, competitive and questionable logic, emotional recklessness create his signature combative yet engaging style."
+        "enneagram": "sp8: 'Survivalist' subtype, embodying drive for control manifests in his business and resourceful tactics. The 'Might Makes Right' philosophy and boundary-testing are textbook sp8.",
+        "psychosophy": "VFEL (1V, 2F, 3E, 4L): Heavy dominant charisma, pragmatic focus on material results, competitive and questionable logic, emotional recklessness create his signature combative yet engaging style."
       }
     },
     {
-  "name": "James McGill/Saul Goodman",
-  "typology": "ILE sp7-93 FLVE",
-  "arguments": {
-    "socionics": "ILE: Rapid conceptual thinking, improvisational problem-solving, and Ne-driven scheming. Thrives on intellectual loopholes and adaptive 'clever guy' personas.",
-    "enneagram": "sp7: 'Chaotic Charlatan' subtype anxiety channeled into hustles and silver-tongued reframing. Uses charm/denial to bypass consequences, framing survival as 'winning' through mental gymnastics.",
-    "psychosophy": "FLVE (1F, 2L, 3V, 4E): Survival-first pragmatism, self-justifying logics, fluid self-presentation and chaotic emotional outbursts fuel his chameleonic grifts."
-    }
-  },
+    "name": "James McGill/Saul Goodman",
+    "typology": "ILE sp7-93 FLVE",
+    "arguments": {
+      "socionics": "ILE: Rapid conceptual thinking, improvisational problem-solving, and Ne-driven scheming. Thrives on intellectual loopholes and adaptive 'clever guy' personas.",
+      "enneagram": "sp7: 'Chaotic Charlatan' subtype anxiety channeled into hustles and silver-tongued reframing. Uses charm/denial to bypass consequences, framing survival as 'winning' through mental gymnastics.",
+      "psychosophy": "FLVE (1F, 2L, 3V, 4E): Survival-first pragmatism, self-justifying logics, fluid self-presentation and chaotic emotional outbursts fuel his chameleonic grifts."
+      }
+    },
     {
       "name": "Naked Snake/Big Boss",
       "typology": "LIE so7-13 VLFE",
@@ -146,11 +146,11 @@
     },
     {
       "name": "Rohan Kishibe",
-      "typology": "ILI so5-13 LFVE",
+      "typology": "ILI so5-13 LVEF",
       "arguments": {
         "socionics": "ILI: Strategic analyst prioritizing Ni/Te. Rohan's detached observation of humanity and narrative manipulation exemplify Ni-base's future forecasting.",
         "enneagram": "so5: 'Ivory Tower' subtype. His artistic elitism and emotional detachment reflect 5's fear of helplessness through specialization.",
-        "psychosophy": "LFVE (1L, 2F, 3V, 4E): Knowledge-hoarding, physically skilled/flexible, socially/competently insecure and emotionally chameleon."
+        "psychosophy": "LVEF (1L, 2V, 3E, 4F): Knowledge-hoarding, physically indifferent, emotionally insecure and socially conformist."
       }
     },
     {

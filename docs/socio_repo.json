@@ -11,7 +11,7 @@
       "ILE": {
         "name": "Intuitive Logical Extravert",
         "original_description": "The ILE (Intuitive Logical Extratim) in Socionics is often described as curious and insightful, with a tendency toward exploring new opportunities and seeking logical connections. They are typically seen as quick thinkers, able to make fast decisions based on abstract patterns and possibilities, but struggling with personal relationships. Cognitive-wise, they excel at processing complex concepts, often jumping between topics in a nonlinear, spontaneous manner.",
-        "description_by_flmxn": "Curious mister know-it-all: sarcastic and intellectually charming. Inquisitive, constantly planning and reasoning, while jumping between topics/goals.",
+        "description_by_flmxn": "Curious mister know-it-all: sarcastic and intellectually charming visionary. Inquisitive and chill, constantly planning and reasoning, while jumping between topics/goals.",
         "associated_with": [
           "sp7",
           "so7"
@@ -231,8 +231,8 @@
         },
         "LSE": {
           "name": "Logical Sensory Extravert",
-          "original_description": "The LSE (Logical Sensory Extratim) in Socionics is efficient, pragmatic, and results-driven. Cognitive-wise, LSEs excel at organizing tasks, managing resources, and ensuring that systems run smoothly. They approach problems with a logical, structured mindset, always looking for the most effective and efficient solutions. They are highly attuned to the practical needs of their environment and tend to prioritize concrete, immediate results over abstract theories or long-term possibilities. LSEs value stability, order, and productivity, often taking charge in situations that require clear, rational decision-making and efficient execution.",
-          "description_by_flmxn": "Gruff dad-like logistics warlord: competent to a fault, allergic to inefficiency, and likely hates your vibe.",
+          "original_description": "The LSE (Logical Sensory Extratim) in Socionics is efficient, pragmatic, and results-driven. Cognitive-wise, LSEs excel at organizing tasks, managing resources, and ensuring that systems run smoothly. They approach problems with a logical, structured mindset, always looking for the most effective and efficient solutions. They are highly attuned to the practical needs and tend to prioritize concrete, immediate results over abstract theories or long-term possibilities. LSEs value stability, order, and productivity, often taking charge in situations that require clear, rational decision-making and efficient execution.",
+          "description_by_flmxn": "Stubborn grumpy logistics warlord: competent to a fault, allergic to inefficiency, and likely hates your vibe.",
           "associated_with": [
             "sp1",
             "so1",
