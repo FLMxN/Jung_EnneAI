@@ -19,10 +19,10 @@
       "focus": "Gut-centered",
       "archetype": "The Conscience",
       "traits": [
-        "disciplined",
+        "simple and disciplined",
         "full of repressed anger",
         "private conscience",
-        "submissive and shy",
+        "submissive and compliant",
         "self-restraining",
         "overly practical and grounded",
         "efficiency-driven",
@@ -30,19 +30,20 @@
         "anti-intuitive"
       ],
       "anti_traits": [
-        "impulsive",
+        "complex or impulsive",
         "loudly moralizing",
         "hedonistic",
         "reckless",
         "attention-hungry",
-        "power-hungry",
+        "rebellious",
         "calculating or plotting",
         "charismatic or manipulative"
       ],
       "often_confused_with": [
         "sp4",
         "so6",
-        "sp3"
+        "sp3",
+        "so7"
       ],
       "neurosis": "Fear of imperfection enforces rigid self-discipline, suppressing impulses to maintain moral purity.",
       "childhood": "Felt love was conditional upon being 'good' or perfect, leading to internalized anger and self-criticism."
@@ -54,10 +55,10 @@
       "traits": [
         "principled narcissist",
         "revolutionary reformer",
-        "idealistic and authoritarian",
+        "punishing and authoritarian",
         "serious moral leader",
         "corrective of society",
-        "sincere and virtue-signaling",
+        "honest and virtue-signaling",
         "self-righteous and machiavellian",
         "efficiency-driven"
       ],
@@ -566,10 +567,10 @@
         "future planner and strategist",
         "escapes through stimulation",
         "deceitful and gluttonous",
-        "prone to build alliances",
+        "prone to build alliances/families",
         "may be cynical or charismatic",
         "curiously avoids boredom",
-        "charlatanism",
+        "charlatanic trickster",
         "intellectual narcissist"
       ],
       "anti_traits": [
@@ -594,24 +595,23 @@
       "archetype": "The Pharisaism",
       "traits": [
         "hyper-intellectual",
-        "saint-like, but schizoid",
         "divine machinery",
         "false altruist",
         "visionary mastermind",
         "abstract narcissist",
         "ascetic and idealistic",
-        "charlatanism",
+        "charlatanic trickster",
         "curiously avoids boredom",
-        "rebellious"
+        "rebellious and willful"
       ],
       "anti_traits": [
-        "devious",
         "emotional",
         "grounded",
-        "empathy-focused",
-        "self-doubting"
+        "pointless",
+        ""
       ],
       "often_confused_with": [
+        "sp1",
         "so1",
         "so2",
         "so5"
@@ -625,11 +625,11 @@
       "archetype": "The Imagination",
       "traits": [
         "idealistic, but humble",
-        "curious and silly",
+        "curious and scattered",
         "romantic escapist",
         "playfully seductive",
         "spontaneous connector",
-        "charlatanism",
+        "charlatanic trickster",
         "curiously avoids boredom",
         "extraverted",
         "anti-sensory"

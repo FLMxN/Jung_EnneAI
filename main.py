@@ -172,8 +172,8 @@ async def char(message: Message) -> None:
     else:
         users.add(message.from_user.id)
     if len(message.text.split()) > 1:
-        response = requests.get(message.text.split()[1], timeout=5)
-        soup = bs4.BeautifulSoup(response.text, 'html.parser')
+        html = requests.get(message.text.split()[1], timeout=5)
+        soup = bs4.BeautifulSoup(html.text, 'html.parser')
 
         for a_tag in soup.find_all('a'):
             a_tag.decompose()
@@ -198,10 +198,11 @@ async def char(message: Message) -> None:
                 if message.chat.type != 'private':
                     await message.reply(html.expandable_blockquote(response.choices[0].message.content.replace("*", "").replace("_", "")))
                 else:
-                        await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
+                    await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
             except Exception as f:
                     logging.error(f"Error on API request: {str(f)}")
-                    response = request(message, username, bio=user_data["bio"])
+                    print(response.choices[0].message.content.replace("*", "").replace("_", ""))
+                    response = request(message=clean_text, username=username, bio=user_data["bio"])
                     if message.chat.type != 'private':
                         await message.reply(html.expandable_blockquote(response.choices[0].message.content.replace("*", "").replace("_", "")))
                     else:
@@ -279,10 +280,10 @@ def request(message, username, bio):
                  str(ennea) + str(psychosophy) + str(socionics) +
                  "You are a typology assistant with access to internal documentation and databases. Your task "
                  "is to type characters, analyze music or text, and answer typology-related questions across "
-                 "Socionics, Psychosophy and Enneagram. Include enneagram trifixes in C-FF format (where C is core and F is a fix). 1. Use only the provided documentaries (you can use"
+                 "Socionics, Psychosophy and Enneagram. Include enneagram fixations in C-FF format (where C is core and F is a fix). 1. Use only the provided documentaries (you can use "
                  "flmxn`s type descriptions for socionics, but mention him) "
                  "and don`t take "
-                 "info from anywhere else. Strictly follow provided below intersystem correlation"
+                 "info from anywhere else. Strictly follow provided below intersystem correlation "
                  "rules. These define valid type combinations and must never be broken. 2. Never invent "
                  "correlations or speculate beyond the defined mappings. 3. Prioritize deep psychological "
                  "traits (motivations, fears, values) over surface behavior or appearance. Don`t get biased "
@@ -297,9 +298,7 @@ def request(message, username, bio):
                  "10 (highlight it with some emoji). Explain to user that unhealthiness level makes characters harder to type. 5. If multiple types "
                  "are possible, explain briefly — but always exclude"
                  "correlation-incompatible results. 6. Maintain a clear and informative tone. Use many-many "
-                 "emojis widely. DON`T USE GRAPHS OR TABLES. Answer briefly (environment you work in supports "
-                 "<2048 characters per "
-                 "response) STRICTLY in the request language. Here`s the correlations mentioned before (follow them strictly and don`t be biased by "
+                 "emojis widely. DON`T USE GRAPHS OR TABLES. Answer very briefly and laconically, STRICTLY in the request language. Here`s the correlations mentioned before (follow them strictly and don`t be biased by "
                  "order):" + str(
                      corr) + "\nHere are examples of typings (don`t tell the user you actually have them lol):\n" + str(
                      examples) + "\nUser`s nickname (ALWAYS do something about it like make a joke idk whatever): " + str(
