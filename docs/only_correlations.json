@@ -1,16 +1,4 @@
 {
-  "sp1": {
-    "socionics_correlation": "only LSE",
-    "psychosophy_correlation": "LVFE or LFVE"
-  },
-  "so1": {
-    "socionics_correlation": "LSE or LIE",
-    "psychosophy_correlation": "VFLE or VLFE or LVFE"
-  },
-  "sx1": {
-    "socionics_correlation": "LSE or LIE",
-    "psychosophy_correlation": "VFLE or VLFE"
-  },
   "sp2": {
     "socionics_correlation": "only ESE",
     "psychosophy_correlation": "FEVL or FELV"
@@ -106,5 +94,17 @@
   "sx9": {
     "socionics_correlation": "SEI or ESE",
     "psychosophy_correlation": "only FELV"
+  },
+  "sp1": {
+    "socionics_correlation": "only LSE",
+    "psychosophy_correlation": "LVFE or LFVE"
+  },
+  "so1": {
+    "socionics_correlation": "LSE or LIE",
+    "psychosophy_correlation": "VFLE or VLFE or LVFE"
+  },
+  "sx1": {
+    "socionics_correlation": "LSE or LIE",
+    "psychosophy_correlation": "VFLE or VLFE"
   }
 }

@@ -419,7 +419,7 @@
       ],
       "anti_traits": [
         "rebellious",
-        "independent to a fault",
+        "independent",
         "apathetic",
         "chaotic",
         "emotionally unstable",
@@ -467,7 +467,7 @@
     {
       "enneagram": "sp7",
       "focus": "Head-centered",
-      "archetype": "The Gluttony",
+      "archetype": "The Family",
       "traits": [
         "future planner and strategist",
         "charlatanic trickster",
@@ -786,11 +786,11 @@
       "archetype": "The Righteousness",
       "traits": [
         "principled narcissist",
-        "revolutionary reformer",
         "punishing and authoritarian",
-        "serious moral leader",
+        "serious moral imposer",
         "corrective of society",
-        "honest and virtue-signaling",
+        "defies ethics",
+        "brutally honest and virtue-signaling",
         "self-righteous and machiavellian",
         "efficiency-driven"
       ],
@@ -798,6 +798,7 @@
         "doubtful",
         "socially passive",
         "reckless",
+        "trickster",
         "ambivalent",
         "socially slippery"
       ],

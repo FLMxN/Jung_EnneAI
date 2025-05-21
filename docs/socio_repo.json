@@ -16,7 +16,6 @@
           "sp7",
           "so7"
         ],
-        "lifestyle": "irrational",
         "base_function": "Extroverted Intuition (Ne): Constantly generates novel ideas and possibilities, thrives on exploring connections between concepts.",
         "creative_function": "Introverted Thinking (Ti): Uses logic playfully to deconstruct systems, rules or debate ideas and laws, but lacks rigidity.",
         "vulnerable_function_PoLR": "Introverted Ethics (Fi): Struggles with personal emotional bonds and may appear indifferent to subjective values or loyalty."
@@ -29,7 +28,6 @@
           "so9",
           "sx9"
         ],
-        "lifestyle": "irrational",
         "base_function": "Introverted Sensing (Si): Focuses on physical comfort, sensory details, and maintaining a calm, stable environment.",
         "creative_function": "Extroverted Ethics (Fe): Lightheartedly uplifts moods or mediates conflicts, but avoids deep emotional intensity.",
         "vulnerable_function_PoLR": "Extroverted Thinking (Te): Finds structured planning and impersonal efficiency stressful or overly rigid."
@@ -43,7 +41,6 @@
           "sp6",
           "so6"
         ],
-        "lifestyle": "rational",
         "base_function": "Introverted Thinking (Ti): Excels at analyzing logical frameworks and creating coherent systems of thought.",
         "creative_function": "Extroverted Intuition (Ne): Generates theoretical possibilities but prioritizes logical consistency over exploration.",
         "vulnerable_function_PoLR": "Extroverted Sensing (Se): Struggles with assertive action, competition, or adapting to rapidly changing physical demands."
@@ -59,7 +56,6 @@
           "sx2",
           "sx3"
         ],
-        "lifestyle": "rational",
         "base_function": "Extroverted Ethics (Fe): Naturally attuned to group emotions, skilled at uplifting moods and fostering social harmony.",
         "creative_function": "Introverted Sensing (Si): Creates cozy atmospheres but prioritizes social energy over meticulous routines.",
         "vulnerable_function_PoLR": "Introverted Intuition (Ni): Discomfort with long-term abstract predictions or interpreting hidden symbolic meanings."
@@ -82,7 +78,6 @@
         "associated_with": [
           "sp8"
         ],
-        "lifestyle": "irrational",
         "base_function": "Extroverted Sensing (Se): Directly engages with the physical world, thrives on competition and decisive action.",
         "creative_function": "Introverted Thinking (Ti): Uses logic strategically to justify actions or dismantle opposition, but isn't dogmatic.",
         "vulnerable_function_PoLR": "Introverted Ethics (Fi): Struggles to navigate personal emotional boundaries or prioritize individual values over group goals."
@@ -96,7 +91,6 @@
           "sx5",
           "sp6"
         ],
-        "lifestyle": "irrational",
         "base_function": "Introverted Intuition (Ni): Focuses on symbolic interpretations, future visions, and uncovering hidden patterns.",
         "creative_function": "Extroverted Ethics (Fe): Expresses emotions artistically or manipulatively, but avoids sustained social intensity.",
         "vulnerable_function_PoLR": "Extroverted Thinking (Te): Finds rigid systems, impersonal logic, or bureaucratic processes draining and restrictive."
@@ -108,7 +102,6 @@
         "associated_with": [
           "so2"
         ],
-        "lifestyle": "rational",
         "base_function": "Extroverted Ethics (Fe): Masters emotional expression, using charisma and enthusiasm to motivate others.",
         "creative_function": "Introverted Intuition (Ni): Crafts compelling narratives about the future, but prioritizes emotional impact over accuracy.",
         "vulnerable_function_PoLR": "Introverted Sensing (Si): Neglects physical routines or practical comfort, often leading to burnout."
@@ -121,7 +114,6 @@
             "so6",
             "sx6"
           ],
-          "lifestyle": "rational",
           "base_function": "Introverted Thinking (Ti): Builds precise logical systems and adheres to clear principles for decision-making.",
           "creative_function": "Extroverted Sensing (Se): Enforces rules or hierarchies assertively, but prefers stability over conflict.",
           "vulnerable_function_PoLR": "Extroverted Intuition (Ne): Resists speculative ideas or unpredictable changes, preferring concrete plans."
@@ -145,7 +137,6 @@
             "so8",
             "sx8"
           ],
-          "lifestyle": "irrational",
           "base_function": "Extroverted Sensing (Se): Excels in tactical maneuvering, resource acquisition, and adapting to immediate challenges.",
           "creative_function": "Introverted Ethics (Fi): Uses personal charm or loyalty, but avoids deep emotional analysis.",
           "vulnerable_function_PoLR": "Introverted Thinking (Ti): Disregards abstract theories or systems that lack practical application."
@@ -158,14 +149,13 @@
             "sp5",
             "so5"
           ],
-          "lifestyle": "irrational",
           "base_function": "Introverted Intuition (Ni): Specializes in predicting long-term outcomes and identifying systemic flaws.",
           "creative_function": "Extroverted Thinking (Te): Applies logic pragmatically to achieve goals, but isn't rigidly systematic.",
           "vulnerable_function_PoLR": "Extroverted Ethics (Fe): Struggles with expressive emotional displays or managing group sentiments."
         },
         "LIE": {
           "name": "Logical Intuitive Extravert",
-          "original_description": "The LIE (Logical Intuitive Extratim) in Socionics is confident, assertive, and goal-oriented. Tends to be authoritative in leadership. Cognitive-wise, LIEs are often boring/nerdy, but excel at strategic thinking and organizing resources to achieve their objectives. They are logical and analytical, approaching problems with a focus on practicality and long-term outcomes. They value competence and efficiency, while focusing on innovation and future possibilities that may give them material profit. To be 'more efficient', often neglects own`s physical needs, like eating, sleeping or hygiene.",
+          "original_description": "The LIE (Logical Intuitive Extratim) in Socionics is confident, assertive, and goal-oriented. Tends to be authoritative and commanding in leadership. Cognitive-wise, LIEs are often boring/nerdy, but excel at strategic thinking and organizing resources to achieve their objectives. They are logical and analytical, approaching problems with a focus on practicality and long-term outcomes. They value competence and efficiency, while focusing on innovation and future possibilities that may give them material profit. To be 'more efficient', often neglects own`s physical needs, like eating, sleeping or hygiene.",
           "description_by_flmxn": "Hyperfocused productivity engine: probably never showers while making a spreadsheet for world domination.",
           "associated_with": [
             "so1",
@@ -175,7 +165,6 @@
             "sp7",
             "so7"
           ],
-          "lifestyle": "rational",
           "base_function": "Extroverted Thinking (Te): Prioritizes efficiency, measurable results, and optimizing workflows.",
           "creative_function": "Introverted Intuition (Ni): Strategizes long-term but focuses on actionable steps over abstract visions.",
           "demonstrative_function": "Extroverted Intuition (Ne): Generates ideas but dismisses them as distractions.",
@@ -189,7 +178,6 @@
             "sp4",
             "sx4"
           ],
-          "lifestyle": "rational",
           "base_function": "Introverted Ethics (Fi): Deeply committed to personal morals and fostering authentic one-on-one connections.",
           "creative_function": "Extroverted Sensing (Se): Defends boundaries fiercely but avoids unnecessary conflict.",
           "vulnerable_function_PoLR": "Extroverted Intuition (Ne): Distrusts speculative ideas or unpredictable possibilities, preferring tried-and-true methods."
@@ -212,7 +200,6 @@
           "associated_with": [
             "sx7"
           ],
-          "lifestyle": "irrational",
           "base_function": "Extroverted Intuition (Ne): Generates diverse possibilities and connects people/ideas in unconventional ways.",
           "creative_function": "Introverted Ethics (Fi): Advocates for individual authenticity but avoids moralizing.",
           "vulnerable_function_PoLR": "Introverted Thinking (Ti): Avoids rigid logical frameworks, perceiving them as limiting creativity."
@@ -224,7 +211,6 @@
           "associated_with": [
             "sp9"
           ],
-          "lifestyle": "irrational",
           "base_function": "Introverted Sensing (Si): Values practical skills, routine, and tangible improvements to daily life.",
           "creative_function": "Extroverted Thinking (Te): Optimizes systems for efficiency but dislikes over-complication.",
           "vulnerable_function_PoLR": "Extroverted Ethics (Fe): Feels overwhelmed by intense emotional displays or social obligations."
@@ -239,7 +225,6 @@
             "sx1",
             "sp3"
           ],
-          "lifestyle": "rational",
           "base_function": "Extroverted Thinking (Te): Excels at organizing workflows, setting clear goals, and achieving measurable outcomes.",
           "creative_function": "Introverted Sensing (Si): Ensures practical reliability but prioritizes productivity over comfort.",
           "vulnerable_function_PoLR": "Introverted Intuition (Ni): Skeptical of abstract predictions, preferring data-driven and immediate solutions."
@@ -252,7 +237,6 @@
             "sp4",
             "so4"
           ],
-          "lifestyle": "rational",
           "base_function": "Introverted Ethics (Fi): Prioritizes authenticity, empathy, and aligning actions with internal moral principles.",
           "creative_function": "Extroverted Intuition (Ne): Explores ideals or humanitarian possibilities but grounds them in ethics.",
           "vulnerable_function_PoLR": "Extroverted Sensing (Se): Avoids confrontational or competitive environments, preferring calm cooperation."
