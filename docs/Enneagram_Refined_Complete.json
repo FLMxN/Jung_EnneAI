@@ -15,101 +15,6 @@
   },
   "profiles": [
     {
-      "enneagram": "sp1",
-      "focus": "Gut-centered",
-      "archetype": "The Conscience",
-      "traits": [
-        "simple and disciplined",
-        "private conscience",
-        "compliant and non-rebellious",
-        "submissive and shy",
-        "stubborn and self-restraining",
-        "overly practical and grounded",
-        "efficiency-driven",
-        "morally rigid",
-        "anti-intuitive"
-      ],
-      "anti_traits": [
-        "complex or impulsive",
-        "loudly moralizing",
-        "hedonistic",
-        "reckless",
-        "attention-hungry",
-        "rebellious",
-        "calculating or plotting",
-        "charismatic or manipulative"
-      ],
-      "often_confused_with": [
-        "sp4",
-        "so6",
-        "sp3",
-        "so7"
-      ],
-      "neurosis": "Fear of imperfection enforces rigid self-discipline, suppressing impulses to maintain moral purity.",
-      "childhood": "Felt love was conditional upon being 'good' or perfect, leading to internalized anger and self-criticism."
-    },
-    {
-      "enneagram": "so1",
-      "focus": "Gut-centered",
-      "archetype": "The Righteousness",
-      "traits": [
-        "principled narcissist",
-        "revolutionary reformer",
-        "punishing and authoritarian",
-        "serious moral leader",
-        "corrective of society",
-        "honest and virtue-signaling",
-        "self-righteous and machiavellian",
-        "efficiency-driven"
-      ],
-      "anti_traits": [
-        "doubtful",
-        "socially passive",
-        "reckless",
-        "ambivalent",
-        "socially slippery"
-      ],
-      "often_confused_with": [
-        "so3",
-        "so7",
-        "so6"
-      ],
-      "neurosis": "Fear of moral failure compels public correction of others, conflating criticism with righteousness.",
-      "childhood": "Grew up feeling responsible for upholding moral standards, suppressing personal emotions to meet societal expectations."
-    },
-    {
-      "enneagram": "sx1",
-      "focus": "Gut-centered",
-      "archetype": "The Zeal",
-      "traits": [
-        "extraverted",
-        "law-enforcing",
-        "no-nonsense",
-        "zealously attached",
-        "critical to self and others",
-        "anger about corruption",
-        "efficiency-driven",
-        "morally rigid",
-        "anti-intuitive"
-      ],
-      "anti_traits": [
-        "funny",
-        "careless",
-        "emotionally distant",
-        "neutral in values",
-        "hedonistic",
-        "ambivalent",
-        "manipulative"
-      ],
-      "often_confused_with": [
-        "sx4",
-        "sx6",
-        "sx8"
-      ],
-      "neurosis": "Fear of moral compromise creates black-and-white loyalty, idealizing relationships to avoid ambiguity.",
-      "childhood": "Experienced inconsistency in close relationships, prompting a desire to correct or perfect others to ensure safety."
-    },
-    {
       "enneagram": "sp2",
       "focus": "Heart-centered",
       "archetype": "The Privilege",
@@ -565,12 +470,12 @@
       "archetype": "The Gluttony",
       "traits": [
         "future planner and strategist",
-        "escapes through stimulation",
-        "deceitful and gluttonous",
-        "prone to build alliances/families",
-        "may be cynical or charismatic",
-        "curiously avoids boredom",
         "charlatanic trickster",
+        "deceitful and libertarian",
+        "tends to build alliances/families",
+        "may be cynical or charismatic",
+        "escapes through stimulation",
+        "curiously avoids boredom",
         "intellectual narcissist"
       ],
       "anti_traits": [
@@ -595,20 +500,20 @@
       "archetype": "The Pharisaism",
       "traits": [
         "hyper-intellectual",
-        "divine machinery",
         "false altruist",
+        "self-sacrificing charlatan",
         "self-ordering visionary",
         "abstract narcissist",
         "ascetic and idealistic",
-        "charlatanic trickster",
         "curiously avoids boredom",
-        "rebellious and willful"
+        "rebellious and willful",
+        "divine machinery"
       ],
       "anti_traits": [
         "emotional",
         "grounded",
         "pointless",
-        ""
+        "aloof"
       ],
       "often_confused_with": [
         "sp1",
@@ -840,6 +745,101 @@
       ],
       "neurosis": "Fear of losing identity in relationships results in emotional diffusion, idealizing connection to avoid confrontation.",
       "childhood": "Prioritized harmony in close relationships, often suppressing personal desires to maintain connection."
+    },
+    {
+      "enneagram": "sp1",
+      "focus": "Gut-centered",
+      "archetype": "The Conscience",
+      "traits": [
+        "simple and disciplined",
+        "private conscience",
+        "compliant and non-rebellious",
+        "submissive and shy",
+        "stubborn and self-restraining",
+        "overly practical and grounded",
+        "efficiency-driven",
+        "morally rigid",
+        "anti-intuitive"
+      ],
+      "anti_traits": [
+        "complex or impulsive",
+        "loudly moralizing",
+        "hedonistic",
+        "reckless",
+        "attention-hungry",
+        "rebellious",
+        "calculating or plotting",
+        "charismatic or manipulative"
+      ],
+      "often_confused_with": [
+        "sp4",
+        "so6",
+        "sp3",
+        "so7"
+      ],
+      "neurosis": "Fear of imperfection enforces rigid self-discipline, suppressing impulses to maintain moral purity.",
+      "childhood": "Felt love was conditional upon being 'good' or perfect, leading to internalized anger and self-criticism."
+    },
+    {
+      "enneagram": "so1",
+      "focus": "Gut-centered",
+      "archetype": "The Righteousness",
+      "traits": [
+        "principled narcissist",
+        "revolutionary reformer",
+        "punishing and authoritarian",
+        "serious moral leader",
+        "corrective of society",
+        "honest and virtue-signaling",
+        "self-righteous and machiavellian",
+        "efficiency-driven"
+      ],
+      "anti_traits": [
+        "doubtful",
+        "socially passive",
+        "reckless",
+        "ambivalent",
+        "socially slippery"
+      ],
+      "often_confused_with": [
+        "so3",
+        "so7",
+        "so6"
+      ],
+      "neurosis": "Fear of moral failure compels public correction of others, conflating criticism with righteousness.",
+      "childhood": "Grew up feeling responsible for upholding moral standards, suppressing personal emotions to meet societal expectations."
+    },
+    {
+      "enneagram": "sx1",
+      "focus": "Gut-centered",
+      "archetype": "The Zeal",
+      "traits": [
+        "extraverted",
+        "law-enforcing",
+        "no-nonsense",
+        "zealously attached",
+        "critical to self and others",
+        "anger about corruption",
+        "efficiency-driven",
+        "morally rigid",
+        "anti-intuitive"
+      ],
+      "anti_traits": [
+        "funny",
+        "careless",
+        "emotionally distant",
+        "neutral in values",
+        "hedonistic",
+        "ambivalent",
+        "manipulative"
+      ],
+      "often_confused_with": [
+        "sx4",
+        "sx6",
+        "sx8"
+      ],
+      "neurosis": "Fear of moral compromise creates black-and-white loyalty, idealizing relationships to avoid ambiguity.",
+      "childhood": "Experienced inconsistency in close relationships, prompting a desire to correct or perfect others to ensure safety."
     }
   ]
 }

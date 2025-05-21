@@ -10,7 +10,7 @@
     "types": {
       "ILE": {
         "name": "Intuitive Logical Extravert",
-        "original_description": "The ILE (Intuitive Logical Extratim) in Socionics is often described as curious and insightful, with a tendency toward exploring new opportunities and seeking logical connections. They are typically seen as quick thinkers, able to make fast decisions based on abstract patterns and possibilities, but struggling with personal relationships. Cognitive-wise, they excel at processing complex concepts, often jumping between topics in a nonlinear, spontaneous manner.",
+        "original_description": "The ILE (Intuitive Logical Extratim) in Socionics is often described as curious and insightful, with a tendency toward exploring new opportunities and seeking logical connections. They are typically seen as quick thinkers, able to make fast decisions based on abstract patterns and possibilities, but struggling with personal relationships. Tends to lead the way for others by own image into made groups. Cognitive-wise, they excel at processing complex concepts, often jumping between topics in a nonlinear, spontaneous manner.",
         "description_by_flmxn": "Curious mister know-it-all: sarcastic and intellectually charming visionary. Inquisitive and chill, constantly planning and reasoning, while jumping between topics/goals.",
         "associated_with": [
           "sp7",
@@ -165,8 +165,8 @@
         },
         "LIE": {
           "name": "Logical Intuitive Extravert",
-          "original_description": "The LIE (Logical Intuitive Extratim) in Socionics is confident, assertive, and goal-oriented. Cognitive-wise, LIEs are often boring/nerdy, but excel at strategic thinking and organizing resources to achieve their objectives. They are logical and analytical, approaching problems with a focus on practicality and long-term outcomes. They value competence and efficiency, while focusing on innovation and future possibilities that may give them material profit. To be 'more efficient', often neglects own`s physica needs, like eating, sleeping or hygiene.",
-          "description_by_flmxn": "Hyperfocused productivity engine: probably networking while making a spreadsheet for world domination.",
+          "original_description": "The LIE (Logical Intuitive Extratim) in Socionics is confident, assertive, and goal-oriented. Tends to be authoritative in leadership. Cognitive-wise, LIEs are often boring/nerdy, but excel at strategic thinking and organizing resources to achieve their objectives. They are logical and analytical, approaching problems with a focus on practicality and long-term outcomes. They value competence and efficiency, while focusing on innovation and future possibilities that may give them material profit. To be 'more efficient', often neglects own`s physical needs, like eating, sleeping or hygiene.",
+          "description_by_flmxn": "Hyperfocused productivity engine: probably never showers while making a spreadsheet for world domination.",
           "associated_with": [
             "so1",
             "sx1",
