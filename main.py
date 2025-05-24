@@ -97,6 +97,13 @@ async def fetch(url):
 
 @dp.message(F.photo)
 async def process_photo(message: Message):
+    if message.chat.type == 'private':
+        pass
+    else:
+        if "@test_jung_bot" in str(message.caption):
+            pass
+        else:
+            return None
     await message.reply("👌")
     logging.info(msg="Request received from user_id: " + str(message.from_user.id))
     await message.bot.send_chat_action(message.from_user.id, ChatAction.TYPING)
@@ -134,6 +141,7 @@ async def process_photo(message: Message):
     try:
         if message.chat.type != 'private':
             await message.reply(html.expandable_blockquote(
+
                 response.choices[0].message.content.replace("*", "").replace("_", "")))
         else:
             await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
