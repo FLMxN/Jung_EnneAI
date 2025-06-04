@@ -47,7 +47,7 @@ with open('docs/typings_examples.json', 'r') as file:
 #     why_not_e8 = json.load(file)
 with open('docs/psychosophy_v2.json', 'r') as file:
     psychosophy = json.load(file)
-with open('docs/socio_repo.json', 'r') as file:
+with open('docs/jungian_docs.json', 'r') as file:
     socionics = json.load(file)
 with open('docs/only_correlations.json', 'r') as file:
     corr = json.load(file)
@@ -100,7 +100,7 @@ async def process_photo(message: Message):
     if message.chat.type == 'private':
         pass
     else:
-        if "@test_jung_bot" in str(message.caption):
+        if "@fictionalAIbot" in str(message.caption):
             pass
         else:
             return None
@@ -141,13 +141,11 @@ async def process_photo(message: Message):
     try:
         if message.chat.type != 'private':
             await message.reply(html.expandable_blockquote(
-
                 response.choices[0].message.content.replace("*", "").replace("_", "")))
         else:
             await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
     except Exception as f:
         logging.error(f"Error on API request: {str(f)}")
-        print(response.choices[0].message.content.replace("*", "").replace("_", ""))
         response = request(message, username=username, bio=user_data["bio"], pic=file_name)
         if message.chat.type != 'private':
             await message.reply(html.expandable_blockquote(
@@ -236,7 +234,6 @@ async def char(message: Message) -> None:
                 await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
         except Exception as f:
             logging.error(f"Error on API request: {str(f)}")
-            print(response.choices[0].message.content.replace("*", "").replace("_", ""))
             response = request(message=clean_text, username=username, bio=user_data["bio"])
             if message.chat.type != 'private':
                 await message.reply(html.expandable_blockquote(
@@ -256,7 +253,7 @@ async def search(message: Message) -> None:
     if message.chat.type == 'private':
         pass
     else:
-        if "@test_jung_bot" in str(message.text):
+        if "@fictionalAIbot" in str(message.text):
             pass
         else:
             return None
@@ -325,12 +322,10 @@ def request(message, username, bio, pic=None):
                      str(ennea) + str(psychosophy) + str(socionics) +
                      "You are a typology assistant with access to internal documentation and databases. Your task "
                      "is to type characters, analyze music or text, and answer typology-related questions across "
-                     "Socionics, Psychosophy and Enneagram. Start with Socionics. Include "
+                     "Jungian, Psychosophy and Enneagram. Start with Jungian. Include "
                      "enneagram fixations, using ONLY ONE type from EACH triad (ONE from heart: 2-3-4; ONE from head: 5-6-7; ONE from gut: 8-9-1) - "
                      "heart, head and gut, INCLUDING the core type (if you`re not sure about fix, leave a X instead just in case). "
-                     "1. Use only the provided documentaries (you can use"
-                     "flmxn`s type descriptions for socionics, but mention him) "
-                     "and don`t take "
+                     "1. Use only the provided documentaries and don`t take "
                      "info from anywhere else. Strictly follow provided below intersystem correlation "
                      "rules. These define valid type combinations and must never be broken. 2. Never invent "
                      "correlations or speculate beyond the defined mappings. 3. Prioritize philosophical themes and deep psychological "
