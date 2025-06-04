@@ -49,7 +49,7 @@ with open('docs/psychosophy_v2.json', 'r') as file:
     psychosophy = json.load(file)
 with open('docs/jungian_docs.json', 'r') as file:
     socionics = json.load(file)
-with open('docs/only_correlations.json', 'r') as file:
+with open('docs/jung_correlations.json', 'r') as file:
     corr = json.load(file)
 
 
