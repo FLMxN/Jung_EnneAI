@@ -2,7 +2,7 @@
   "typing_examples": [
     {
       "name": "Makima",
-      "typology": "EF so2-51 VELF",
+      "typology": "EF so2 VELF",
       "arguments": {
         "jung": "EF: Dramatic, intense, and masterful at emotional manipulation. Makima's charismatic persona and ability to read/control others' emotions perfectly fit EF.",
         "enneagram": "so2: 'Social Conqueror' subtype, using charm and intellect to draw people in while maintaining hidden motives. Her nurturing facade masks true intent.",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Kaneki Ken",
-      "typology": "IN so4-69 ELVF",
+      "typology": "IN so4 ELVF",
       "arguments": {
         "jung": "IEI: Introspective, identity-shifting, and prone to existential crises. Kaneki's internal monologues and evolving self-concept mirror IN perfectly.",
         "enneagram": "so4: 'Outsider' subtype, oscillating between self-loathing and grandiosity. His struggle to belong (e.g., human/ghoul duality) reflects social instinct with a 4's intensity.",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Goro Akechi",
-      "typology": "ET so3-68 FLVE",
+      "typology": "ET so3 FLVE",
       "arguments": {
         "jung": "ET: Strategic ambition masked by calculated charm. Akechi's relentless pursuit of recognition and mastery of systemic manipulation ('playing the game') reflect the ET efficiency.",
         "enneagram": "so3: 'Deceptive Achiever' subtype, crafting a heroic public persona to conceal vengeful motives. His obsession with surpassing rivals (e.g., Joker) mirrors so3's addiction to external validation.",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Sheldon Cooper",
-      "typology": "IT so6-13 LVFE",
+      "typology": "IT so6 LVFE",
       "arguments": {
         "jung": "IT: Hyper-logical, theoretical, and socially awkward. Sheldon's rigid adherence to systems (e.g., seat spot, roommate agreement) exemplifies the IT.",
         "enneagram": "so6: 'Loyal Skeptic' subtype, seeking security through routines and intellectual superiority. His anxiety about change and need for 'safe' people (e.g., Leonard) reflect counterphobic 6.",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Walter White",
-      "typology": "IT sx6-13 LFVE",
+      "typology": "IT sx6 LFVE",
       "arguments": {
         "jung": "IT: Stoic, territorial, and ruthlessly pragmatic. Walt's transformation from meek teacher to drug kingpin mirrors the IT`s latent intensity.",
         "enneagram": "sx6: 'Lone Wolf' subtype, reacting to fear with aggression. His 'I am the danger' persona and loyalty tests (e.g., 'Say my name') show sexual 6's defensive dominance.",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Anakin Skywalker",
-      "typology": "IF sx4-68 EFVL",
+      "typology": "IF sx4 EFVL",
       "arguments": {
         "jung": "IF: Passionate, morally absolutist, and possessive. Anakin's black-and-white loyalty ('If you're not with me, you're my enemy') fits the IF's dark side.",
         "enneagram": "sx4: 'Hateful Romantic' subtype, oscillating between devotion and rage. His obsession with Padmé and fear of abandonment drive his downfall, classic for sexual 4.",
@@ -56,7 +56,7 @@
     },
     {
       "name": "Toji Fushiguro",
-      "typology": "ES sp8-47 VFEL",
+      "typology": "ES sp8 VFEL",
       "arguments": {
         "jung": "ES: Assertive, strategic, focused on power and dominance. His transactional worldview and instinct for competition are hallmarks of the ES.",
         "enneagram": "sp8: 'Survivalist' subtype, embodying drive for control manifests in his business and resourceful tactics. The 'Might Makes Right' philosophy and boundary-testing are textbook sp8.",
@@ -64,17 +64,8 @@
       }
     },
     {
-    "name": "James McGill/Saul Goodman",
-    "typology": "EN sp7-93 FLVE",
-    "arguments": {
-      "jung": "EN: Rapid conceptual thinking, improvisational problem-solving, and scheming. Thrives on intellectual loopholes and adaptive 'clever guy' personas.",
-      "enneagram": "sp7: 'Chaotic Charlatan' subtype anxiety channeled into hustles and silver-tongued reframing. Uses charm/denial to bypass consequences, framing survival as 'winning' through mental gymnastics.",
-      "psychosophy": "FLVE (1F, 2L, 3V, 4E): Survival-first pragmatism, self-justifying logics, fluid self-presentation and chaotic emotional outbursts fuel his chameleonic grifts."
-      }
-    },
-    {
       "name": "Naked Snake/Big Boss",
-      "typology": "ET so7-13 VLFE",
+      "typology": "ET so7 VLFE",
       "arguments": {
         "jung": "ET: Strategic commander who reinvents military paradigms. His constant innovation in warfare tactics reflects goal-orientation of ET.",
         "enneagram": "so7: 'Visionary Mastermind' subtype, justifying morally gray ops through grand ideological narratives. Uses revolutionary rhetoric to escape accountability.",
@@ -83,7 +74,7 @@
     },
     {
       "name": "Rei Ayanami",
-      "typology": "IN sp5-94 LFEV",
+      "typology": "IN sp5 LFEV",
       "arguments": {
         "jung": "IN: Detached observer predicting Angel attack patterns and analyzing existence. Her analysis of combat scenarios fits IN's forecasting.",
         "enneagram": "sp5: 'Withdrawn Observer' avoids emotional entanglement while cataloging human behavior. Treats body as disposable vessel.",
@@ -92,7 +83,7 @@
     },
     {
       "name": "Misato Katsuragi",
-      "typology": "EF sx2-71 FEVL",
+      "typology": "EF sx2 FEVL",
       "arguments": {
         "jung": "EF: Her warmth creates makeshift family unit for pilots. Bubbly social energy masks trauma through sensory indulgence (beer, casual dress) as in the best EF practices.",
         "enneagram": "sx2: 'Flirtatious Caregiver' uses playful sexuality to bond with Kaji/Shinji. Clings to NERV team as substitute family after paternal loss.",
@@ -101,7 +92,7 @@
     },
     {
       "name": "Baku Madarame (Usogui)",
-      "typology": "EN sp7-83 VLFE",
+      "typology": "EN sp7 VLFE",
       "arguments": {
         "jung": "EN: Master gambler exploiting loopholes in games. His conceptual leaps and rule-bending epitomize EN intellectual play.",
         "enneagram": "sp7: 'Planning Charlatan' avoids emotional pain through high-stakes stimulation. Treats life as series of mental puzzles to conquer.",
@@ -110,7 +101,7 @@
     },
     {
       "name": "Kim Wexler",
-      "typology": "ET so1-36 LVFE",
+      "typology": "ET so1 LVFE",
       "arguments": {
         "jung": "ET: Methodical and pragmatic problem-solver. Kim's structured approach to law and emphasis on measurable results ('doing the right way') aligns with ET's prioritization.",
         "enneagram": "so1: 'Reformer' subtype, channeling perfectionism into social justice. Her repressed anger at systemic corruption reflects e1's moral rigidity fused with social instinct.",
@@ -119,7 +110,7 @@
       },
       {
       "name": "Shinji Ikari",
-      "typology": "IF so4-71 ELVF",
+      "typology": "IF so4 ELVF",
       "arguments": {
       "jung": "IF: Introverted ethical sensitivity fused with abstract idealism. Shinji's paralyzing self-doubt and desperate need for approval ('I mustn't run away') reflect the immature IF's conflict between internal values and external demands.",
       "enneagram": "so4: 'Tormented Artist' subtype, amplifying alienation through social comparisons. His oscillation between clinging to Misato/Rei and rejecting connection mirrors 4's shame about inadequacy within group dynamics.",
@@ -128,7 +119,7 @@
     },
     {
       "name": "Arthur Morgan",
-      "typology": "IS sp9-36 FLEV",
+      "typology": "IS sp9 FLEV",
       "arguments": {
         "jung": "IS: Practical survivalist focused on tangible skills. Arthur's wilderness expertise and 'get the job done' mentality exemplify IS romanticism, pragmatism and passivity.",
         "enneagram": "sp9: 'Appetite' subtype, avoiding conflict through routine. His loyalty to the gang despite moral doubts reflects 9's dissociation from personal needs.",
@@ -137,7 +128,7 @@
     },
     {
       "name": "Luke Skywalker",
-      "typology": "EN sx7-94 ELFV",
+      "typology": "EN sx7 ELFV",
       "arguments": {
         "jung": "EN: Idealistic connector of people/ideas. Luke's faith in redemption ('there's still good in him') and intuition-driven optimism mirror EN traits.",
         "enneagram": "sx7: 'Enthusiast' subtype, chasing adventure to avoid pain. His shift from farmboy to Jedi reflects 7's escapism through grand narratives.",
@@ -146,7 +137,7 @@
     },
     {
       "name": "Rohan Kishibe",
-      "typology": "IN so5-13 LVEF",
+      "typology": "IN so5 LVEF",
       "arguments": {
         "jung": "IN: Strategic analyst prioritizing foresight and abstraction. Rohan's detached observation of humanity and narrative manipulation exemplify IN's future forecasting.",
         "enneagram": "so5: 'Ivory Tower' subtype. His artistic elitism and emotional detachment reflect 5's fear of helplessness through specialization.",
@@ -155,7 +146,7 @@
     },
     {
       "name": "Tuco Salamanca",
-      "typology": "ES sx8-36 VFEL",
+      "typology": "ES sx8 VFEL",
       "arguments": {
         "jung": "ES: Tactical opportunist thriving on power dynamism. Tuco's explosive negotiations and resource control ('tight tight tight!') showcase ES adaptability and action.",
         "enneagram": "sx8: 'Challenger' subtype, enforcing loyalty through volatility. His 'family first' rhetoric masking paranoia aligns with sexual 8's possessive intensity.",
@@ -164,7 +155,7 @@
     },
     {
         "name": "Ichigo Kurosaki",
-        "typology": "IF sp4-68 EFVL",
+        "typology": "IF sp4 EFVL",
         "arguments": {
           "jung": "IF: Ethically rigid protector driven by personal loyalty. Ichigo's relentless defense of loved ones and black-and-white moral code ('I fight to protect') align with the IF's resolve.",
           "enneagram": "sp4: 'Enduring Individualist' subtype, transmuting shame into hyper-competence. His secret fear of inadequacy (e.g., hybrid identity crises) manifests as overcompensation through battle prowess and emotional isolation.",
@@ -173,7 +164,7 @@
     },
     {
       "name": "Fluttershy",
-      "typology": "IS sx9-26 FELV",
+      "typology": "IS sx9 FELV",
       "arguments": {
         "jung": "IS: Harmonious mediator attuned to sensing. Her animal caretaking and aversion to conflict reflect IS comfort-focused empathy.",
         "enneagram": "sx9: 'Symbiosis' subtype, diffusing identity into relationships. Her 'Stare' episodes paradoxically show 9's repressed assertiveness emerging under pressure.",

@@ -61,7 +61,7 @@
   },
   "sp7": {
     "jung_correlation": "only EN",
-    "psychosophy_correlation": "VLFE or FLVE"
+    "psychosophy_correlation": "only VLFE"
   },
   "so7": {
     "jung_correlation": "EN or ET",
@@ -77,7 +77,7 @@
   },
   "so8": {
     "jung_correlation": "only ES",
-    "psychosophy_correlation": "only VFLE"
+    "psychosophy_correlation": "VFLE or VFEL"
   },
   "sx8": {
     "jung_correlation": "only ES",
