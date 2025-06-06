@@ -1,174 +1,246 @@
 {
   "typing_examples": [
     {
+      "name": "Oikawa Tooru",
+      "typology": "EF sp2 FEVL",
+      "arguments": {
+        "jung": "EF: Expressive social catalyst who orchestrates emotional momentum. Oikawa's charismatic leadership ('A good setter can make his spikers stronger'), intuitive reading of teammates' psychological states, and crowd-energizing presence reflect EF's talent for harmonizing group dynamics. His dramatic emotional feedback during matches demonstrates EF's fusion of feeling with kinetic expression.",
+        "enneagram": "sp2: 'The Privilege' subtype, securing worth through exceptional service. Oikawa's obsessive training refinement ('Genius is 1% inspiration, 99% perspiration'), meticulous care for teammates' needs (adjusting tosses to spikers' preferences), and pain-concealing performances manifest sp2's drive to become indispensable through perfected contribution. His rivalry with Ushijima channels sp2's need to validate self-worth against perceived 'natural genius'.",
+        "psychosophy": "FEVL (1F, 2E, 3V, 4L): Physically confident (1F) through greed, sport and acute bodily awareness. Emotionally demonstrative (2E) - celebrating wins exuberantly, expressing frustration through dynamic outbursts. Volitionally insecure (3V), masking self-doubt ('I'm not a genius') with bravado. Logically indifferent (4L), prioritizing instinctive court sense over theoretical analysis ('Don't think, feel!')."
+      }
+    },
+    {
       "name": "Makima",
       "typology": "EF so2 VELF",
       "arguments": {
-        "jung": "EF: Dramatic, intense, and masterful at emotional manipulation. Makima's charismatic persona and ability to read/control others' emotions perfectly fit EF.",
-        "enneagram": "so2: 'Social Conqueror' subtype, using charm and intellect to draw people in while maintaining hidden motives. Her nurturing facade masks true intent.",
-        "psychosophy": "VELF (1V, 2E, 3L, 4F): Rationalizes her actions through a self-righteous outlook. Her aestheticism, sensory indifference and manupulativeness in social image justify her philosophy."
-      }
-    },
-    {
-      "name": "Kaneki Ken",
-      "typology": "IN so4 ELVF",
-      "arguments": {
-        "jung": "IEI: Introspective, identity-shifting, and prone to existential crises. Kaneki's internal monologues and evolving self-concept mirror IN perfectly.",
-        "enneagram": "so4: 'Outsider' subtype, oscillating between self-loathing and grandiosity. His struggle to belong (e.g., human/ghoul duality) reflects social instinct with a 4's intensity.",
-        "psychosophy": "ELVF (1E, 2L, 3V, 4L): Emotionally turbulent, intellectualizes suffering and his own philosophy, usually both physically and emotionally fragile, effortlessly adapts to physical environment for survival with no disgust."
-      }
-    },
-    {
-      "name": "Goro Akechi",
-      "typology": "ET so3 FLVE",
-      "arguments": {
-        "jung": "ET: Strategic ambition masked by calculated charm. Akechi's relentless pursuit of recognition and mastery of systemic manipulation ('playing the game') reflect the ET efficiency.",
-        "enneagram": "so3: 'Deceptive Achiever' subtype, crafting a heroic public persona to conceal vengeful motives. His obsession with surpassing rivals (e.g., Joker) mirrors so3's addiction to external validation.",
-        "psychosophy": "FLVE (1F, 2L, 3V, 4E): Obsessive control over outcomes, coldly pragmatic logic, vanity in his detective image, and emotionally compartmentalized rage fuel his martyr-complex theatrics."
-      }
-    },
-    {
-      "name": "Sheldon Cooper",
-      "typology": "IT so6 LVFE",
-      "arguments": {
-        "jung": "IT: Hyper-logical, theoretical, and socially awkward. Sheldon's rigid adherence to systems (e.g., seat spot, roommate agreement) exemplifies the IT.",
-        "enneagram": "so6: 'Loyal Skeptic' subtype, seeking security through routines and intellectual superiority. His anxiety about change and need for 'safe' people (e.g., Leonard) reflect counterphobic 6.",
-        "psychosophy": "LVFE (1L, 2V, 3F, 4E): Truth-seeking, conformist, physically disgusted, and emotionally childlike."
-      }
-    },
-    {
-      "name": "Walter White",
-      "typology": "IT sx6 LFVE",
-      "arguments": {
-        "jung": "IT: Stoic, territorial, and ruthlessly pragmatic. Walt's transformation from meek teacher to drug kingpin mirrors the IT`s latent intensity.",
-        "enneagram": "sx6: 'Lone Wolf' subtype, reacting to fear with aggression. His 'I am the danger' persona and loyalty tests (e.g., 'Say my name') show sexual 6's defensive dominance.",
-        "psychosophy": "LFVE (1L, 2F, 3V, 4E): Control-obsessed, physically resourceful, self-esteem troubles & reputation anxiety, emotionally inert."
-      }
-    },
-    {
-      "name": "Anakin Skywalker",
-      "typology": "IF sx4 EFVL",
-      "arguments": {
-        "jung": "IF: Passionate, morally absolutist, and possessive. Anakin's black-and-white loyalty ('If you're not with me, you're my enemy') fits the IF's dark side.",
-        "enneagram": "sx4: 'Hateful Romantic' subtype, oscillating between devotion and rage. His obsession with Padmé and fear of abandonment drive his downfall, classic for sexual 4.",
-        "psychosophy": "EFVL (1E, 2F, 3V, 4L): Emotionally volatile, physically skilled, self-justifying, and rigid in beliefs."
-      }
-    },
-    {
-      "name": "Toji Fushiguro",
-      "typology": "ES sp8 VFEL",
-      "arguments": {
-        "jung": "ES: Assertive, strategic, focused on power and dominance. His transactional worldview and instinct for competition are hallmarks of the ES.",
-        "enneagram": "sp8: 'Survivalist' subtype, embodying drive for control manifests in his business and resourceful tactics. The 'Might Makes Right' philosophy and boundary-testing are textbook sp8.",
-        "psychosophy": "VFEL (1V, 2F, 3E, 4L): Heavy dominant charisma, pragmatic focus on material results, competitive and questionable logic, emotional recklessness create his signature combative yet engaging style."
-      }
-    },
-    {
-      "name": "Naked Snake/Big Boss",
-      "typology": "ET so7 VLFE",
-      "arguments": {
-        "jung": "ET: Strategic commander who reinvents military paradigms. His constant innovation in warfare tactics reflects goal-orientation of ET.",
-        "enneagram": "so7: 'Visionary Mastermind' subtype, justifying morally gray ops through grand ideological narratives. Uses revolutionary rhetoric to escape accountability.",
-        "psychosophy": "VLFE (1V, 2L, 3F, 4E: Self-righteous visionary, pragmatic and debating, physically indulgent, emotionally detached from casualties."
-      }
-    },
-    {
-      "name": "Rei Ayanami",
-      "typology": "IN sp5 LFEV",
-      "arguments": {
-        "jung": "IN: Detached observer predicting Angel attack patterns and analyzing existence. Her analysis of combat scenarios fits IN's forecasting.",
-        "enneagram": "sp5: 'Withdrawn Observer' avoids emotional entanglement while cataloging human behavior. Treats body as disposable vessel.",
-        "psychosophy": "LFEV (1L, 2F, 3E, 4V): Analytical observer, physically indifferent, emotionally blank, will-less instrument."
+        "jung": "EF: Social architect who weaponizes emotional ecosystems. Makima's mastery of relational dynamics - cultivating devotion (Denji), instilling fear (Public Safety), and exploiting vulnerabilities - reflects EF's strategic harmonization of human connections. Her curated personas (benevolent superior, national savior) demonstrate EF's external calibration of affect to engineer desired social outcomes.",
+        "enneagram": "so2: 'The Conquest' subtype, gaining power through indispensable benevolence. Makima's provision of protection contracts, creation of surrogate families, and 'savior of Japan' branding manifest so2's transactional altruism. Her control over Chainsaw Man channels so2's core pride - positioning herself as humanity's necessary curator through calculated acts of 'salvation'.",
+        "psychosophy": "VELF (1V, 2E, 3L, 4F): Volitionally absolute (1V) - her vision of a fear-free world justifies all atrocities. Emotionally orchestrated (2E) - deploying manufactured affection, therapeutic language, and trauma exploitation as control mechanisms. Logically overprecise (3L) in contractual manipulations and schemes. Physically detached (4F) - viewing bodies (her own and others') as disposable vessels for her will."
       }
     },
     {
       "name": "Misato Katsuragi",
       "typology": "EF sx2 FEVL",
       "arguments": {
-        "jung": "EF: Her warmth creates makeshift family unit for pilots. Bubbly social energy masks trauma through sensory indulgence (beer, casual dress) as in the best EF practices.",
-        "enneagram": "sx2: 'Flirtatious Caregiver' uses playful sexuality to bond with Kaji/Shinji. Clings to NERV team as substitute family after paternal loss.",
-        "psychosophy": "FEVL (1F, 2E, 3V, 4L): Comfort-focused, emotionally demonstrative, reckless and self-critical, avoids complex strategies."
+        "jung": "EF: Emotionally catalytic connector who drives collective intensity. Misato's talent for forging deep bonds (Shinji, Kaji, Asuka), battlefield morale leadership ('This is the dance of destruction!'), and instinctive emotional manipulation ('Get in the robot, Shinji') reflect EF's fusion of interpersonal strategy and expressive immediacy. Her volatile emotional feedback loops - from drunken vulnerability to combat euphoria - demonstrate EF's embodiment of feeling as social fuel.",
+        "enneagram": "sx2: 'The Intimacy' subtype, securing worth through intimate indispensability. Misato's fusion with pilots' psychological wounds ('I'll be your mother'), sensual mentorship tactics, and sacrificial protection manifest sx2's transactional intimacy. Her Kaji obsession channels sx2's pride - transforming trauma into seductive salvation narratives that bind others to her redemptive orbit.",
+        "psychosophy": "FEVL (1F, 2E, 3V, 4L): Physically reckless (1F) through combat reflexes, beer-chugging escapism, and tactile reassurance (hugs, headlocks). Emotionally torrential (2E) - oscillating between maternal warmth and manic despair. Volitionally conflicted (3V), clinging to Commander Ikari's legacy while sabotaging her own authority. Logically impulsive (4L), prioritizing instinctive gambits ('Operation Yashima') over strategic depth despite tactical brilliance."
       }
     },
     {
-      "name": "Baku Madarame (Usogui)",
-      "typology": "EN sp7 VLFE",
+      "name": "Princess Carolyn",
+      "typology": "ET sp3 FVLE",
       "arguments": {
-        "jung": "EN: Master gambler exploiting loopholes in games. His conceptual leaps and rule-bending epitomize EN intellectual play.",
-        "enneagram": "sp7: 'Planning Charlatan' avoids emotional pain through high-stakes stimulation. Treats life as series of mental puzzles to conquer.",
-        "psychosophy": "VLFE (1V, 2L, 3F, 4E): Willful strategist, logical trickster, physically resilient, emotionally detached."
+        "jung": "ET: Hyper-efficient systemizer who optimizes relational ecosystems. Princess Carolyn's talent agency machinery - contract negotiations, damage control, and career orchestration - reflects ET's mastery of structural pragmatism. Her signature multitasking ('Fish, phone call, and baby? I can do that') demonstrates ET's ruthless prioritization of tangible outcomes over emotional friction.",
+        "enneagram": "sp3: 'The Diligence' subtype, proving worth through resource management. Princess Carolyn's workaholic self-sufficiency, brand-building hustle ('Vim! Vigor! Voughter!'), and crisis-proof contingency plans manifest sp3's drive to secure stability through perfected performance. Her fertility struggles channel sp3's core fear - that personal fulfillment threatens professional indispensability.",
+        "psychosophy": "FVLE (1F, 2V, 3L, 4E): Physically relentless (1F) through work, food, perpetual motion (scheduling, networking, literal baby-carrying). Volitionally ambitious (2V) - agency ownership and motherhood as validation metrics. Logically excessive (3L) in contractual maneuvering yet vulnerable to emotional blind spots (e.g., BoJack exploitation). Emotionally rationed (4E), compartmentalizing personal needs until breakdowns reveal exhausted vulnerability ('I need to take care of myself')."
       }
     },
     {
-      "name": "Kim Wexler",
-      "typology": "ET so1 LVFE",
+      "name": "Goro Akechi",
+      "typology": "ET so3 FLVE",
       "arguments": {
-        "jung": "ET: Methodical and pragmatic problem-solver. Kim's structured approach to law and emphasis on measurable results ('doing the right way') aligns with ET's prioritization.",
-        "enneagram": "so1: 'Reformer' subtype, channeling perfectionism into social justice. Her repressed anger at systemic corruption reflects e1's moral rigidity fused with social instinct.",
-        "psychosophy": "LVFE (1L, 2V, 3F, 4E): Truth-driven yet socially adaptable, physically disciplined and emotionally reserved."
+        "jung": "ET: Strategic systemizer who weaponizes objective frameworks. Akechi's detective persona leverages institutional credibility to manipulate investigations, while his meticulous cognitive psience research reflects ET's optimization of knowledge for predetermined outcomes. His calculated identity curation ('Detective Prince') demonstrates ET's external calibration of image-as-tool within social hierarchies.",
+        "enneagram": "so3: 'The Performance' subtype, securing worth through public adoration. Akechi's media-engineered persona ('Second Coming of the Detective Prince'), performance of altruism, and craving for Shido's recognition manifest so3's transactional excellence. His psychotic breakdown channels so3's disintegration - when societal validation fails, identity collapses into vengeful annihilation.",
+        "psychosophy": "FLVE (1F, 2L, 3V, 4E): Physically confident (1F) through gluttony, appearance and curated public presentation. Logically ruthless (2L) - designing cognitive traps and manipulating evidence. Volitionally fractured (3V), torn between revenge against Shido and desperate need for paternal validation. Emotionally necrotic (4E), weaponizing false charm while true rage manifests as sadistic glee during mental shutdowns."
       }
-      },
-      {
+    },
+    {
+      "name": "Derek Zoolander",
+      "typology": "EF sx3 FEVL",
+      "arguments": {
+        "jung": "EF: Social chameleon governed by external validation dynamics. Zoolander's profession as a model ('Blue Steel is my gift to the world'), emotional responsiveness to praise/criticism, and identity built entirely on audience perception reflect EF's harmonization with social feedback. His signature emotional expressions ('confused, angry, bemused') demonstrate EF's embodiment of feeling as performative currency.",
+        "enneagram": "sx3: 'The Beauty' subtype, seducing admiration through image-crafting. Zoolander's obsession with being 'really, really, ridiculously good-looking,' competitive validation-seeking (vs. Hansel), and eroticized persona construction manifest sx3's drive to become the object of desire. His 'Center For Kids Who Can't Read Good' channels sx3's need to transform achievement into magnetic philanthropy.",
+        "psychosophy": "FEVL (1F, 2E, 3V, 4L): Physically curated (1F) through iconic poses, facial choreography, and awareness of aesthetic impact. Emotionally performative (2E) - expressions calibrated for maximum audience effect. Volitionally impressionable (3V), vulnerable to manipulation (Mugatu's brainwashing) without external validation. Logically void (4L) - incapable of spatial reasoning ('The center has to be at least... three times bigger') or abstract thought beyond modeling tropes."
+      }
+    },
+    {
+      "name": "Ichigo Kurosaki",
+      "typology": "IF sp4 EFVL",
+      "arguments": {
+        "jung": "IF: Internally principled reactor governed by visceral values. Ichigo's immediate protective rages ('I'll never let anyone die in front of me!'), instinctive defiance against injustice, and refusal to conform to Soul Society dogma reflect IF's fusion of personal conviction with physical action. His sensory combat adaptation ('bankai' mastery) demonstrates IF's embodiment of ideals through environmental responsiveness.",
+        "enneagram": "sp4: 'The Tenacity' subtype, transforming suffering into protective strength. Ichigo's solitary burden-bearing (hollow possession), stoic endurance of spiritual trauma, and rejection of special status ('I'm just a substitute shinigami') manifest sp4's focus on resilience through ordinary identity. His protective fury channels sp4's core intensity - transmuting inner void into existential shield for others.",
+        "psychosophy": "EFVL (1E, 2F, 3V, 4L): Emotionally volcanic (1E) - fury and devotion driving transcendent power surges. Physically attuned (2F) through combat instinct and hollow-enhanced senses. Volitionally reactive and explosive (3V), rejecting predetermined fates (e.g., rejecting Soul King destiny) while lacking proactive ambition. Logically dismissive (4L) - eschewing strategic planning for instinctive action ('I fight because it's right') and rejecting philosophical debates about soul hierarchy."
+      }
+    },
+    {
       "name": "Shinji Ikari",
       "typology": "IF so4 ELVF",
       "arguments": {
-      "jung": "IF: Introverted ethical sensitivity fused with abstract idealism. Shinji's paralyzing self-doubt and desperate need for approval ('I mustn't run away') reflect the immature IF's conflict between internal values and external demands.",
-      "enneagram": "so4: 'Tormented Artist' subtype, amplifying alienation through social comparisons. His oscillation between clinging to Misato/Rei and rejecting connection mirrors 4's shame about inadequacy within group dynamics.",
-      "psychosophy": "ELVF (1E, 2L, 3V, 4F): Emotionally overwhelmed, intellectualizes suffering through existential musings. Struggles to assert willpower, treats body as passive instrument, yet retains rigid moral idealism despite trauma."
-    }
-    },
-    {
-      "name": "Arthur Morgan",
-      "typology": "IS sp9 FLEV",
-      "arguments": {
-        "jung": "IS: Practical survivalist focused on tangible skills. Arthur's wilderness expertise and 'get the job done' mentality exemplify IS romanticism, pragmatism and passivity.",
-        "enneagram": "sp9: 'Appetite' subtype, avoiding conflict through routine. His loyalty to the gang despite moral doubts reflects 9's dissociation from personal needs.",
-        "psychosophy": "FLEV (1F, 2L, 3E, 4V): Survival-focused, analytical but self-doubting, emotionally repressed and adaptable to others' leadership."
+        "jung": "IF: Introverted reactor governed by internal emotional landscapes. Shinji's paralyzing self-analysis ('I mustn't run away'), profound sensitivity to relational dynamics (Rei's smile, Asuka's contempt), and cello-playing as emotional catharsis reflect IF's navigation of inner feeling-states. His Eva synchronization manifests IF's embodiment of psychological turmoil through biomechanical interface.",
+        "enneagram": "so4: 'The Shame' subtype, seeking belonging through authentic suffering. Shinji's public breakdowns ('Kill me...'), yearning for paternal recognition, and envy-driven comparisons to Rei/Asuka manifest so4's conviction of inherent defectiveness within group contexts. His piloting channels so4's core paradox - craving connection yet believing pain is his only value to offer.",
+        "psychosophy": "ELVF (1E, 2L, 3V, 4F): Emotionally permeable (1E) - absorbing others' pain while drowning in self-loathing. Logically articulate (2L) in self-lacerating monologues yet unable to translate insight into action. Volitionally dissolved (3V) - defined entirely by external validation ('I'm needed here?'). Physically alienated (4F), experiencing his body as a betrayal site (LCL immersion, hospital scene) and neglecting basic sustenance."
       }
     },
     {
-      "name": "Luke Skywalker",
-      "typology": "EN sx7 ELFV",
+      "name": "Zuko",
+      "typology": "IF sx4 EFVL",
       "arguments": {
-        "jung": "EN: Idealistic connector of people/ideas. Luke's faith in redemption ('there's still good in him') and intuition-driven optimism mirror EN traits.",
-        "enneagram": "sx7: 'Enthusiast' subtype, chasing adventure to avoid pain. His shift from farmboy to Jedi reflects 7's escapism through grand narratives.",
-        "psychosophy": "ELFV (1E, 2L, 3F, 4V): Emotionally expressive, intellectually curious, physically restless and unbothered by ethics."
+        "jung": "IF: Intensely principled reactor governed by internal convictions. Zuko's relentless pursuit of honor ('My honor! My destiny!'), visceral rejection of moral compromises, and eventual redemption arc reflect IF's fusion of personal values with decisive action. His firebending mastery - from rage-fueled outbursts to dragon-inspired harmony - demonstrates IF's embodiment of emotional truth through physical expression.",
+        "enneagram": "sx4: 'The Hate' subtype, transforming shame into authentic becoming and hate. Zuko's obsessive identity quest ('Who am I?'), dramatic confrontations with father/sister figures, and envy-to-respect evolution regarding Aang manifest sx4's craving for transformative intensity. His scar becomes the sx4's emblem - transmuting perceived defectiveness into sacred uniqueness through suffering-integration.",
+        "psychosophy": "EFVL (1E, 2F, 3V, 4L): Emotionally volcanic (1E) - driving banishment-defying determination and tear-streaked vulnerability. Physically expressive (2F) through firebending as emotional extension (flames flickering with inner turmoil). Volitionally conflicted (3V) - torn between Ozai's imposed destiny and Iroh's guidance until claiming authentic purpose ('I must restore the Fire Nation's honor'). Logically last (4L) - rejecting political pragmatism for ethical imperatives, often acting before strategizing."
+      }
+    },
+    {
+      "name": "Rei Ayanami",
+      "typology": "IN sp5 LFEV",
+      "arguments": {
+        "jung": "IN: Detached pattern-reader navigating abstract realities. Rei's ontological awareness of Instrumentality, metaphysical insights ('I am my own vessel'), and silent observation of human behavior reflect IN's processing of fundamental truths beneath surface phenomena. Her limited emotional displays demonstrate IN's prioritization of internal symbolic landscapes over interpersonal engagement.",
+        "enneagram": "sp5: 'The Observance' subtype, fortifying existence through radical self-containment. Rei's sparse living quarters, minimal biological needs (LCL immersion), and hoarding of existential knowledge manifest sp5's preservation of energy through detachment. Her cloned bodies become sp5's ultimate resource - disposable vessels conserving core consciousness against annihilation.",
+        "psychosophy": "LFEV (1L, 2F, 3E, 4V): Logically absolute (1L) - accepting her instrumental purpose with ontological clarity. Physically utilitarian (2F) - treating her body as replaceable hardware for Eva interfacing. Emotionally emergent (3E) - initially void of affect until Shinji's influence triggers fragile self-discovery. Volitionally surrendered (4V), existing as Gendo's tool until final choice ('I am myself') paradoxically affirms autonomy through self-destruction."
       }
     },
     {
       "name": "Rohan Kishibe",
       "typology": "IN so5 LVEF",
       "arguments": {
-        "jung": "IN: Strategic analyst prioritizing foresight and abstraction. Rohan's detached observation of humanity and narrative manipulation exemplify IN's future forecasting.",
-        "enneagram": "so5: 'Ivory Tower' subtype. His artistic elitism and emotional detachment reflect 5's fear of helplessness through specialization.",
-        "psychosophy": "LVEF (1L, 2V, 3E, 4F): Knowledge-hoarding, physically indifferent, emotionally insecure and socially conformist."
+        "jung": "IN: Abstract systems-mapper obsessed with hidden truths. Rohan's Stand 'Heaven's Door' embodies IN's penetration of surface realities to extract fundamental patterns. His anthropological dissection of human behavior ('I must observe authentic reactions!') and narrative architecture obsession reflect IN's construction of internal symbolic frameworks detached from social convention.",
+        "enneagram": "so5: 'The Intellectualism' subtype, transforming knowledge into specialized social currency. Rohan's curated expertise (manga technique, supernatural research), gatekeeping of esoteric truths, and intellectual exhibitionism ('Let me demonstrate true art!') manifest so5's need to position knowledge as cultural authority. His Morioh documentation channels so5's core drive - securing relevance through indispensable archiving.",
+        "psychosophy": "LVEF (1L, 2V, 3E, 4F): Logically tyrannical (1L) - treating empirical observation as absolute law ('This is reality'). Volitionally autonomous (2V) - creating his own ethical rules for artistic truth-seeking. Emotionally unstable (3E) - shy, but provoking extreme reactions for research while disdaining authentic connection. Physically careless (4F), neglecting biological needs during creative immersion and treating his body as mere vessel for perception."
       }
     },
     {
-      "name": "Tuco Salamanca",
+      "name": "Johan Liebert",
+      "typology": "IN sx5 LEVF",
+      "arguments": {
+        "jung": "IN: Abstract architect of existential patterns. Johan's manipulation of societal systems, philosophical annihilation of meaning frameworks ('Nameless Monster'), and perception of humanity as symbolic constructs reflect IN's detachment from concrete reality. His ability to induce identity dissolution in others demonstrates IN's mastery of fundamental psychological archetypes.",
+        "enneagram": "sx5: 'The Exclusivity' subtype, merging intimacy with ontological annihilation. Johan's hypnotic personal connections (Nina, Tenma, Grimmer), weaponization of shared trauma, and nihilistic 'rebirth' fantasies manifest sx5's perverse fusion of knowledge and intimacy. His library of human suffering becomes the sx5's ultimate collection to fill his existential void.",
+        "psychosophy": "LEVF (1L, 2E, 3V, 4F): Logically absolute (1L) - deconstructing morality into meaningless constructs ('There is no such thing as monsters'). Emotionally vampiric (2E) - absorbing others' psyches through confessions while radiating charismatic emptiness. Volitionally negating and insecure (3V) - his only 'will' being the erasure of selfhood and others'. Physically ephemeral (4F) - surviving gunshots through sheer nihilistic detachment, treating his body as disposable concept-flesh."
+      }
+    },
+    {
+      "name": "Armin Arlert",
+      "typology": "IN sp6 LEFV",
+      "arguments": {
+        "jung": "IN: Strategic pattern-reader governed by internal future models. Armin's predictive battlefield simulations ('Titans move in predictable patterns'), conceptual breakthroughs (Colossal Titan vaporization mechanics), and paradigm-shifting insights (Marley's true nature) reflect IN's synthesis of abstract principles into actionable frameworks. His detached observation during crises demonstrates IN's prioritization of strategic vision over immediate reactions.",
+        "enneagram": "sp6: 'The Warmth' subtype, securing safety through intellectual preparedness. Armin's contingency planning ('We need three backup strategies'), risk-assessment obsession, and hoarding of tactical knowledge manifest sp6's anxiety-transcendence via mental fortification. His self-sacrificial gambits channel sp6's core loyalty - leveraging intellect to protect the 'found family' (Scouts) against existential threats.",
+        "psychosophy": "LEFV (1L, 2E, 3F, 4V): Logically sovereign (1L) - his strategies override emotional biases ('Sometimes cruelty is necessary'). Emotionally fluent though (2E) - persuading allies through empathetic insight into enemy psychology. Physically instrumental (3F) - treating his body as expendable for strategic gains (burned skin as Colossal Titan cost). Volitionally passive (4V) - still haunted by imposter syndrome despite proven brilliance ('Erwin should have survived instead')."
+      }
+    },
+    {
+      "name": "Sheldon Cooper",
+      "typology": "IT so6 LVFE",
+      "arguments": {
+        "jung": "IT: Hyper-logical and system-dependent. Sheldon's rigid routines (e.g., seat spot) exemplify IT's reliance on impersonal structures.",
+        "enneagram": "so6: 'The Duty' subtype, seeking security through intellectual superiority. His anxiety about change and need for 'safe' people (e.g., Leonard) reflect counterphobic so6.",
+        "psychosophy": "LVFE (1L, 2V, 3F, 4E): Truth-driven and hyperrational (1L), conformist and democratic (2V), physically disgusted/ambiguous (3F), and emotionally infant/submissive (4E)."
+      }
+    },
+    {
+      "name": "Walter White",
+      "typology": "IT sx6 LFVE",
+      "arguments": {
+        "jung": "IT: Stoic and ruthlessly pragmatic. Walt's transformation from meekness to dominance mirrors IT's latent territorial intensity.",
+        "enneagram": "sx6: 'The Strength' subtype, reacting to fear with aggression. His 'I am the danger' persona and loyalty tests reflect sx6's defensive dominance.",
+        "psychosophy": "LFVE (1L, 2F, 3V, 4E): Order-obsessed and logically self-righteous (1L), physically resourceful and flexible (2F), fragile ego and reputation anxiety (3V), emotionally inert despite coldness (4E)."
+      }
+    },
+    {
+      "name": "Ren Amamiya",
+      "typology": "EN sp7 VLFE",
+      "arguments": {
+        "jung": "EN: Adaptive connector who thrives in fluid situations. Ren's natural leadership of the Phantom Thieves, ability to forge bonds across social strata, and improvisational combat tactics reflect EN's talent for synthesizing people/resources toward visionary goals. His seamless switching between daily student life and metaverse navigation demonstrates EN's contextual flexibility.",
+        "enneagram": "sp7: 'The Family' subtype, seeking security through tangible comforts and aliiances. Ren's grounding routines (on par with planning/abstractions), resource management and quiet enjoyment of small pleasures manifest sp7's focus on building a stable foundation. His Phantom Thieves` group rebellion channels sp7's desire for escape through made alliances as 'family' neurosis coping.",
+        "psychosophy": "VLFE (1V, 2L, 3F, 4E): Steadfast principles and willpower guide his rebellion (1V - 'change corrupt hearts, whatever it takes'). Strategic planning (2L) governs his infiltration routes and confidant prioritization. Physically attuned, resourceful and gluttonous despite asceticism (3F), while emotionally reserved and blending (4E) - his stoic demeanor masks internal turmoil, often expressing care through actions over words."
+      }
+    },
+    {
+      "name": "Dr. Emmett Brown",
+      "typology": "EN so7 VLEF",
+      "arguments": {
+        "jung": "EN: Energetic visionary obsessed with future possibilities. Doc's relentless tinkering, rapid-fire ideation ('1.21 gigawatts!'), and disregard for conventional scientific protocols reflect EN's novelty-driven, boundary-pushing nature. His ability to rally others (Marty, Clara) around impossible projects demonstrates EN's connective enthusiasm.",
+        "enneagram": "so7: 'The Pharisaism' subtype, transmuting anxiety into utopian solutions. Doc's inventions (time travel, Mr. Fusion) embody so7's desire to revolutionize society through innovation. His exile in 1885 highlights the so7's fear of disconnection from collective progress, while mentoring Marty channels his need to contribute to a 'greater cause' beyond personal gain.",
+        "psychosophy": "VLEF (1V, 2L, 3E, 4F): Governed by unwavering principles (1V) like preserving the space-time continuum ('we mustn't disrupt the timeline!'). His 2L manifests in meticulous schematics and hyper-rational explanations despite chaotic methods. Emotionally inadequate and volatile (3E) during crises ('Great Scott!'), yet neglects physical needs (4F) - seen in lab accidents, disheveled appearance, and forgetting basic sustenance."
+      }
+    },
+    {
+      "name": "Yosuke Hanamura",
+      "typology": "EN sx7 ELFV",
+      "arguments": {
+        "jung": "EN: Energetic connector of people and ideas. Yosuke's restless curiosity, improvisational problem-solving, and tendency to jump between hobbies/projects reflect EN's novelty-seeking and future-oriented mindset. His role as the 'glue' of the Investigation Team showcases EN's ability to synthesize disparate information.",
+        "enneagram": "sx7: 'The Imagination' subtype, avoiding pain through constant stimulation. Yosuke's impulsive behavior (e.g., jumping into TVs), humor-as-defense-mechanism, and romanticized view of city life exemplify sx7's escapism through adventure and idealized possibilities. His frustration with small-town life mirrors the sx7's fear of being trapped in mundanity.",
+        "psychosophy": "ELFV (1E, 2L, 3F, 4V): Emotionally expressive with mood-driven outbursts (1E), intellectually curious (2L) but prone to jumping to conclusions, physically restless/unsure (3F) in his need for constant activity, and ethically flexible (4V) when justifying his actions (e.g., his jealousy-driven moments). His 4V manifests in occasional moral contradictions between his 'nice guy' self-image and petty behaviors."
+      }
+    },
+    {
+      "name": "Toji Fushiguro",
+      "typology": "ES sp8 VFEL",
+      "arguments": {
+        "jung": "ES: Hyper-present tactician attuned to physical realities. Toji's unparalleled environmental awareness, instinctive weapon mastery, and ruthless exploitation of immediate advantages reflect ES's mastery of tangible space and resources. His dismissal of jujutsu theory ('I see cursed energy? Doesn't matter') underscores ES's trust in sensory data over abstract systems.",
+        "enneagram": "sp8: 'The Survival' subtype, asserting autonomy through control of resources. Toji's mercenary pragmatism ('payment upfront'), weapon hoarding, and self-preservation focus manifest sp8's prioritization of tangible security. His rejection of Zenin clan politics channels sp8's defiance against systems that constrain independence, while his 'Heavenly Restriction' becomes the ultimate sp8 tool - leveraging physicality to dominate a world stacked against him.",
+        "psychosophy": "VFEL (1V, 2F, 3E, 4L): Defined by iron self-determination (1V) - severing clan ties and forging his own path. His 2F manifests as supreme physical attunement, treating his body as a perfected weapon. Emotionally reactive (3E) only when deeply provoked (e.g., Gojo's taunts triggering fury), while logic (4L) is discarded for instinct; he mocks complex plans, relying on sensory processing and improvisation ('Plan? I`ll just kill them')."
+      }
+    },
+    {
+      "name": "Hank Schrader",
+      "typology": "ES so8 VFLE",
+      "arguments": {
+        "jung": "ES: Concrete enforcer grounded in tangible realities. Hank's crime scene analysis, instinctive threat assessment ('My gut says Heisenberg's still out there'), and reliance on physical evidence reflect ES's present-focused pragmatism. His hands-on policing style - from DEA raids to mineral collecting - demonstrates ES's trust in sensory data over abstract theories.",
+        "enneagram": "so8: 'The Complicity' subtype, protecting institutions through controlled force. Hank's fierce loyalty to the DEA ('This is my house!'), paternalistic protection of Albuquerque citizens, and crusade against Heisenberg manifest so8's drive to impose order on his social sphere. His contempt for bureaucratic corruption channels so8's hatred of systemic betrayal, while his undercover work showcases calculated rather than reckless aggression.",
+        "psychosophy": "VFLE (1V, 2F, 3L, 4E): Governed by an ironclad moral code (1V) - 'I don't break bad' defines his worldview. Physically assertive (2F) through tactical dominance (raids, firearms expertise) and hands-on hobbies (mineralogy). Logically defensive (3L), insecurely dismissing theoretical approaches ('Fancy lab boys don't get it') while relying on street-smart deduction. Emotionally suppressed (4E) - his machismo masks trauma, expressing vulnerability only through outbursts or dark humor."
+      }
+    },
+    {
+      "name": "Tony Montana",
       "typology": "ES sx8 VFEL",
       "arguments": {
-        "jung": "ES: Tactical opportunist thriving on power dynamism. Tuco's explosive negotiations and resource control ('tight tight tight!') showcase ES adaptability and action.",
-        "enneagram": "sx8: 'Challenger' subtype, enforcing loyalty through volatility. His 'family first' rhetoric masking paranoia aligns with sexual 8's possessive intensity.",
-        "psychosophy": "VFEL (1V, 2F, 3E, 4L): Dominant willpower, physically indulgent, emotionally reckless, and dismissive of abstract logic."
+        "jung": "ES: Hyper-present tactician operating through sensory dominance. Tony's acute environmental awareness during shootouts, instinctive weapon handling, and obsession with tangible power symbols (cocaine mountains, mansion, tiger) reflect ES's immersion in physical reality. His zero-delay reactions to threats ('You wanna play rough? Okay!') demonstrate ES's mastery of immediate action over abstract strategy.",
+        "enneagram": "sx8: 'The Possessiveness' subtype, merging intensity with domination. Tony's boundary-obliterating lust for power ('The world is yours'), obsessive control over Elvira/Gina, and willingness to escalate conflicts to annihilation manifest sx8's fusion of aggression and intimacy. His famous last stand channels the sx8's refusal to surrender - transforming destruction into perverse transcendence.",
+        "psychosophy": "VFEL (1V, 2F, 3E, 4L): Volitionally absolute (1V) - creating his own rules ('I always tell the truth... even when I lie'). Physically dominant (2F) through violence-as-communication and sensory excess (cocaine, food, sex). Emotionally volcanic (3E) - jealousy and betrayal trigger explosive rage (e.g., murdering Manny). Logic-dismissive (4L) - rejecting strategic alliances ('I don't negotiate') and long-term consequences for immediate gratification."
       }
     },
     {
-        "name": "Ichigo Kurosaki",
-        "typology": "IF sp4 EFVL",
-        "arguments": {
-          "jung": "IF: Ethically rigid protector driven by personal loyalty. Ichigo's relentless defense of loved ones and black-and-white moral code ('I fight to protect') align with the IF's resolve.",
-          "enneagram": "sp4: 'Enduring Individualist' subtype, transmuting shame into hyper-competence. His secret fear of inadequacy (e.g., hybrid identity crises) manifests as overcompensation through battle prowess and emotional isolation.",
-          "psychosophy": "EFVL (1E, 2F, 3V, 4L): Emotionally intense convictions fuel his willpower, physically dominant in combat, strategically pragmatic under pressure, yet struggles with existential self-worth beyond his warrior role."
-        }
+      "name": "Arthur Morgan",
+      "typology": "IS sp9 FLEV",
+      "arguments": {
+        "jung": "IS: Internally anchored observer attuned to sensory realities. Arthur's wilderness tracking skills, photographic memory of landscapes, and methodical approach to survival tasks reflect IS's immersion in tangible details. His journal sketches and quiet environmental awareness demonstrate IS's preference for concrete experience over abstraction, processing the world through accumulated practical knowledge.",
+        "enneagram": "sp9: 'The Appetite' subtype, preserving inner peace through routine and nature. Arthur's camp chores, hunting rituals, and solitary fishing manifest sp9's need for stabilizing rhythms. His avoidance of gang politics channels sp9's conflict aversion, while protecting the Marston family reveals his core sp9 drive to safeguard his 'found home' against disruption.",
+        "psychosophy": "FLEV (1F, 2L, 3E, 4V): Physically indulgent and grounded (1F) through expert horsemanship, gunplay, and wilderness survival. Pragmatically logical (2L) in tactical decisions like heist planning and resource management. Emotionally conflicted (3E) - his journal reveals deep sentimentality contrasting with hardened exterior. Volitionally surrendered (4V), following Dutch's authority until terminal illness forces autonomous moral reckoning ('I gave you all I had')."
+      }
+    },
+    {
+      "name": "Yuji Itadori",
+      "typology": "EF so9 FVLE",
+      "arguments": {
+        "jung": "EF: Instinctively people-focused harmonizer driven by emotional immediacy. Yuji's rapid connection-building (Todo's 'brotherhood'), protective impulses, and combat fueled by empathy ('I'll carry Sukuna's sins!') reflect EF's fusion of action and emotional resonance. His physical expressiveness - from joyful camaraderie to rage-filled bursts - demonstrates EF's embodiment of feeling through movement.",
+        "enneagram": "so9: 'The Harmony' subtype, finding identity through group belonging. Yuji's seamless integration into Jujutsu High, deference to team strategy ('What should we do, Fushiguro?'), and avoidance of interpersonal conflict manifest so9's prioritization of collective harmony. His self-sacrificial drive channels so9's need to contribute to a greater whole, transforming personal suffering into social purpose.",
+        "psychosophy": "FVLE (1F, 2V, 3L, 4E): Physically anchored (1F) through indulgence and instinctive combat flow. Volitionally convicted (2V) by his life's meaning ('Help people die properly'). Logically pragmatic and unsure (3L) - absorbing tactical knowledge when necessary but defaulting to action over analysis. Emotionally suppressed (4E), swallowing trauma to maintain group stability until explosive breakdowns reveal buried anguish."
+      }
     },
     {
       "name": "Fluttershy",
       "typology": "IS sx9 FELV",
       "arguments": {
-        "jung": "IS: Harmonious mediator attuned to sensing. Her animal caretaking and aversion to conflict reflect IS comfort-focused empathy.",
-        "enneagram": "sx9: 'Symbiosis' subtype, diffusing identity into relationships. Her 'Stare' episodes paradoxically show 9's repressed assertiveness emerging under pressure.",
-        "psychosophy": "FELV: Physically nurturing, emotionally gentle, intellectually self-effacing, and morally flexible."
+        "jung": "IS: Gentle internal observer attuned to sensory subtleties. Fluttershy's exceptional animal communication reflects IS's immersion in non-verbal cues and environmental details. Her quiet routines (tea parties, animal care) demonstrate IS's preference for tangible, unhurried engagement over abstract concepts, processing the world through accumulated sensory wisdom.",
+        "enneagram": "sx9: 'The Symbiosis' subtype, seeking harmony through deep bonds. Fluttershy's fusion with animal consciousness ('The Stare'), devotion to creature comforts, and fear of social friction manifest sx9's longing for seamless connection. Her rare assertiveness emerges only when protecting her intimate circle, channeling the sx9's capacity for fierce loyalty within chosen bonds.",
+        "psychosophy": "FELV (1F, 2E, 3L, 4V): Physically harmonizing (1F) through nurturing touch and environmental calm. Emotionally permeable (2E) - absorbing others' distress ('I feel their pain') while radiating soothing presence. Logically hesitant (3L), preferring intuitive empathy over complex plans. Volitionally yielding (4V), defaulting to others' initiatives until core values (animal welfare) demand quiet rebellion."
+      }
+    },
+    {
+      "name": "Soichiro Yagami",
+      "typology": "ET sp1 LVFE",
+      "arguments": {
+        "jung": "ET: System-oriented strategist governed by objective principles. Soichiro's leadership of the Kira Task Force prioritizes procedural rigor, evidence-based analysis, and institutional integrity. His clashes with L's unorthodox methods reflect ET's adherence to established legal frameworks over intuitive gambits, while his bureaucratic navigation demonstrates ET's efficiency in hierarchical systems.",
+        "enneagram": "sp1: 'The Conscience' subtype, ensuring security through ethical and efficiency consistency. Soichiro's meticulous adherence to protocol, personal austerity, and focus on family safety manifest sp1's drive for correct living as existential protection. His refusal to use the Death Note even against Kira channels sp1's fear of moral contamination through pragmatic compromise.",
+        "psychosophy": "LVFE (1L, 2V, 3F, 4E): Logically rigorous (1L) - demanding empirical proof before action and structuring investigations methodically. Volitionally principled (2V) by unwavering commitment to justice ('I serve the law, not vengeance'). Physically attuned, but neglecting (3F) through exhaustive work hours despite being aware of declining health. Emotionally suppressed (4E), internalizing stress until breaking points (e.g., weeping after Misa's interrogation) yet rejecting emotional influence on decisions."
+      }
+    },
+    {
+      "name": "Funny Valentine",
+      "typology": "ET so1 VLFE",
+      "arguments": {
+        "jung": "ET: Systemic architect governed by objective pragmatism. Valentine's manipulation of geopolitical structures, strategic corpse part acquisition, and institutional control as President reflect ET's optimization of systems for predetermined outcomes. His 'America First' doctrine demonstrates ET's imposition of utilitarian order through hierarchical power, treating morality as a variable in national efficiency equations.",
+        "enneagram": "so1: 'The Righteousness' subtype, enforcing moral order through institutional authority. Valentine's sacred mission to redirect national suffering ('Taking the napkin'), self-sacrificial framing of atrocities, and messianic vision manifest so1's conviction that systemic righteousness justifies any means. His Stand 'Dirty Deeds Done Dirt Cheap' epitomizes so1's belief in privileged access to ethical exception.",
+        "psychosophy": "VLFE (1V, 2L, 3F, 4E): Volitionally messianic (1V) - his 'sacred duty' supersedes all morality. Logically meticulous (2L) in multiversal calculations and geopolitical maneuvering. Physically utilitarian (3F), treating his body as expendable for the cause ('Scars are proof of conviction'). Emotionally detached (4E), dismissing personal connections (Scarlet's suicide) as collateral damage in America's salvation."
+      }
+    },
+    {
+      "name": "Terence Fletcher",
+      "typology": "ET sx1 VFEL",
+      "arguments": {
+        "jung": "ET: Ruthless system-optimizer governed by objective efficiency. Fletcher's surgical dismantling of weaknesses ('Not quite my tempo'), methodological breakdown of performance metrics, and institutional dominance at Shaffer Conservatory reflect ET's drive to enforce standards through hierarchical control. His rehearsal tyranny demonstrates ET's weaponization of structure to extrude excellence.",
+        "enneagram": "sx1: 'The Zeal' subtype, enforcing perfection through intimate brutality. Fletcher's targeted humiliation rituals ('So you do know the tempo!'), moral absolutism about artistic greatness, and fusion of mentorship with violence manifest sx1's channeling of repressed fury into transformative intensity. His psychological warfare seeks to forge transcendent artists through sacred cruelty.",
+        "psychosophy": "VFEL (1V, 2F, 3E, 4L): Volitionally tyrannical (1V) - his classroom is a dictatorship where dissent is annihilation ('I will demote you'). Physically weaponized (2F) through chair-throwing, invasion of personal space, and rhythmic violence (slapping tempo). Emotionally volatile (3E) - even deploying shaming tactics and trauma exploitation as pedagogical tools. Logically subordinated (4L) - dismissing rational objections ('If you deliberately sabotage my band...') for instinctive pressure-testing of limits."
       }
     }
   ],

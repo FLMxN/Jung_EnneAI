@@ -338,7 +338,7 @@ def request(message, username, bio, pic=None):
                      "10 (highlight it with some emoji). Explain to user that unhealthiness level makes characters harder to type. 5. If multiple types "
                      "are possible, explain briefly — but always exclude "
                      "correlation-incompatible results. 6. Maintain a clear and informative tone. Use many-many "
-                     "emojis widely. DON`T USE GRAPHS OR TABLES. Answer briefly AND laconically (ONLY <4096 "
+                     "emojis widely. DON`T USE GRAPHS OR TABLES. Answer briefly AND laconically (ONLY <3000 "
                      "characters) in the request language. Here`s the correlations mentioned before):\n" + str(
                          corr) + "\nHere are examples of typings (THESE ARE NOT ARCHETYPES OR BLUEPRINTS):\n" + str(
                          examples) + "\nUser`s nickname (ALWAYS do something about it like make a joke idk whatever): " + str(
