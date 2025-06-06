@@ -121,27 +121,27 @@
       "name": "Sheldon Cooper",
       "typology": "IT so6 LVFE",
       "arguments": {
-        "jung": "IT: Hyper-logical and system-dependent. Sheldon's rigid routines (e.g., seat spot) exemplify IT's reliance on impersonal structures.",
-        "enneagram": "so6: 'The Duty' subtype, seeking security through intellectual superiority. His anxiety about change and need for 'safe' people (e.g., Leonard) reflect counterphobic so6.",
-        "psychosophy": "LVFE (1L, 2V, 3F, 4E): Truth-driven and hyperrational (1L), conformist and democratic (2V), physically disgusted/ambiguous (3F), and emotionally infant/submissive (4E)."
+        "jung": "IT: Rigorous system-builder governed by internal logical frameworks. Sheldon's theoretical physics work, obsessive protocol creation (Roommate Agreement), and ontological categorization of reality (flags, train schedules) reflect IT's construction of precise mental models. His social ineptitude demonstrates Ti's prioritization of conceptual consistency over external practicalities or emotional norms.",
+        "enneagram": "so6: 'The Duty' subtype, securing safety through intellectual systems. Sheldon's reliance on routines (Thursday Thai food), contractual safeguards, and scientific dogma manifest so6's anxiety management via predictable structures. His friendship circle channels so6's core loyalty - transforming 'his people' into a stable intellectual ecosystem protecting against life's chaos.",
+        "psychosophy": "LVFE (1L, 2V, 3F, 4E): Logically absolute (1L) - treating personal theories (e.g., 'String Theory supremacy') as inviolable truth. Volitionally flexible (2V) - enforcing rituals (spot on couch) with contractual rigidity. Physically regimented (3F) through neurotic hygiene protocols and meal schedules yet dependent on others for transportation/practical needs. Emotionally oblivious (4E) - analyzing feelings as faulty data streams ('Sarcasm? I detect no tonal variance')."
       }
     },
     {
       "name": "Walter White",
       "typology": "IT sx6 LFVE",
       "arguments": {
-        "jung": "IT: Stoic and ruthlessly pragmatic. Walt's transformation from meekness to dominance mirrors IT's latent territorial intensity.",
-        "enneagram": "sx6: 'The Strength' subtype, reacting to fear with aggression. His 'I am the danger' persona and loyalty tests reflect sx6's defensive dominance.",
-        "psychosophy": "LFVE (1L, 2F, 3V, 4E): Order-obsessed and logically self-righteous (1L), physically resourceful and flexible (2F), fragile ego and reputation anxiety (3V), emotionally inert despite coldness (4E)."
+        "jung": "IT: Meticulous system-weaponizer governed by internal logic. Walter's precision chemistry ('99.1% pure'), strategic empire-building, and methodological problem-solving (hydrofluoric acid disposal, ricin deployment) reflect IT's optimization of systems through detached analysis. His transformation into Heisenberg demonstrates IT's ruthless subordination of morality to self-created principles ('I did it for me').",
+        "enneagram": "sx6: 'The Strength' subtype, preempting betrayal through controlled annihilation. Walter's fusion of protection and destruction ('I am the danger'), intimate power struggles (Jesse, family), and anticipatory violence manifest sx6's transformation of anxiety into predatory intensity. His blue meth becomes the sx6's ultimate security - asserting dominance through chemically perfected fear.",
+        "psychosophy": "LFVE (1L, 2F, 3V, 4E): Logically absolute (1L) - reducing morality to chemical equations ('Chemistry is the study of transformation'). Physically precise (2F) through laboratory mastery and tactical violence. Volitionally fractured (3V) - oscillating between self-justification ('I did it for my family') and primal will-to-power. Emotionally necrotic (4E) - weaponizing false vulnerability while true feelings manifest as explosive cruelty when challenged."
       }
     },
     {
-      "name": "Ren Amamiya",
+      "name": "James McGill",
       "typology": "EN sp7 VLFE",
       "arguments": {
-        "jung": "EN: Adaptive connector who thrives in fluid situations. Ren's natural leadership of the Phantom Thieves, ability to forge bonds across social strata, and improvisational combat tactics reflect EN's talent for synthesizing people/resources toward visionary goals. His seamless switching between daily student life and metaverse navigation demonstrates EN's contextual flexibility.",
-        "enneagram": "sp7: 'The Family' subtype, seeking security through tangible comforts and aliiances. Ren's grounding routines (on par with planning/abstractions), resource management and quiet enjoyment of small pleasures manifest sp7's focus on building a stable foundation. His Phantom Thieves` group rebellion channels sp7's desire for escape through made alliances as 'family' neurosis coping.",
-        "psychosophy": "VLFE (1V, 2L, 3F, 4E): Steadfast principles and willpower guide his rebellion (1V - 'change corrupt hearts, whatever it takes'). Strategic planning (2L) governs his infiltration routes and confidant prioritization. Physically attuned, resourceful and gluttonous despite asceticism (3F), while emotionally reserved and blending (4E) - his stoic demeanor masks internal turmoil, often expressing care through actions over words."
+        "jung": "EN: Relentless opportunist synthesizing possibilities into resourceful strategies. Jimmy's rapid identity shifts (Slippin' Jimmy → Saul Goodman → Gene Takavic), improvisational legal maneuvers ('It's showtime!'), and talent for reframing failures as opportunities reflect EN's future-oriented adaptability. His chameleonic networking demonstrates EN's connective intuition - transforming random encounters into symbiotic arrangements.",
+        "enneagram": "sp7: 'The Family' subtype, securing freedom through resource stockpiling and net of alliances. Jimmy's hoarding of burner phones, emergency cash stashes, and contingency escape plans manifest sp7's anxiety management via tangible exit strategies. His colorfully excessive persona channels sp7's core defense - transforming trauma (Chuck's betrayal) into flamboyant self-reinvention that masks chronic dissatisfaction.",
+        "psychosophy": "VLFE (1V, 2L, 3F, 4E): Volitionally sovereign (1V) - creating his own rules ('S'all good, man!') while evading external control. Logically adaptive (2L) - weaponizing legal technicalities into survival architecture. Physically insecure (3F) through flashy suits, Cadillacs, and hedonistic binges compensating for deprivation. Emotionally evasive (4E) - suppressing guilt/shame with performative confidence until breakdowns reveal fractured self-worth."
       }
     },
     {
