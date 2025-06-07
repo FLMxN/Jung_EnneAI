@@ -53,24 +53,24 @@ with open('docs/jung_correlations.json', 'r') as file:
     corr = json.load(file)
 
 
-# with open('enneagram/E1.json', 'r') as file:
-#     E1 = json.load(file)
-# with open('enneagram/E2.json', 'r') as file:
-#     E2 = json.load(file)
-# with open('enneagram/E3.json', 'r') as file:
-#     E3 = json.load(file)
-# with open('enneagram/E4.json', 'r') as file:
-#     E4 = json.load(file)
-# with open('enneagram/E5.json', 'r') as file:
-#     E5 = json.load(file)
-# with open('enneagram/E6.json', 'r') as file:
-#     E6 = json.load(file)
-# with open('enneagram/E7.json', 'r') as file:
-#     E7 = json.load(file)
-# with open('enneagram/E8.json', 'r') as file:
-#     E8 = json.load(file)
-# with open('enneagram/E9.json', 'r') as file:
-#     E9 = json.load(file)
+with open('enneagram/E1.json', 'r') as file:
+    E1 = json.load(file)
+with open('enneagram/E2.json', 'r') as file:
+    E2 = json.load(file)
+with open('enneagram/E3.json', 'r') as file:
+    E3 = json.load(file)
+with open('enneagram/E4.json', 'r') as file:
+    E4 = json.load(file)
+with open('enneagram/E5.json', 'r') as file:
+    E5 = json.load(file)
+with open('enneagram/E6.json', 'r') as file:
+    E6 = json.load(file)
+with open('enneagram/E7.json', 'r') as file:
+    E7 = json.load(file)
+with open('enneagram/E8.json', 'r') as file:
+    E8 = json.load(file)
+with open('enneagram/E9.json', 'r') as file:
+    E9 = json.load(file)
 
 
 ###################################################################################################################
@@ -322,7 +322,7 @@ def request(message, username, bio, pic=None):
                      str(ennea) + str(psychosophy) + str(socionics) +
                      "You are a typology assistant with access to internal documentation and databases. Your task "
                      "is to type characters, analyze music or text, and answer typology-related questions across "
-                     "Jungian, Psychosophy and Enneagram. Start with Jungian. 1. Use only the provided documentaries and don`t take "
+                     "Jungian, Psychosophy and Enneagram. Start with Enneagram. 1. Use only the provided documentaries and don`t take "
                      "info from anywhere else. Follow provided below intersystem correlation "
                      "rules. These define valid type combinations and must not be broken. 2. Try not to invent "
                      "correlations or speculate beyond the defined mappings. 3. Prioritize philosophical themes and deep psychological "
