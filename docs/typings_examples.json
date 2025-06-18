@@ -37,12 +37,12 @@
       }
     },
     {
-      "name": "Goro Akechi",
+      "name": "Patrick Bateman",
       "typology": "ET so3 FLVE",
       "arguments": {
-        "jung": "ET: Strategic systemizer who weaponizes objective frameworks. Akechi's detective persona leverages institutional credibility to manipulate investigations, while his meticulous cognitive psience research reflects ET's optimization of knowledge for predetermined outcomes. His calculated identity curation ('Detective Prince') demonstrates ET's external calibration of image-as-tool within social hierarchies.",
-        "enneagram": "so3: 'The Performance' subtype, securing worth through public adoration. Akechi's media-engineered persona ('Second Coming of the Detective Prince'), performance of altruism, and craving for Shido's recognition manifest so3's transactional excellence. His psychotic breakdown channels so3's disintegration - when societal validation fails, identity collapses into vengeful annihilation.",
-        "psychosophy": "FLVE (1F, 2L, 3V, 4E): Physically confident (1F) through gluttony, appearance and curated public presentation. Logically ruthless (2L) - designing cognitive traps and manipulating evidence. Volitionally fractured (3V), torn between revenge against Shido and desperate need for paternal validation. Emotionally necrotic (4E), weaponizing false charm while true rage manifests as sadistic glee during mental shutdowns."
+        "jung": "ET: Externally focused strategist obsessed with systemic efficiency. Bateman's corporate ruthlessness, fixation on status symbols (business cards, reservations), and ritualized routines reflect ET's need for measurable control. His calculated violence mirrors ET's detached problem-solving – eliminating 'inefficiencies' (homeless, rivals) through methodical processes while maintaining the appearance of social conformity.",
+        "enneagram": "so3: 'The Performance' subtype, deriving worth from social validation. Bateman's entire identity is constructed around corporate hierarchy ('I'm in murders and executions'), designer labels, and visible success markers. His meticulous grooming and forced charm ('I have to return some videotapes') exemplify so3's performative excellence, while his killings manifest pathological rage at perceived status threats.",
+        "psychosophy": "FLVE (1F, 2L, 3V, 4E): Governed by physical perfectionism (1F) – obsessive workouts, skincare, and appearance monitoring. His 2L manifests in coldly logical justifications for atrocities ('I simply am not there'). Ethically bankrupt (3V), adopting societal norms as camouflage while violating all principles. Emotionally void (4E), mimicking feelings ('I need to engage in homicidal behavior') without authentic connection, reducing people to objects."
       }
     },
     {
@@ -100,14 +100,14 @@
       }
     },
     {
-      "name": "Johan Liebert",
+      "name": "Onodera Punpun",
       "typology": "IN sx5 LEVF",
       "arguments": {
-        "jung": "IN: Abstract architect of existential patterns. Johan's manipulation of societal systems, philosophical annihilation of meaning frameworks ('Nameless Monster'), and perception of humanity as symbolic constructs reflect IN's detachment from concrete reality. His ability to induce identity dissolution in others demonstrates IN's mastery of fundamental psychological archetypes.",
-        "enneagram": "sx5: 'The Exclusivity' subtype, merging intimacy with ontological annihilation. Johan's hypnotic personal connections (Nina, Tenma, Grimmer), weaponization of shared trauma, and nihilistic 'rebirth' fantasies manifest sx5's perverse fusion of knowledge and intimacy. His library of human suffering becomes the sx5's ultimate collection to fill his existential void.",
-        "psychosophy": "LEVF (1L, 2E, 3V, 4F): Logically absolute (1L) - deconstructing morality into meaningless constructs ('There is no such thing as monsters'). Emotionally vampiric (2E) - absorbing others' psyches through confessions while radiating charismatic emptiness. Volitionally negating and insecure (3V) - his only 'will' being the erasure of selfhood and others'. Physically ephemeral (4F) - surviving gunshots through sheer nihilistic detachment, treating his body as disposable concept-flesh."
+        "jung": "IN: Profoundly introspective observer trapped in internal landscapes. Punpun's dissociation from reality (symbolized by his bird form), pattern-recognition of existential despair, and silent witnessing of life's cruelties reflect IN's detached processing. His future projections manifest as self-fulfilling prophecies of alienation ('I'll always be alone'), showcasing IN's intuitive anticipation of emotional trajectories.",
+        "enneagram": "sx5: 'The Exclusivity' subtype, seeking salvation through avaricious intimacy. Punpun's pathological fixation on Aiko embodies sx5's craving for transformative fusion to escape inner emptiness. His voyeuristic tendencies and hoarding of emotional 'resources' (memories, fantasies) reflect sx5's fear of depletion, while failed attempts at connection become self-destructive rituals.",
+        "psychosophy": "LEVF (1L, 2E, 3V, 4F): Governed by internal systems (1L) constructing elaborate metaphysical frameworks ('God is watching'). His 2E manifests in consuming emotional intensities (Aiko-obsession) buried beneath detachment. Ethically fluid (3V), he rationalizes moral failures (stalking, murder) through self-victimization. Physically disconnected (4F), neglecting bodily needs and dissociating during trauma - his bird-form symbolizing 4F's rejection of corporeal reality."
       }
-    },
+},
     {
       "name": "Armin Arlert",
       "typology": "IN sp6 LEFV",
