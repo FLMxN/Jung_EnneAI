@@ -1,30 +1,30 @@
 {
   "sp2": {
-    "jung_correlation": "EF or ES or EN",
+    "jung_correlation": "only EF",
     "psychosophy_correlation": "FEVL or FELV"
   },
   "so2": {
-    "jung_correlation": "EF or EN",
+    "jung_correlation": "only EF",
     "psychosophy_correlation": "VELF or VEFL"
   },
   "sx2": {
-    "jung_correlation": "EF or ES or EN",
+    "jung_correlation": "only EF",
     "psychosophy_correlation": "only FEVL"
   },
   "sp3": {
-    "jung_correlation": "ET or ES",
+    "jung_correlation": "only ET",
     "psychosophy_correlation": "FVLE or FLVE"
   },
   "so3": {
-    "jung_correlation": "ET or ES or EN",
+    "jung_correlation": "only ET",
     "psychosophy_correlation": "only FLVE"
   },
   "sx3": {
-    "jung_correlation": "EF or EN",
+    "jung_correlation": "only EF",
     "psychosophy_correlation": "only FEVL"
   },
   "sp4": {
-    "jung_correlation": "IF or IS",
+    "jung_correlation": "only IF",
     "psychosophy_correlation": "EFLV or EVFL or EFVL"
   },
   "so4": {
@@ -36,7 +36,7 @@
     "psychosophy_correlation": "EFVL"
   },
   "sp5": {
-    "jung_correlation": "IN or IT or IS",
+    "jung_correlation": "only IN",
     "psychosophy_correlation": "only LFEV"
   },
   "so5": {
@@ -44,7 +44,7 @@
     "psychosophy_correlation": "only LVEF"
   },
   "sx5": {
-    "jung_correlation": "IN or IF",
+    "jung_correlation": "only IN",
     "psychosophy_correlation": "LEVF or LEFV"
   },
   "sp6": {
@@ -60,11 +60,11 @@
     "psychosophy_correlation": "only LFVE"
   },
   "sp7": {
-    "jung_correlation": "EN or ET or ES",
+    "jung_correlation": "only EN",
     "psychosophy_correlation": "VLFE or FLVE"
   },
   "so7": {
-    "jung_correlation": "EN or ET or EF",
+    "jung_correlation": "EN or ET",
     "psychosophy_correlation": "VLFE or VLEF"
   },
   "sx7": {
@@ -84,7 +84,7 @@
     "psychosophy_correlation": "VFLE or VFEL"
   },
   "sp9": {
-    "jung_correlation": "IS or ES",
+    "jung_correlation": "only IS",
     "psychosophy_correlation": "only FLEV"
   },
   "so9": {
@@ -92,19 +92,19 @@
     "psychosophy_correlation": "FELV or FVLE"
   },
   "sx9": {
-    "jung_correlation": "IS or EF",
+    "jung_correlation": "only IS",
     "psychosophy_correlation": "only FELV"
   },
   "sp1": {
-    "jung_correlation": "ET or IT or IS",
+    "jung_correlation": "only ET",
     "psychosophy_correlation": "LVFE or LFVE"
   },
   "so1": {
-    "jung_correlation": "ET or IT",
+    "jung_correlation": "only ET",
     "psychosophy_correlation": "VFLE or VLFE or LVFE"
   },
   "sx1": {
-    "jung_correlation": "ET or ES",
+    "jung_correlation": "only ET",
     "psychosophy_correlation": "VFEL or VFLE or VLFE"
   }
 }
