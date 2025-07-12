@@ -23,8 +23,7 @@ import datetime
 
 ###########################################################################################################
 
-TOKEN = "8146851047:AAHwY1ViCJLjLCniKH05dIOCZUgxOaAXE0k"  #testing
-# TOKEN = "7961591624:AAEqeYOvJsYGr6TRp2B0gOeGmtPZWvl-KTo" #enneai
+##tokens here
 
 client = Client()
 storage = MemoryStorage()
