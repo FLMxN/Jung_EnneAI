@@ -34,75 +34,76 @@ nest_asyncio.apply()
 
 users = set()
 time_shot = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
+llm = 'gpt-4o'
 
 ###########################################################################################################
+if __name__ == "__main__":
+    with open('docs/Enneagram_Refined_Complete.json', 'r') as file:
+        ennea = json.load(file)
+    with open('docs/typings_examples.json', 'r') as file:
+        examples = json.load(file)
+    # with open('deprecated/type_comparision.json', 'r') as file:
+    #     comparison = json.load(file)
+    # with open('deprecated/why_not_e8.json', 'r') as file:
+    #     why_not_e8 = json.load(file)
+    with open('docs/psychosophy_v2.json', 'r') as file:
+        psychosophy = json.load(file)
+    with open('docs/jungian_docs.json', 'r') as file:
+        socionics = json.load(file)
+    with open('docs/jung_correlations.json', 'r') as file:
+        corr = json.load(file)
 
-with open('docs/Enneagram_Refined_Complete.json', 'r') as file:
-    ennea = json.load(file)
-with open('docs/typings_examples.json', 'r') as file:
-    examples = json.load(file)
-# with open('deprecated/type_comparision.json', 'r') as file:
-#     comparison = json.load(file)
-# with open('deprecated/why_not_e8.json', 'r') as file:
-#     why_not_e8 = json.load(file)
-with open('docs/psychosophy_v2.json', 'r') as file:
-    psychosophy = json.load(file)
-with open('docs/jungian_docs.json', 'r') as file:
-    socionics = json.load(file)
-with open('docs/jung_correlations.json', 'r') as file:
-    corr = json.load(file)
+    with open('enneagram/E1.json', 'r') as file:
+        E1 = json.load(file)
+    with open('enneagram/E2.json', 'r') as file:
+        E2 = json.load(file)
+    with open('enneagram/E3.json', 'r') as file:
+        E3 = json.load(file)
+    with open('enneagram/E4.json', 'r') as file:
+        E4 = json.load(file)
+    with open('enneagram/E5.json', 'r') as file:
+        E5 = json.load(file)
+    with open('enneagram/E6.json', 'r') as file:
+        E6 = json.load(file)
+    with open('enneagram/E7.json', 'r') as file:
+        E7 = json.load(file)
+    with open('enneagram/E8.json', 'r') as file:
+        E8 = json.load(file)
+    with open('enneagram/E9.json', 'r') as file:
+        E9 = json.load(file)
 
-with open('enneagram/E1.json', 'r') as file:
-    E1 = json.load(file)
-with open('enneagram/E2.json', 'r') as file:
-    E2 = json.load(file)
-with open('enneagram/E3.json', 'r') as file:
-    E3 = json.load(file)
-with open('enneagram/E4.json', 'r') as file:
-    E4 = json.load(file)
-with open('enneagram/E5.json', 'r') as file:
-    E5 = json.load(file)
-with open('enneagram/E6.json', 'r') as file:
-    E6 = json.load(file)
-with open('enneagram/E7.json', 'r') as file:
-    E7 = json.load(file)
-with open('enneagram/E8.json', 'r') as file:
-    E8 = json.load(file)
-with open('enneagram/E9.json', 'r') as file:
-    E9 = json.load(file)
-
-with open('socionics_semantics/ILE.txt', 'r', encoding='utf-8') as file:
-    ILE = file.read()
-with open('socionics_semantics/ESE.txt', 'r', encoding='utf-8') as file:
-    ESE = file.read()
-with open('socionics_semantics/LII.txt', 'r', encoding='utf-8') as file:
-    LII = file.read()
-with open('socionics_semantics/SEI.txt', 'r', encoding='utf-8') as file:
-    SEI = file.read()
-with open('socionics_semantics/EIE.txt', 'r', encoding='utf-8') as file:
-    EIE = file.read()
-with open('socionics_semantics/SLE.txt', 'r', encoding='utf-8') as file:
-    SLE = file.read()
-with open('socionics_semantics/IEI.txt', 'r', encoding='utf-8') as file:
-    IEI = file.read()
-with open('socionics_semantics/LSI.txt', 'r', encoding='utf-8') as file:
-    LSI = file.read()
-with open('socionics_semantics/IEE.txt', 'r', encoding='utf-8') as file:
-    IEE = file.read()
-with open('socionics_semantics/LSE.txt', 'r', encoding='utf-8') as file:
-    LSE = file.read()
-with open('socionics_semantics/EII.txt', 'r', encoding='utf-8') as file:
-    EII = file.read()
-with open('socionics_semantics/SLI.txt', 'r', encoding='utf-8') as file:
-    SLI = file.read()
-with open('socionics_semantics/LIE.txt', 'r', encoding='utf-8') as file:
-    LIE = file.read()
-with open('socionics_semantics/SEE.txt', 'r', encoding='utf-8') as file:
-    SEE = file.read()
-with open('socionics_semantics/ILI.txt', 'r', encoding='utf-8') as file:
-    ILI = file.read()
-with open('socionics_semantics/ESI.txt', 'r', encoding='utf-8') as file:
-    ESI = file.read()
+    with open('socionics_semantics/ILE.txt', 'r', encoding='utf-8') as file:
+        ILE = file.read()
+    with open('socionics_semantics/ESE.txt', 'r', encoding='utf-8') as file:
+        ESE = file.read()
+    with open('socionics_semantics/LII.txt', 'r', encoding='utf-8') as file:
+        LII = file.read()
+    with open('socionics_semantics/SEI.txt', 'r', encoding='utf-8') as file:
+        SEI = file.read()
+    with open('socionics_semantics/EIE.txt', 'r', encoding='utf-8') as file:
+        EIE = file.read()
+    with open('socionics_semantics/SLE.txt', 'r', encoding='utf-8') as file:
+        SLE = file.read()
+    with open('socionics_semantics/IEI.txt', 'r', encoding='utf-8') as file:
+        IEI = file.read()
+    with open('socionics_semantics/LSI.txt', 'r', encoding='utf-8') as file:
+        LSI = file.read()
+    with open('socionics_semantics/IEE.txt', 'r', encoding='utf-8') as file:
+        IEE = file.read()
+    with open('socionics_semantics/LSE.txt', 'r', encoding='utf-8') as file:
+        LSE = file.read()
+    with open('socionics_semantics/EII.txt', 'r', encoding='utf-8') as file:
+        EII = file.read()
+    with open('socionics_semantics/SLI.txt', 'r', encoding='utf-8') as file:
+        SLI = file.read()
+    with open('socionics_semantics/LIE.txt', 'r', encoding='utf-8') as file:
+        LIE = file.read()
+    with open('socionics_semantics/SEE.txt', 'r', encoding='utf-8') as file:
+        SEE = file.read()
+    with open('socionics_semantics/ILI.txt', 'r', encoding='utf-8') as file:
+        ILI = file.read()
+    with open('socionics_semantics/ESI.txt', 'r', encoding='utf-8') as file:
+        ESI = file.read()
 
 ###################################################################################################################
 
@@ -184,7 +185,6 @@ async def process_photo(message: Message):
         else:
             await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
 
-
 @dp.message(Command('bio'))
 async def kin(message: Message) -> None:
     logging.info(msg="Request received from user_id: " + str(message.from_user.id))
@@ -218,7 +218,6 @@ async def kin(message: Message) -> None:
     # Save updated data
     with open(user_file, 'w', encoding='utf-8') as f:
         json.dump(user_data, f, indent=4, ensure_ascii=False)
-
 
 @dp.message(Command('url'))
 async def char(message: Message) -> None:
@@ -324,8 +323,6 @@ async def socio(message: Message) -> None:
         logging.error(f"Error: {str(e)}")
         await message.reply("Упс! Что-то пошло не так")
 
-
-
 @dp.message()
 async def search(message: Message) -> None:
     # logging.info(msg=message.chat.type)
@@ -395,7 +392,7 @@ def request(message, username, bio, pic=None):
         image = None
         web = False
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model=llm,
         messages=[
                 {"role": "user",
                  "content":
@@ -430,7 +427,7 @@ def request(message, username, bio, pic=None):
                  },
             ],
         image=image,
-        provider=PollinationsAI,
+        # provider=PollinationsAI,
         web_search=web
         )
     return response
@@ -442,7 +439,7 @@ def semantics_request(message, username, bio, pic=None):
         image = None
     web = True
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model=llm,
         messages=[
                 {"role": "user",
                  "content":
