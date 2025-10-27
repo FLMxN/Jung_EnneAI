@@ -1,6 +1,8 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from pathlib import Path
 
-model_name = "Qwen/Qwen3-0.6B"
+model_name = str(Path("D:/qwen3-enneai"))
+quantization_config = BitsAndBytesConfig(load_in_4bit=True)
 
 # load the tokenizer and the model
 tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -8,20 +10,21 @@ model = AutoModelForCausalLM.from_pretrained(
     model_name,
     dtype="auto",
     device_map="auto",
-    load_in_4bit=True,                # use quantized weights to save VRAM
+    quantization_config=quantization_config
 )
 tokenizer.pad_token = tokenizer.eos_token
 
 # prepare the model input
-prompt = "Give me a short introduction to large language model."
+prompt = input('пиши буквы: ')
 messages = [
-    {"role": "user", "content": prompt}
+    {"role": "system", "content": "Ты - типологический ассистент, специализирущийся на системах классификации человеческой личности: соционике, эннеаграмме, психософии и других.",
+    "role": "user", "content": prompt}
 ]
 text = tokenizer.apply_chat_template(
     messages,
     tokenize=False,
     add_generation_prompt=True,
-    enable_thinking=True # Switches between thinking and non-thinking modes. Default is True.
+    enable_thinking=True
 )
 model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
 
