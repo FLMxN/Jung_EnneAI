@@ -1,49 +1,51 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, set_seed
 from pathlib import Path
+import torch
 
-model_name = str(Path("D:/qwen3-enneai"))
+# === SETTINGS ===
+MODEL_PATH = Path("D:/qwen2.5-enneai")
 quantization_config = BitsAndBytesConfig(load_in_4bit=True)
+set_seed(42)
 
-# load the tokenizer and the model
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+# === LOAD TOKENIZER ===
+tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
+if tokenizer.pad_token is None:
+    tokenizer.pad_token = tokenizer.eos_token
+
+# === LOAD MODEL ===
 model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    dtype="auto",
+    MODEL_PATH,
     device_map="auto",
-    quantization_config=quantization_config
+    quantization_config=quantization_config,
+    dtype=torch.float16,
 )
-tokenizer.pad_token = tokenizer.eos_token
+model.eval()
 
-# prepare the model input
-prompt = input('пиши буквы: ')
-messages = [
-    {"role": "system", "content": "Ты - типологический ассистент, специализирущийся на системах классификации человеческой личности: соционике, эннеаграмме, психософии и других.",
-    "role": "user", "content": prompt}
-]
-text = tokenizer.apply_chat_template(
-    messages,
-    tokenize=False,
-    add_generation_prompt=True,
-    enable_thinking=True
-)
-model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
+# === INFERENCE LOOP ===
+while True:
+    prompt = input("\n🗨️  Input text (or 'exit' to quit): ").strip()
+    if not prompt or prompt.lower() in {"exit", "quit"}:
+        break
 
-# conduct text completion
-generated_ids = model.generate(
-    **model_inputs,
-    max_new_tokens=32768
-)
-output_ids = generated_ids[0][len(model_inputs.input_ids[0]):].tolist() 
+    # Encode prompt
+    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
-# parsing thinking content
-try:
-    # rindex finding 151668 (</think>)
-    index = len(output_ids) - output_ids[::-1].index(151668)
-except ValueError:
-    index = 0
+    # Generate response
+    with torch.inference_mode():
+        generated_ids = model.generate(
+            **inputs,
+            max_new_tokens=200,
+            temperature=0.4,
+            top_p=0.9,
+            repetition_penalty=1.1,
+            do_sample=True,
+            pad_token_id=tokenizer.eos_token_id
+        )
 
-thinking_content = tokenizer.decode(output_ids[:index], skip_special_tokens=True).strip("\n")
-content = tokenizer.decode(output_ids[index:], skip_special_tokens=True).strip("\n")
+    # Decode the newly generated part
+    output_text = tokenizer.decode(
+        generated_ids[0][inputs["input_ids"].shape[1]:],
+        skip_special_tokens=True
+    )
 
-print("thinking content:", thinking_content)
-print("content:", content)
+    print("\n💬 Output:\n", output_text)
