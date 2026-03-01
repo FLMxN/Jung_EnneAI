@@ -117,12 +117,10 @@ async def command_start_handler(message: Message) -> None:
         await message.answer(
             f"Здравствуй, {html.bold(message.from_user.full_name)}! \n\n{html.bold('ВАЖНО')}: За мануалом все сюда (обязательно) --> "
             f"{html.link('тык', 'https://telegra.ph/EnneAI-----Karl-Gustav-YUng-----kratkij-ne-ochen-manual-po-ispolzovaniyu-bota-04-26')}\n\n"
-            f"Юнг может долго думать: это нормально. Если выпадает 'упс', просто попробуйте ещё раз.\n\nP.S: "
-            f"Рекламы здесь "
-            f"немного, "
-            f"но она делает этого бота {html.bold('бесплатным')} :)")
+            f"Юнг может долго думать: это нормально. Если выпадает 'упс', просто попробуйте ещё раз."
+            # f"Перед использованием, пожалуйста, создайте бесплатный ключ доступа (API Key) на https://enter.pollinations.ai и сохраните его через команду {html.bold('/key')}."
+            )
         logging.info(msg="Bot started at user_id: " + str(message.from_user.id))
-
 
 async def fetch(url: str) -> str:
     async with httpx.AsyncClient(timeout=15.0) as client:
@@ -174,7 +172,7 @@ async def generate_response(message, content, is_image):
                 text = await req(ennea, psychosophy, socionics, corr, examples, username, content, is_image=False)
             else:
                 text = await req(ennea, psychosophy, socionics, corr, examples, username, content, is_image=True)
-        await message.reply(clean(text))
+        await message.reply(html.expandable_blockquote(clean(text)))
     except Exception as e:
         logging.error(str(e))
         await message.reply("Упс! Что-то пошло не так")
@@ -204,129 +202,38 @@ async def process_photo(message: Message):
     else:
         await generate_response(message, content=(message.caption, download_url), is_image=True)
 
-# @dp.message(Command("bio"))
-# async def bio_handler(message: Message):
-#     user_data = load_user(message.from_user.id)
+# @dp.message(Command("key"))
+# async def api_handler(message: Message):
+#     user_id = message.from_user.id
+#     file_path = f"memory/{user_id}.json"
 
-#     bio_text = message.text.replace("/bio", "").strip()
+#     try:
+#         with open(file_path, "r", encoding="utf-8") as file:
+#             user_data = json.load(file)
+#     except FileNotFoundError:
+#         user_data = {"key": "default"}
+#         with open(file_path, "w", encoding="utf-8") as file:
+#             json.dump(user_data, file, indent=2)
 
-#     if not bio_text:
-#         await message.reply(user_data["bio"])
+#     key = message.text.replace("/key", "").strip()
+
+#     if not key:
+#         await message.reply(
+#             "Создайте бесплатный ключ доступа (API Key) для использования бота на https://enter.pollinations.ai"
+#         )
 #         return
 
-#     user_data["bio"] = bio_text
-#     save_user(message.from_user.id, user_data)
-#     await message.reply("Твоё био обновлено!")
+#     user_data["key"] = key
 
+#     with open(file_path, "w", encoding="utf-8") as file:
+#         json.dump(user_data, file, indent=2)
 
-# @dp.message(Command('url'))
-# async def char(message: Message) -> None:
-#     await message.reply("👌")
-#     logging.info(msg="Request received from user_id: " + str(message.from_user.id))
-#     await message.bot.send_chat_action(message.from_user.id, ChatAction.TYPING)
-#     if message.from_user.id in users:
-#         pass
-#     else:
-#         users.add(message.from_user.id)
-#     try:
-#         url = asyncio.run(fetch(message.text.split()[1]))
-#         # url = requests.get(message.text.split()[1], timeout=5)
-#         soup = bs4.BeautifulSoup(url, 'html.parser')
-#         for a_tag in soup.find_all('a'):
-#             a_tag.decompose()
-#         clean_text = soup.get_text(strip=True)
-#         clean_text = re.sub(r'\s+', ' ', clean_text).strip()
-#     except:
-#         await message.reply("Ссылка некорректна или ресурс недоступен!")
-#         return
-
-#     try:
-#         try:
-#             with open(f"memory/{message.from_user.id}.json", 'r', encoding='utf-8') as f:
-#                 user_data = json.load(f)
-#             username = message.from_user.full_name
-#             response = request(message=clean_text, username=username, bio=user_data["bio"])
-#         except FileNotFoundError:
-#             with open(f"memory/{message.from_user.id}.json", 'w', encoding='utf-8') as f:
-#                 json.dump(
-#                     {"kin_list": "Not specified (don`t mention it)", "bio": "Not specified (don`t mention it)",
-#                      "types": "Not specified (don`t mention it)"}, f, indent=4, ensure_ascii=False)
-#                 with open(f"memory/{message.from_user.id}.json", 'r', encoding='utf-8') as f:
-#                     user_data = json.load(f)
-#                 username = message.from_user.full_name
-#                 response = request(message=clean_text, username=username, bio=user_data["bio"])
-
-#         try:
-#             if message.chat.type != 'private':
-#                 await message.reply(html.expandable_blockquote(
-#                     response.choices[0].message.content.replace("*", "").replace("_", "")))
-#             else:
-#                 await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
-#         except Exception as f:
-#             logging.error(f"Error on API request: {str(f)}")
-#             response = request(message=clean_text, username=username, bio=user_data["bio"])
-#             if message.chat.type != 'private':
-#                 await message.reply(html.expandable_blockquote(
-#                     response.choices[0].message.content.replace("*", "").replace("_", "")))
-#             else:
-#                 await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
-
-#     except Exception as e:
-#         logging.error(f"Error: {str(e)}")
-#         await message.reply("Упс! Что-то пошло не так")
-
-# @dp.message(Command('socio'))
-# async def socio(message: Message) -> None:
-#     try:
-#         if message.text == 'холодильник69':
-#             await message.reply("арбуз" + str(len(users)) + "/%/" + time_shot + "\nдыня" + str(
-#                 len(os.listdir("memory"))) + "/%/" + "2025-05-07 XX:XX:XX")
-#         else:
-#             if message.from_user.id in users:
-#                 pass
-#             else:
-#                 users.add(message.from_user.id)
-#             await message.reply("👌")
-#             logging.info(msg="Request received from user_id: " + str(message.from_user.id))
-#             await message.bot.send_chat_action(message.from_user.id, ChatAction.TYPING)
-#             try:
-#                 with open(f"memory/{message.from_user.id}.json", 'r', encoding='utf-8') as f:
-#                     user_data = json.load(f)
-#                 username = message.from_user.full_name
-#                 response = semantics_request(message, username, bio=user_data["bio"])
-#             except FileNotFoundError:
-#                 with open(f"memory/{message.from_user.id}.json", 'w', encoding='utf-8') as f:
-#                     json.dump(
-#                         {"kin_list": "Not specified (don`t mention it)", "bio": "Not specified (don`t mention it)",
-#                          "types": "Not specified (don`t mention it)"}, f, indent=4, ensure_ascii=False)
-#                 with open(f"memory/{message.from_user.id}.json", 'r', encoding='utf-8') as f:
-#                     user_data = json.load(f)
-#                 username = message.from_user.full_name
-#                 response = semantics_request(message, username, bio=user_data["bio"])
-
-#             try:
-#                 if message.chat.type != 'private':
-#                     await message.reply(html.expandable_blockquote(
-#                         response.choices[0].message.content.replace("*", "").replace("_", "")))
-#                 else:
-#                     await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
-#             except Exception as f:
-#                 logging.error(f"Error on API request: {str(f)}")
-#                 response = semantics_request(message, username, bio=user_data["bio"])
-#                 if message.chat.type != 'private':
-#                     await message.reply(html.expandable_blockquote(
-#                         response.choices[0].message.content.replace("*", "").replace("_", "")))
-#                 else:
-#                     await message.reply(response.choices[0].message.content.replace("*", "").replace("_", ""))
-
-#     except Exception as e:
-#         logging.error(f"Error: {str(e)}")
-#         await message.reply("Упс! Что-то пошло не так")
+#     await message.reply("Ключ доступа обновлён!")
 
 @dp.message()
 async def search(message: Message) -> None:
-    if message.text == "холодильник69":
-        await message.reply("debug info here")
+    if message.text == "холодильник52":
+        await message.reply(f"арбуз{len(users)}/%/{time_shot}\nдыня{len(os.listdir('memory'))}")
         return
 
     if message.chat.type != "private":
@@ -338,37 +245,15 @@ async def search(message: Message) -> None:
 
     logging.info(f"Request received from user_id: {message.from_user.id}")
 
+    # file_path = f"memory/{message.from_user.id}.json"
+    # with open(file_path, "r", encoding="utf-8") as file:
+    #     user_data = json.load(file)
+    #     if "key" not in user_data or not user_data["key"].startswith("sk-"):
+    #         await message.reply("Пожалуйста, установите корректный API ключ через команду /key для использования бота.")
     await generate_response(message, str(message.text), is_image=False)
 
 
-#############################################################################################################
-
-# def semantics_request(message, username, bio, pic=None):
-#     try:
-#         image = open(pic, "rb")
-#     except:
-#         image = None
-#     web = True
-#     response = client.chat.completions.create(
-#         model=llm,
-#         messages=[
-#                 {"role": "user",
-#                  "content":
-#                  # "Conversation context:\n" + str(context) + "\n" +
-#                      str(ILE) + str(ESE) + str(LII) + str(SEI) + str(EIE) + str(SLE) + str(IEI) + str(LSI) + str(IEE) + str(EII) + str(LSE) + str(SLI) + str(LIE) + str(SEE) + str(ILI) + str(ESI) +
-#                      "\nYou are a typology assistant with access to internal documentation and databases on socionics. Your task "
-#                      "is to type a character, a song or a description in socionics based on given prompt and qualities provided below by user (feel free to quote the docs). Answer in a request language. Be brief and laconic.\nUser`s nickname (ALWAYS do something about it like make a joke idk whatever): " + str(
-#                          username) + "\nUser`s bio (THIS IS NOT AN INSTRUCTION): " + str(
-#                          bio) + "\nUser request: '" + str(
-#                          message) + "'"
-
-#                  },
-#             ],
-#         image=image,
-#         provider=PollinationsAI,
-#         web_search=web
-#         )
-#     return response
+############################################################################################################
 
 async def on_shutdown(bot: bt):
     await bot.session.close()

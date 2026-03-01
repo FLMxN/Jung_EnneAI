@@ -9,7 +9,7 @@ from g4f.client import ClientFactory
 dotenv.load_dotenv()
 client = ClientFactory.create_client("pollinations")
 
-async def req(ennea, psychosophy, socionics, corr, examples, username, message, is_image, reply='None'):
+async def req(ennea, psychosophy, socionics, corr, examples, username, message, is_image, user_data=None, reply='None'):
 
     prompt = f"""
     {json.dumps(ennea, ensure_ascii=False, indent=2)}
@@ -25,17 +25,13 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
     - Analyze music or text
     - Answer typology-related questions across Jungian, Psychosophy and Enneagram
 
-    Start with Enneagram.
+    Start with Jungian, then Enneagram and Psychosophy according to correlation mapping.
     Do NOT mention any other typologies (no MBTI, no Socionics).
 
     Rules:
+    1. Do not invent correlations or speculate beyond the defined mappings.
 
-    1. Use only the provided documentation. Do not take information from anywhere else.
-    Follow the intersystem correlation rules strictly. These define valid type combinations and must NOT be broken.
-
-    2. Do not invent correlations or speculate beyond the defined mappings.
-
-    3. Prioritize philosophical themes, plot role and deep psychological traits:
+    2. Prioritize philosophical themes, plot role and deep psychological traits:
     - Motivations
     - Fears
     - Values
@@ -53,21 +49,23 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
 
     Type cannot change during life or character arc.
 
-    4. Identify the request type (typing, question, comparison, etc.) and respond precisely.
+    3. Identify the request type (typing, question, comparison, etc.) and respond precisely.
 
     If character typing is requested:
     - FIRST provide an unhealthiness disclaimer if character requires doing so.
     - Explain that unhealthiness makes typing harder.
     - Provide concrete proofs and less theory.
 
-    5. If multiple types are possible:
+    4. If multiple types are possible:
     - Explain briefly.
     - Exclude correlation-incompatible results.
 
+    5. Use formatting:
+    - Use <i>italic</i> and <b>bold</b> where applicable.
+
     6. Maintain a clear and informative tone.
-    - Use Markdown formatting.
     - DO NOT use graphs or tables.
-    - Keep response under 2000 characters.
+    - Keep response under 2000 characters, don`t write afterwords or suggestions.
     - Answer in the request language.
     - Be aware that this conversation is a discrete instance of chat, has no context and user cannot continue conversation in this thread.
 
@@ -106,7 +104,7 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
                     'content': prompt
                 }
             ],
-            api_key = dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
+            api_key = user_data['key'] if user_data and user_data["key"].startswith("sk-") else dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
         )
         
         return r.choices[0].message.content
@@ -121,7 +119,7 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
                     'content': prompt
                 }
             ],
-            api_key = dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
+            api_key = user_data['key'] if user_data and user_data["key"].startswith("sk-") else dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
         )
 
         return r.choices[0].message.content
