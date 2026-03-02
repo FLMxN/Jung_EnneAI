@@ -9,7 +9,7 @@ from g4f.client import ClientFactory
 dotenv.load_dotenv()
 client = ClientFactory.create_client("pollinations")
 
-async def req(ennea, psychosophy, socionics, corr, examples, username, message, is_image, user_data=None, reply='None'):
+async def req(ennea, psychosophy, socionics, corr, examples, username, message, is_image, reply='None'):
 
     prompt = f"""
     {json.dumps(ennea, ensure_ascii=False, indent=2)}
@@ -25,8 +25,8 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
     - Analyze music or text
     - Answer typology-related questions across Jungian, Psychosophy and Enneagram
 
-    Start with Jungian, then Enneagram and Psychosophy according to correlation mapping.
-    Do NOT mention any other typologies (no MBTI, no Socionics).
+    If typing task is provided, start with Jungian, then Enneagram and Psychosophy according to correlation mapping.
+    Do NOT mention any other typologies to the user (no MBTI, no Socionics).
 
     Rules:
     1. Do not invent correlations or speculate beyond the defined mappings.
@@ -61,7 +61,7 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
     - Exclude correlation-incompatible results.
 
     5. Use formatting:
-    - Use <i>italic</i> and <b>bold</b> where applicable.
+    - Use kaomojis, <i>italic</i> and <b>bold</b> fonts where applicable.
 
     6. Maintain a clear and informative tone.
     - DO NOT use graphs or tables.
@@ -77,12 +77,6 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
 
     User nickname:
     {username}
-
-    User request:
-    {message if not is_image else message[0]}
-
-    Partial context:
-    {reply}
     """
 
     
@@ -100,11 +94,15 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
             model='openai',
             messages=[
                 {
-                    'role':'user',
+                    'role':'system',
                     'content': prompt
+                },
+                {
+                    'role':'user',
+                    'content': f'Replying to: \n    "{reply}"\n{message}'
                 }
             ],
-            api_key = user_data['key'] if user_data and user_data["key"].startswith("sk-") else dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
+            api_key = dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
         )
         
         return r.choices[0].message.content
@@ -115,11 +113,15 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
             image=message[1],
             messages=[
                 {
-                    'role':'user',
+                    'role':'system',
                     'content': prompt
+                },
+                {
+                    'role':'user',
+                    'content': f'Replying to: \n    "{reply}"\n{message[0]}'
                 }
             ],
-            api_key = user_data['key'] if user_data and user_data["key"].startswith("sk-") else dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
+            api_key = dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
         )
 
         return r.choices[0].message.content

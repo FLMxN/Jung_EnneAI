@@ -24,6 +24,7 @@ from g4f.client import Client
 import datetime
 import dotenv
 from request import req
+import random
 
 ###########################################################################################################
 
@@ -40,11 +41,18 @@ users = set()
 time_shot = '{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now())
 llm = 'gpt-4o'
 
+user_agents =[
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
+    ]
+
 ###########################################################################################################
 if __name__ == "__main__":
     with open('docs/Enneagram_Refined_Complete.json', 'r') as file:
         ennea = json.load(file)
-    with open('docs/typings_examples.json', 'r') as file:
+    with open('docs/examples_new.json', 'r') as file:
         examples = json.load(file)
     # with open('deprecated/type_comparision.json', 'r') as file:
     #     comparison = json.load(file)
@@ -123,13 +131,19 @@ async def command_start_handler(message: Message) -> None:
         logging.info(msg="Bot started at user_id: " + str(message.from_user.id))
 
 async def fetch(url: str) -> str:
-    async with httpx.AsyncClient(timeout=15.0) as client:
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/125.0.0.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+
+    async with httpx.AsyncClient(timeout=15.0, headers=headers) as client:
         r = await client.get(url)
         r.raise_for_status()
 
     soup = bs4.BeautifulSoup(r.text, "html.parser")
 
-    # remove links
     for a in soup.find_all("a"):
         a.decompose()
 
@@ -149,7 +163,7 @@ def is_url(text: str) -> bool:
     return text.startswith("http://") or text.startswith("https://") or text.startswith("www.")
 
 
-async def generate_response(message, content, is_image):
+async def generate_response(message, content, is_image, reply):
     await message.reply("👌")
     await message.bot.send_chat_action(message.chat.id, ChatAction.TYPING)
     logging.info(type(content))
@@ -169,12 +183,12 @@ async def generate_response(message, content, is_image):
                 url = extract_url(content)
                 if url:
                     content = await fetch(url)
-                text = await req(ennea, psychosophy, socionics, corr, examples, username, content, is_image=False)
+                text = await req(ennea, psychosophy, socionics, corr, examples, username, reply=reply, message=content, is_image=False)
             else:
-                text = await req(ennea, psychosophy, socionics, corr, examples, username, content, is_image=True)
+                text = await req(ennea, psychosophy, socionics, corr, examples, username, reply=reply, message=content, is_image=True)
         await message.reply(html.expandable_blockquote(clean(text)))
     except Exception as e:
-        logging.error(str(e))
+        logging.exception("Error in generate_response")
         await message.reply("Упс! Что-то пошло не так")
 
 @dp.message(F.photo)
@@ -194,13 +208,14 @@ async def process_photo(message: Message):
         download_url = f"https://api.telegram.org/file/bot{TOKEN}/{file_path}"
         # await message.bot.download(file=message.photo[-1].file_id, destination=file_name)
     except Exception as e:
-        logging.error(f"Error: {str(e)}")
+        logging.exception("Error getting file from Telegram")
         await message.reply("Упс! Что-то пошло не так")
         return
+    payload = {"caption": message.caption, "url": download_url}
     if message.reply_to_message:
-        await generate_response(message, content=(message.caption, download_url), reply=message.reply_to_message.text, is_image=True)
+        await generate_response(message, content=payload, reply=message.reply_to_message.text, is_image=True)
     else:
-        await generate_response(message, content=(message.caption, download_url), is_image=True)
+        await generate_response(message, content=payload, reply=None, is_image=True)
 
 # @dp.message(Command("key"))
 # async def api_handler(message: Message):
@@ -250,7 +265,7 @@ async def search(message: Message) -> None:
     #     user_data = json.load(file)
     #     if "key" not in user_data or not user_data["key"].startswith("sk-"):
     #         await message.reply("Пожалуйста, установите корректный API ключ через команду /key для использования бота.")
-    await generate_response(message, str(message.text), is_image=False)
+    await generate_response(message, str(message.text), is_image=False, reply=message.reply_to_message.text if message.reply_to_message else None)
 
 
 ############################################################################################################
@@ -262,11 +277,12 @@ async def on_shutdown(bot: bt):
 
 async def main() -> None:
     bot = bt(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
+    await bot.delete_webhook(drop_pending_updates=True)
     dp.shutdown.register(on_shutdown)
     await dp.start_polling(bot)
 
 
 if __name__ == "__main__":
     # logging.basicConfig(level=logging.INFO, filename="logging.out")
-    logging.basicConfig(level=logging.INFO, stream=sys.stdout)
+    logging.basicConfig(level=logging.DEBUG, stream=sys.stdout)
     asyncio.run(main())
