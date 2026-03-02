@@ -28,8 +28,7 @@ import random
 
 ###########################################################################################################
 
-dotenv.load_dotenv()
-TOKEN = dotenv.get_key(dotenv_path='.env', key_to_get="TOKEN")
+##tokens here
 
 client = Client()
 storage = MemoryStorage()
