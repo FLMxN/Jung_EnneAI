@@ -23,12 +23,12 @@ from g4f.Provider import PollinationsAI
 from g4f.client import Client
 import datetime
 import dotenv
-from request import req
+from request import req, translate
 import random
 
 ###########################################################################################################
 
-##tokens here
+TOKEN = os.getenv("TOKEN")
 
 client = Client()
 storage = MemoryStorage()
@@ -185,6 +185,7 @@ async def generate_response(message, content, is_image, reply):
                 text = await req(ennea, psychosophy, socionics, corr, examples, username, reply=reply, message=content, is_image=False)
             else:
                 text = await req(ennea, psychosophy, socionics, corr, examples, username, reply=reply, message=content, is_image=True)
+        # ans = await translate(text, message.text)
         await message.reply(html.expandable_blockquote(clean(text)))
     except Exception as e:
         logging.exception("Error in generate_response")
