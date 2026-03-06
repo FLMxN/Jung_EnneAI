@@ -1,0 +1,1700 @@
+{
+  "meta": {
+    "description": "LLM-ready Enneagram subtype profile dataset based on user-defined schema. Expanded version with additional insights.",
+    "fields": [
+      "enneagram",
+      "archetype",
+      "focus",
+      "core_traits",
+      "emotional_landscape",
+      "behavioral_tendencies",
+      "traits",
+      "anti_traits",
+      "often_confused_with",
+      "neurosis",
+      "childhood",
+      "growth_path",
+      "stress_response",
+      "key_quote",
+      "famous_examples",
+      "relationship_dynamics",
+      "common_misconceptions"
+    ],
+    "total_profiles": 27
+  },
+  "profiles": [
+    {
+      "enneagram": "sp2",
+      "focus": "Heart-centered",
+      "archetype": "The Privilege",
+      "core_traits": {
+        "childlike_charm": "Exhibit a youthful, endearing demeanor that unconsciously invites others to care for them. This charm is not contrived but stems from a genuine sense of vulnerability and a desire to be loved. They often have a playful, innocent quality that makes others want to protect and nurture them. This trait can be seen in their tendency to use soft voices, expressive eyes, and a gentle manner that disarms people.",
+        "self_indulgence": "Seek pleasurable experiences and comforts to distract from inner feelings of deprivation. They may indulge in good food, luxurious surroundings, or comforting routines to soothe themselves. This self-indulgence is a way to fill an emotional void, but it can lead to overindulgence or a preoccupation with material comforts. They might also seek out experiences that make them feel special and pampered.",
+        "ambivalence_in_relationships": "Display a mix of desire for connection and hesitation, often due to fear of rejection. They deeply crave intimacy but are terrified of being hurt or abandoned. This leads to a push-pull dynamic where they draw people close with their charm, then pull away when they feel too vulnerable. Their partners may find this confusing, as they alternate between affectionate and distant."
+      },
+      "emotional_landscape": {
+        "desire_for_care": "Long to be loved and prioritized without having to earn it, similar to a child's expectation. They yearn for unconditional love that doesn't require them to perform or prove their worth. This desire is rooted in a deep-seated belief that they are not inherently lovable and must be taken care of to feel valued. They often fantasize about being rescued or cherished by a powerful figure.",
+        "self_protection": "Hesitant to commit deeply, aiming to avoid potential hurt or rejection. They keep emotional distance to protect themselves from the pain of being let down. This self-protection manifests as a reluctance to fully invest in relationships, always maintaining an escape route. They may test partners to see if they will stay, but this testing can push people away.",
+        "inner_conflict": "Struggle between wanting independence and craving affection and support. They want to be self-sufficient and not rely on others, yet they desperately need validation and care. This conflict creates internal tension, leading to mood swings and indecisiveness. They may feel ashamed of their dependency, which fuels further self-indulgence as a coping mechanism."
+      },
+      "behavioral_tendencies": {
+        "playful_dependence": "Use charm and perceived fragility to elicit support and attention from others. They often play the role of the 'cute' or 'helpless' one to get others to take care of them. This is not necessarily manipulative but a learned behavior from childhood where vulnerability was rewarded. They may exaggerate their neediness to ensure they are not overlooked.",
+        "avoidance_of_responsibility": "May resist long-term commitments, preferring to be cared for rather than care for others. They shy away from roles that require them to be the primary provider or caregiver, as that would threaten their sense of being the one who is cared for. This can lead to a pattern of underachievement or avoiding adult responsibilities.",
+        "emotional_withdrawal": "Tend to retreat when sensing potential rejection or lack of appreciation. If they feel undervalued, they may become sulky, silent, or physically distant. This withdrawal is a way to communicate hurt without directly expressing it, hoping that others will notice and make amends. In extreme cases, they may cut off contact entirely to protect themselves."
+      },
+      "traits": [
+        "quietly helpful",
+        "physically attentive",
+        "seeks unconditional love",
+        "affectionate servant",
+        "naive",
+        "servicing and people-pleasing",
+        "extraverted",
+        "anti-intuitive",
+        "emotionally receptive",
+        "comfort-seeking",
+        "gentle",
+        "playful",
+        "vulnerable"
+      ],
+      "anti_traits": [
+        "demanding",
+        "emotionally intrusive",
+        "publicly performative",
+        "pushy",
+        "vain",
+        "aggressive",
+        "cold",
+        "distant",
+        "self-sufficient",
+        "independent"
+      ],
+      "often_confused_with": [
+        "sx2",
+        "sp6",
+        "sx7",
+        "so9",
+        "sp9"
+      ],
+      "neurosis": "Fear of being unloved fuels covert caretaking, seeking validation through 'selfless' acts. They often become the 'helper' in relationships, but with an unspoken expectation of receiving love in return. When this doesn't happen, they feel resentful and used, reinforcing their fear of being unworthy. This creates a cycle where they give to get, but their giving is never enough to fill the void.",
+      "childhood": "Felt valued only when taking care of others, leading to neglect of personal needs. Perhaps they had to care for a parent or sibling, or they learned that love was conditional on their usefulness. As a result, they grew up believing that their own needs are secondary and that they must earn love through service. They may have experienced emotional neglect, where their own feelings were ignored, so they learned to focus on others' needs to gain attention.",
+      "growth_path": "For sp2s, growth involves recognizing that they are worthy of love without having to earn it. They need to learn to ask directly for what they need and to accept care without feeling indebted. Developing self-awareness around their patterns of self-indulgence and withdrawal can help them build healthier relationships. They also benefit from cultivating self-reliance and finding intrinsic validation rather than seeking it externally.",
+      "stress_response": "Under stress, sp2s become more clingy and demanding, seeking reassurance through increased people-pleasing or self-indulgence. They may resort to emotional manipulation or guilt-tripping to get their needs met. In extreme stress, they can become hysterical or completely withdraw, feeling abandoned and unloved. They may also develop psychosomatic symptoms as a way to elicit care.",
+      "key_quote": "I want to be loved for just being me, not for what I do.",
+      "famous_examples": [
+        "Princess Diana (speculated)",
+        "Marilyn Monroe (type 4? but sp2 traits)",
+        "characters like Wendy from Peter Pan"
+      ],
+      "relationship_dynamics": "In relationships, sp2s are warm and affectionate but can become overly dependent. They seek partners who will take care of them and provide a sense of security. They may struggle with jealousy and fear of abandonment, often testing their partner's loyalty. They are most compatible with types who are nurturing and stable, such as sp9 or sp6, but need to avoid becoming codependent.",
+      "common_misconceptions": "It's easy to mistake sp2s for sx2s because both seek connection, but sp2s are more focused on being cared for rather than intense intimacy. They are often seen as 'needy' or 'childish,' but their behavior is a coping mechanism for deep-seated feelings of unworthiness. They are not manipulative by nature; their charm is a genuine expression of their vulnerability."
+    },
+    {
+      "enneagram": "so2",
+      "focus": "Heart-centered",
+      "archetype": "The Conquest",
+      "core_traits": {
+        "social_influence": "Aim to be central figures in social settings, often taking on leadership or influential roles. They have a natural ability to read group dynamics and position themselves as indispensable. They are not necessarily power-hungry but seek to be the go-to person, the one others rely on. This drive stems from a need to feel valued and important within their community.",
+        "public_recognition": "Seek acknowledgment and validation from groups, equating social status with self-worth. They thrive on praise and visibility, and may go to great lengths to ensure they are noticed. This can manifest in a polished public image, active participation in events, and a tendency to network strategically.",
+        "networking_expertise": "Excel at building connections and being indispensable within their communities. They have a knack for remembering names, faces, and personal details, making others feel special. They use these connections to create a web of influence, ensuring they are always in the loop and have allies."
+      },
+      "emotional_landscape": {
+        "need_for_approval": "Driven by a desire to be valued and loved by many, often through public roles. Their self-esteem is heavily dependent on external validation, so they constantly seek feedback and recognition. They may feel anxious if they are not in the spotlight or if their contributions go unnoticed.",
+        "identity_through_roles": "Define themselves by their social contributions and the recognition they receive. They often merge with their public persona, losing touch with their private self. This can lead to a sense of emptiness when they are alone, as their identity is tied to others' perceptions.",
+        "fear_of_obscurity": "Anxious about being overlooked or deemed unimportant within their social circles. They dread being just another face in the crowd, which drives them to constantly prove their value. This fear can lead to overwork and burnout as they strive to maintain their standing."
+      },
+      "behavioral_tendencies": {
+        "community_engagement": "Actively participate in organizing events and fostering group cohesion. They are often the ones who initiate gatherings, volunteer for committees, and ensure everyone feels included. Their efforts are aimed at creating a sense of belonging, which in turn reinforces their central role.",
+        "mentorship": "Take on roles that allow them to guide and support others, reinforcing their value. They enjoy being seen as wise and helpful, and mentoring gives them a platform to influence and be appreciated. However, they may unconsciously expect loyalty and gratitude in return.",
+        "image_consciousness": "Maintain a persona that aligns with societal expectations to ensure continued approval. They are careful about how they present themselves, from their clothing to their speech. This can make them seem inauthentic at times, but they are genuinely trying to fit in and be liked."
+      },
+      "traits": [
+        "manipulative leader",
+        "calculating and secretly egoistic",
+        "seeks submissiveness as reward",
+        "benevolent and machiavellian",
+        "weaponizes people-knowledge",
+        "servicing and people-pleasing",
+        "extraverted",
+        "charismatic",
+        "socially savvy",
+        "ambitious",
+        "networker"
+      ],
+      "anti_traits": [
+        "withdrawn",
+        "neglecting",
+        "self-denying",
+        "invisible",
+        "directionless",
+        "introverted",
+        "shy",
+        "apathetic"
+      ],
+      "often_confused_with": [
+        "so1",
+        "so3",
+        "sx5",
+        "so7",
+        "sp3"
+      ],
+      "neurosis": "Fear of irrelevance drives manipulative helpfulness, leveraging dependency to secure loyalty. They create a network of people who owe them favors, ensuring they are always needed. This gives them a sense of control and importance, but it also traps them in a cycle of constantly having to prove their worth.",
+      "childhood": "Believed love was earned through being indispensable in group settings, often suppressing personal desires. They may have been praised for their helpfulness or social skills, leading them to prioritize external approval. They learned that their value was contingent on what they could do for others, not who they are.",
+      "growth_path": "For so2s, growth involves learning to value themselves independently of others' opinions. They need to cultivate inner self-worth and recognize that they are enough without constant validation. Slowing down and reflecting on their true desires can help them reconnect with their authentic self. They also benefit from allowing others to take the lead sometimes, letting go of the need to be central.",
+      "stress_response": "Under stress, so2s become more controlling and manipulative, trying to secure their position through force or charm. They may become overly critical of others who threaten their status, or they may withdraw in a huff if they feel unappreciated. In extreme stress, they can become paranoid about being excluded and may engage in smear campaigns to protect their image.",
+      "key_quote": "I need to be seen and appreciated to feel alive.",
+      "famous_examples": [
+        "Tony Robbins",
+        "Oprah Winfrey (possible so2/so3)",
+        "Bill Clinton (speculated)",
+        "characters like Lady Macbeth"
+      ],
+      "relationship_dynamics": "In relationships, so2s are attentive and generous, but they expect admiration and loyalty in return. They may become jealous if their partner gets too much attention elsewhere. They seek partners who are supportive of their social ambitions and who can provide a stable home base. They are most compatible with types who are secure in themselves, such as sp9 or so6, but need to avoid becoming codependent on their partner's admiration.",
+      "common_misconceptions": "so2s are often mistaken for so3s because both are image-conscious, but so2s are more focused on relationships and helping others, while so3s are focused on achievements. They are not necessarily narcissistic; their need for recognition is a deep-seated longing for love, not just admiration."
+    },
+    {
+      "enneagram": "sx2",
+      "focus": "Heart-centered",
+      "archetype": "The Intimacy",
+      "core_traits": {
+        "intense_connection": "Focus deeply on forming strong, intimate bonds with specific individuals. They seek a soulmate-like connection where they can merge with another person. This intensity can be overwhelming for partners, but it stems from a profound need to feel truly seen and understood.",
+        "emotional_expressiveness": "Openly share feelings and desires to foster closeness and mutual understanding. They are not afraid to be vulnerable, and they expect the same from their partner. This openness can create deep intimacy but also lead to emotional drama if not reciprocated.",
+        "passionate_support": "Demonstrate love through dedicated attention and unwavering support to chosen individuals. They will go to great lengths for their loved ones, often putting their own needs aside. This devotion is their way of proving their love and securing the bond."
+      },
+      "emotional_landscape": {
+        "fear_of_abandonment": "Highly sensitive to signs of disconnection, fearing loss of their intimate bonds. Any hint of distance can trigger anxiety and desperate attempts to reconnect. They may become clingy or possessive, trying to hold on tighter.",
+        "jealousy": "May experience envy when their deep connections are threatened or divided. They can't bear the thought of their partner sharing intimacy with others, even platonically. This jealousy can lead to controlling behaviors if not checked.",
+        "validation_through_intimacy": "Seek affirmation of their worth through the depth and intensity of personal relationships. They feel valuable only when they are in a passionate connection. Without it, they may feel empty and directionless."
+      },
+      "behavioral_tendencies": {
+        "focused_attention": "Prioritize the needs and well-being of their close connections, sometimes to their own detriment. They become hyper-focused on their partner, often neglecting friends, hobbies, and self-care. This can lead to enmeshment and loss of individuality.",
+        "emotional_intensity": "Engage in relationships with fervor, often leading to dramatic expressions of love and concern. They are not afraid of conflict if it means deepening the connection. Their emotions can swing from ecstasy to despair rapidly.",
+        "boundary_blurring": "May struggle to maintain personal boundaries, becoming deeply enmeshed with others. They have difficulty distinguishing their own feelings from their partner's, leading to a loss of self. This merging can be both beautiful and suffocating."
+      },
+      "traits": [
+        "seeks intimate love",
+        "emotionally intense",
+        "naive group member",
+        "flirtatious caregiver",
+        "clingy devotion",
+        "servicing and people-pleasing",
+        "extraverted",
+        "anti-intuitive",
+        "passionate",
+        "romantic",
+        "possessive"
+      ],
+      "anti_traits": [
+        "cold",
+        "uninterested in connection",
+        "casual",
+        "stoic",
+        "reserved",
+        "detached",
+        "independent"
+      ],
+      "often_confused_with": [
+        "sp2",
+        "sp7",
+        "sx8",
+        "sx4",
+        "sx6"
+      ],
+      "neurosis": "Fear of rejection demands intense emotional investment, conflating intimacy with control. They believe that if they love hard enough, they can prevent abandonment. This leads to a pattern of over-investment and subsequent burnout or resentment when their efforts aren't reciprocated.",
+      "childhood": "Associated love with intense one-on-one connections, sometimes becoming overly dependent on close relationships. They may have had a parent who was emotionally volatile or absent, leading them to crave intense bonds as a way to feel secure. They learned that love is something to be fought for.",
+      "growth_path": "For sx2s, growth involves learning to maintain a sense of self within relationships. They need to cultivate inner security so that they don't depend on a partner for their identity. Developing boundaries and allowing space in relationships can actually deepen intimacy. They also benefit from exploring their own interests and friendships outside the primary bond.",
+      "stress_response": "Under stress, sx2s become more possessive and jealous, trying to control their partner's actions. They may become accusatory or dramatic, creating crises to test the relationship. In extreme stress, they can become hysterical or completely withdraw, feeling betrayed and unloved.",
+      "key_quote": "I want to merge with you so completely that we become one.",
+      "famous_examples": [
+        "Frida Kahlo (sx4? but intense)",
+        "Romeo and Juliet",
+        "characters like Cathy from Wuthering Heights"
+      ],
+      "relationship_dynamics": "In relationships, sx2s are passionate and devoted, but they can be suffocating. They seek a partner who is equally intense and who can handle their emotional depth. They are most compatible with types who are stable and grounding, such as sp9 or so6, but need to learn to trust without clinging.",
+      "common_misconceptions": "sx2s are often mistaken for sx4s because of their emotional intensity, but sx2s are more focused on connection and care, while sx4s are focused on identity and uniqueness. They are not just 'clingy'; their behavior is a desperate attempt to secure love."
+    },
+    {
+      "enneagram": "sp3",
+      "focus": "Heart-centered",
+      "archetype": "The Diligence",
+      "core_traits": {
+        "modesty": "Avoid overt displays of vanity, striving to be seen as virtuous and dependable. They downplay their achievements and prefer to be recognized for their hard work rather than their image. This modesty can be a mask for a hidden desire for acknowledgment, as they secretly want to be appreciated.",
+        "work_ethic": "Highly industrious, seeking security through self-sufficiency and productivity. They are often workaholics, finding solace in tasks and accomplishments. Their self-worth is tied to their ability to provide and be reliable.",
+        "countertype_behavior": "May not fit the typical image-conscious Type 3, focusing instead on being genuinely good. They reject the flashy, competitive nature of other 3s and instead embody a humble, diligent persona. This can make them appear more like 1s or 6s."
+      },
+      "emotional_landscape": {
+        "self_deceit": "Pride themselves on not being vain, which can mask underlying desires for recognition. They may secretly crave praise but feel guilty about it, so they suppress those feelings. This leads to a disconnect between their self-image and their true needs.",
+        "anxiety": "Experience stress related to maintaining their image of virtue and competence. They worry about being seen as lazy or incompetent, so they push themselves relentlessly. This anxiety can lead to burnout and physical health issues.",
+        "inner_conflict": "Struggle between genuine humility and the hidden desire for acknowledgment. They want to be good for its own sake, but they also want to be recognized for their goodness. This conflict can cause them to feel like impostors."
+      },
+      "behavioral_tendencies": {
+        "reliability": "Consistently dependable, often taking on responsibilities to prove their worth. They are the ones others turn to in a crisis, and they take pride in being reliable. However, they may take on too much, neglecting their own needs.",
+        "avoidance_of_spotlight": "Prefer to be recognized for their hard work rather than seeking the limelight. They may shy away from public praise, feeling uncomfortable with attention. Yet they appreciate quiet acknowledgments and can feel hurt if their efforts go unnoticed.",
+        "focus_on_security": "Prioritize creating a stable and secure environment through diligence. They save money, plan for the future, and avoid risks. Their home is often a sanctuary where they can relax after a hard day's work."
+      },
+      "traits": [
+        "efficient and hard-working",
+        "seeks security in money",
+        "private achiever",
+        "humble",
+        "achievement-focused",
+        "dependable",
+        "self-sufficient",
+        "modest",
+        "reserved",
+        "practical"
+      ],
+      "anti_traits": [
+        "lazy",
+        "boastful",
+        "messy",
+        "unambitious",
+        "scattered",
+        "ascetic",
+        "showy",
+        "irresponsible"
+      ],
+      "often_confused_with": [
+        "sp1",
+        "sp4",
+        "so6",
+        "sp6",
+        "so3"
+      ],
+      "neurosis": "Fear of inadequacy hides behind pragmatic achievement, equating security with self-worth. They believe that if they are productive and self-sufficient, they will be safe from criticism and rejection. This drive can become compulsive, leaving little room for joy or spontaneity.",
+      "childhood": "Learned that success and productivity were the paths to receiving attention and approval. They may have had parents who praised them for achievements rather than for who they were. As a result, they learned to equate love with accomplishment.",
+      "growth_path": "For sp3s, growth involves learning to separate self-worth from achievement. They need to allow themselves to be imperfect and to find value in just being. Cultivating hobbies that aren't goal-oriented and spending time with loved ones without agenda can help. They also benefit from acknowledging their need for recognition and finding healthy ways to receive it.",
+      "stress_response": "Under stress, sp3s become even more workaholic, pushing themselves to exhaustion. They may become irritable and critical of others who don't share their work ethic. In extreme stress, they can collapse into burnout, feeling worthless and depressed.",
+      "key_quote": "I am what I accomplish.",
+      "famous_examples": [
+        "Warren Buffett (sp3?)",
+        "Angela Merkel (sp3 traits)",
+        "characters like Bob Cratchit"
+      ],
+      "relationship_dynamics": "In relationships, sp3s are loyal and dependable partners, but they may struggle to express emotions. They show love through acts of service and providing security. They need partners who appreciate their efforts and encourage them to relax. They are most compatible with types who are warm and accepting, such as sp9 or so2.",
+      "common_misconceptions": "sp3s are often mistaken for sp1s because of their diligence, but sp1s are driven by a need for perfection and morality, while sp3s are driven by a need for achievement and security. They are not cold; they simply express love through doing rather than saying."
+    },
+    {
+      "enneagram": "so3",
+      "focus": "Heart-centered",
+      "archetype": "The Performance",
+      "core_traits": {
+        "image_consciousness": "Highly aware of their public image, striving to be seen as successful and influential. They curate their appearance, achievements, and social media to project an ideal image. This is not just vanity; it's a way to feel valuable in a world that rewards success.",
+        "competitiveness": "Driven to achieve and often compare themselves to others to gauge success. They need to be the best, or at least appear to be. This competitiveness can be motivating but also exhausting, as they constantly measure themselves against others.",
+        "social_navigation": "Skilled at reading social cues and adapting to meet group expectations. They are chameleons who can fit into any social setting, adopting the language and mannerisms of the group. This adaptability helps them climb social ladders but can lead to a loss of authentic self."
+      },
+      "emotional_landscape": {
+        "self_deceit": "May lose touch with their authentic self by constantly adapting to external standards. They become so focused on the image that they forget who they really are. This can lead to a feeling of emptiness and a constant need for external validation.",
+        "need_for_approval": "Seek validation through achievements and recognition from others. Their self-esteem is dependent on applause and admiration. Without it, they feel worthless and invisible.",
+        "fear_of_failure": "Anxiety stems from the possibility of not meeting societal expectations. They dread being seen as a failure, which would shatter their carefully constructed image. This fear drives them to work harder and avoid risks that might expose their flaws."
+      },
+      "behavioral_tendencies": {
+        "networking": "Actively build connections to enhance their status and opportunities. They know the right people and how to leverage relationships. Networking is a strategic tool for them, not just socializing.",
+        "presentation": "Invest time in curating a polished and successful image. They dress well, speak eloquently, and showcase their achievements. Their home and office are often showplaces that reflect their success.",
+        "leadership": "Often take on leadership roles to assert their competence and gain admiration. They are natural leaders who inspire others with their vision and confidence. However, they may be more focused on the appearance of leadership than on actual substance."
+      },
+      "traits": [
+        "neglecting morality",
+        "social chameleon for recognition",
+        "seeks acceptance, not power",
+        "ambitious and competitive, but directionless",
+        "envious, vain and deceptive",
+        "obsessed of image and success for the sake of it",
+        "narcissistic and emotionally detached",
+        "achievement-focused",
+        "extraverted",
+        "charismatic",
+        "polished"
+      ],
+      "anti_traits": [
+        "altruistic",
+        "transparent",
+        "honest",
+        "sincere",
+        "unimpressive",
+        "ascetic",
+        "idealistic",
+        "striving for power",
+        "humble"
+      ],
+      "often_confused_with": [
+        "so1",
+        "so2",
+        "so7",
+        "sp7",
+        "so3"
+      ],
+      "neurosis": "Fear of worthlessness compels social chameleonism, polishing image to mask inner emptiness. They believe that if they look successful, they will feel successful. But the image is a hollow shell that requires constant maintenance, leaving them exhausted and disconnected.",
+      "childhood": "Felt compelled to embody the ideal image to gain acceptance within community or family structures. They may have been praised for their looks, achievements, or charm, leading them to believe that their value lies in how they appear. They learned to perform to be loved.",
+      "growth_path": "For so3s, growth involves reconnecting with their authentic self and valuing who they are beneath the image. They need to take risks that might lead to failure, to learn that they are still worthy. Therapy or introspective practices can help them uncover their true feelings and desires. They also benefit from service to others without expectation of reward.",
+      "stress_response": "Under stress, so3s become more image-obsessed and may resort to deception to maintain their facade. They can become arrogant and dismissive of others who threaten their status. In extreme stress, they may have a breakdown when their image is shattered, leading to depression.",
+      "key_quote": "I am what I achieve and how others see me.",
+      "famous_examples": [
+        "Donald Trump (so3/sp7?)",
+        "Tom Cruise",
+        "Madonna",
+        "characters like Gatsby"
+      ],
+      "relationship_dynamics": "In relationships, so3s are charming and attentive, but they may prioritize their image over intimacy. They want a partner who enhances their status and admires them. They may struggle with vulnerability and genuine connection. They are most compatible with types who are grounded and authentic, such as sp9 or sx4, but need to learn to be real.",
+      "common_misconceptions": "so3s are often mistaken for so2s because both are socially adept, but so2s are driven by a need to be loved and helpful, while so3s are driven by a need to be admired and successful. They are not necessarily narcissistic; their behavior is a defense against deep-seated feelings of worthlessness."
+    },
+    {
+      "enneagram": "sx3",
+      "focus": "Heart-centered",
+      "archetype": "The Beauty",
+      "core_traits": {
+        "charisma": "Exude charm and allure, focusing on being attractive and desirable. They have a magnetic presence that draws others in. This charisma is not just physical; it's an energy that makes people feel special in their presence.",
+        "emotional_intensity": "Experience deep emotions, channeling them into personal connections. They are passionate and romantic, seeking intense experiences. Their emotions are often tied to how desirable they feel.",
+        "focus_on_relationships": "Seek validation through close, intimate relationships rather than broad social approval. They want to be the center of their partner's world, and they invest heavily in making that happen. Their self-worth is tied to being loved and desired by a significant other."
+      },
+      "emotional_landscape": {
+        "self_deceit": "May present an idealized version of themselves to maintain relational harmony. They hide their flaws and insecurities to remain attractive to their partner. This can lead to a feeling of being loved for a persona, not for who they really are.",
+        "sensitivity": "Highly attuned to the emotional states of others, sometimes at the expense of their own needs. They pick up on subtle cues and adjust themselves to please their partner. This can make them feel invisible and resentful over time.",
+        "fear_of_rejection": "Anxiety arises from the potential loss of deep connections or not meeting partner expectations. They dread being abandoned for someone more attractive or interesting. This fear drives them to constantly work on their appearance and charm."
+      },
+      "behavioral_tendencies": {
+        "seductiveness": "Use charm to forge strong bonds and be seen as indispensable to significant others. They know how to make someone feel like the only person in the world. This seduction is not always sexual; it's a way to secure love.",
+        "emotional_support": "Provide unwavering support to loved ones, often neglecting personal boundaries. They become the perfect partner, anticipating needs and offering comfort. But this can lead to burnout and a feeling of being taken for granted.",
+        "adaptability": "Change themselves to align with the desires and needs of close relationships. They mold themselves into what they think their partner wants, losing their own identity in the process. This adaptability makes them seem perfect, but it's unsustainable."
+      },
+      "traits": [
+        "seductive achiever",
+        "charismatic",
+        "driven by beautiful admiration",
+        "glamorous performer",
+        "achievement-focused",
+        "extraverted",
+        "anti-intuitive",
+        "romantic",
+        "passionate",
+        "charming"
+      ],
+      "anti_traits": [
+        "emotionally dull",
+        "indifferent to attention",
+        "emotionally flat",
+        "forgettable",
+        "self-effacing",
+        "plain",
+        "uninterested"
+      ],
+      "often_confused_with": [
+        "sp2",
+        "sx2",
+        "sp6",
+        "sx9",
+        "sx4"
+      ],
+      "neurosis": "Fear of ordinariness manifests as seductive charm, seeking admiration to validate existence. They need to feel special and desired to feel alive. Without that mirror, they feel invisible and worthless.",
+      "childhood": "Believed personal value was tied to being attractive or desirable to others, leading to performance in relationships. They may have been praised for their looks or charm, or they may have learned that being cute got them attention. They learned to perform to be loved.",
+      "growth_path": "For sx3s, growth involves learning that they are valuable beyond their attractiveness. They need to develop a sense of self that isn't dependent on others' desire. Cultivating inner qualities and pursuing interests that aren't about image can help. They also benefit from allowing themselves to be seen in their vulnerability, not just their perfection.",
+      "stress_response": "Under stress, sx3s become more seductive and may use their charm manipulatively to keep their partner. They may become jealous and possessive, or they may withdraw to protect themselves from rejection. In extreme stress, they can become hysterical or promiscuous, seeking validation anywhere.",
+      "key_quote": "I am only real when I am desired.",
+      "famous_examples": [
+        "Marilyn Monroe",
+        "Pamela Anderson",
+        "characters like Holly Golightly"
+      ],
+      "relationship_dynamics": "In relationships, sx3s are passionate and devoted, but they need constant reassurance of their desirability. They may become jealous if their partner looks at others. They are most compatible with types who are secure and appreciative, such as sp9 or so6, but need to learn that love is not just about being wanted.",
+      "common_misconceptions": "sx3s are often mistaken for sx2s because both are relationship-focused, but sx2s are driven by a need to care and be cared for, while sx3s are driven by a need to be admired and desired. They are not shallow; their focus on appearance is a deep-seated need for validation."
+    },
+    {
+      "enneagram": "sp4",
+      "focus": "Heart-centered",
+      "archetype": "The Tenacity",
+      "core_traits": {
+        "stoicism": "Appear emotionally resilient, often concealing inner turmoil behind a composed exterior. They are the 'strong silent type' who endure pain without complaint. This stoicism can be a shield against vulnerability, making them seem unapproachable.",
+        "self-reliance": "Prefer to handle challenges independently, minimizing reliance on others. They pride themselves on their ability to cope alone. Asking for help feels like a sign of weakness, so they suffer in silence.",
+        "endurance": "Demonstrate a high tolerance for emotional pain and hardship. They can withstand a lot without breaking, but this endurance comes at a cost. They may become numb or depressed over time."
+      },
+      "emotional_landscape": {
+        "internalized_suffering": "Process emotional distress privately, often without expressing it outwardly. They may not even acknowledge their own pain, pushing it deep inside. This can lead to psychosomatic issues or sudden outbursts when the pressure becomes too much.",
+        "fear_of_burdening": "Avoid sharing feelings to prevent being a burden to others. They believe their problems are too much for others to handle, so they keep them to themselves. This isolation reinforces their sense of being alone in their suffering.",
+        "longing_for_authenticity": "Desire genuine connections but struggle to express vulnerability. They want to be truly seen and understood, but they are terrified of the exposure. This creates a paradox where they yearn for intimacy but push people away."
+      },
+      "behavioral_tendencies": {
+        "reserved_demeanor": "Maintain a calm and collected presence, even in emotional situations. They are masters of the poker face, which can make them seem cold or distant. Others may not realize the depth of their feelings.",
+        "independent_problem_solving": "Tackle issues alone, rarely seeking external support. They are self-sufficient to a fault, often refusing help even when they need it. This can lead to burnout and resentment.",
+        "creative_expression": "Channel complex emotions into artistic or creative outlets. They may write, paint, or make music as a way to express what they cannot say. Their art is often melancholic and deeply personal."
+      },
+      "traits": [
+        "romanticizes own suffering",
+        "stoic and determined",
+        "seeks validation through defending others",
+        "fights first, asks never",
+        "counter-phobic and protective",
+        "authenticity-driven and idealistic",
+        "introverted",
+        "anti-intuitive",
+        "resilient",
+        "self-contained",
+        "enduring"
+      ],
+      "anti_traits": [
+        "running from feelings",
+        "methodical",
+        "attention-seeking",
+        "chaotic",
+        "needy",
+        "existential",
+        "weak",
+        "dependent"
+      ],
+      "often_confused_with": [
+        "sx6",
+        "sp1",
+        "so4",
+        "so8",
+        "sp8"
+      ],
+      "neurosis": "Fear of defenselessness withdraws into private melancholy, romanticizing suffering to avoid exposure. They turn their pain into a badge of honor, a way to feel special and strong. But this romanticization prevents them from seeking healing and connection.",
+      "childhood": "Grew up feeling emotionally neglected and powerless, leading to a focus on strength and internal suffering. They may have had to fend for themselves emotionally, learning that no one would rescue them. They decided to become their own protector.",
+      "growth_path": "For sp4s, growth involves learning to open up and share their vulnerability with trusted others. They need to realize that asking for help is not a weakness but a strength. Therapy or support groups can provide a safe space to express feelings. They also benefit from activities that bring joy, not just endurance.",
+      "stress_response": "Under stress, sp4s become more withdrawn and stoic, isolating themselves from others. They may become cynical and bitter, pushing people away. In extreme stress, they can have emotional breakdowns where all the suppressed pain erupts.",
+      "key_quote": "I can handle anything on my own.",
+      "famous_examples": [
+        "Clint Eastwood's characters",
+        "Emily Dickinson",
+        "Bruce Lee (sp4?)",
+        "characters like Lisbeth Salander"
+      ],
+      "relationship_dynamics": "In relationships, sp4s are loyal and protective, but they struggle to express their needs. They may come across as aloof or uninterested, but they deeply care. They need partners who are patient and who can gently draw them out. They are most compatible with types who are warm and accepting, such as so9 or sp2.",
+      "common_misconceptions": "sp4s are often mistaken for sp1s because of their discipline, but sp1s are driven by a need for perfection and morality, while sp4s are driven by a need for authenticity and endurance. They are not cold; they are simply protecting themselves."
+    },
+    {
+      "enneagram": "so4",
+      "focus": "Heart-centered",
+      "archetype": "The Shame",
+      "core_traits": {
+        "social_comparison": "Frequently compare themselves to others, often feeling inferior. They measure their worth against others and usually come up short. This comparison fuels their sense of shame and longing.",
+        "desire_for_belonging": "Seek acceptance and inclusion within social groups. They want to be part of something, to feel that they belong. But they often feel like outsiders, which reinforces their sense of being different.",
+        "sensitivity_to_rejection": "Highly attuned to signs of exclusion or disapproval. They notice when they are left out or not invited, and it cuts deep. This sensitivity can make them hypervigilant in social situations."
+      },
+      "emotional_landscape": {
+        "shame": "Experience deep feelings of inadequacy and self-consciousness. They feel flawed and defective, as if there is something fundamentally wrong with them. This shame colors their entire self-perception.",
+        "envy": "Feel envious of others' perceived happiness or success. They see others as having what they lack, whether it's confidence, love, or status. This envy can lead to resentment or self-loathing.",
+        "emotional_transparency": "Openly express emotions, sometimes leading to vulnerability. They are not afraid to show their pain, and they often use art or writing to express their feelings. This transparency can be a way to connect with others, but it also exposes them to rejection."
+      },
+      "behavioral_tendencies": {
+        "self-deprecation": "Downplay achievements and focus on perceived flaws. They are quick to point out their own shortcomings, sometimes as a defense mechanism to preempt criticism. This can become a self-fulfilling prophecy.",
+        "seeking_validation": "Look to others for affirmation and recognition. They need external reassurance that they are okay, but they often doubt the sincerity of praise. This creates a cycle of seeking and then dismissing validation.",
+        "emotional_expressiveness": "Share feelings openly, often through storytelling or art. They use creativity to process their emotions and to communicate their inner world. Their work is often poignant and relatable."
+      },
+      "traits": [
+        "expressive, but self-degrading outsider",
+        "ideals vs reality tension",
+        "symbolic and introspective martyr",
+        "philosophical and idealistic",
+        "seeks strength for coping and acceptance",
+        "anxious and counter-phobic",
+        "authenticity-driven",
+        "introverted",
+        "anti-sensory",
+        "sensitive",
+        "artistic"
+      ],
+      "anti_traits": [
+        "running from feelings",
+        "socially confident",
+        "conventional",
+        "emotionally dull",
+        "grounded",
+        "self-assured",
+        "complacent"
+      ],
+      "often_confused_with": [
+        "sp4",
+        "sx6",
+        "sx4",
+        "sx5",
+        "sp6",
+        "so6"
+      ],
+      "neurosis": "Fear of being ordinary fuels envious comparison, clinging to outsider status to feel unique. They believe that if they are different, they are special, but this also isolates them. Their shame becomes a twisted source of identity.",
+      "childhood": "Felt different or misunderstood within groups, fostering a sense of longing for belonging. They may have been the odd one out, the sensitive child, or the one who didn't fit in. They learned to see themselves as outsiders.",
+      "growth_path": "For so4s, growth involves learning to accept themselves as they are and to find belonging without losing their individuality. They need to challenge the belief that they are fundamentally flawed and to see that everyone has insecurities. Engaging in community activities where they can contribute can help them feel part of something. They also benefit from practicing self-compassion.",
+      "stress_response": "Under stress, so4s become more withdrawn and self-deprecating, isolating themselves from others. They may indulge in melancholy and envy, comparing themselves unfavorably. In extreme stress, they can become depressed and hopeless.",
+      "key_quote": "I am not like others, and that's both my curse and my gift.",
+      "famous_examples": [
+        "Sylvia Plath",
+        "Virginia Woolf",
+        "Kurt Cobain (sx4?)",
+        "characters like Anne of Green Gables"
+      ],
+      "relationship_dynamics": "In relationships, so4s are sensitive and empathetic, but they may struggle with feelings of unworthiness. They need partners who can reassure them and who appreciate their depth. They are most compatible with types who are grounded and accepting, such as sp9 or so7.",
+      "common_misconceptions": "so4s are often mistaken for sx4s because of their emotional intensity, but so4s are more focused on social comparison and belonging, while sx4s are focused on intense one-on-one connections. They are not just 'melancholic'; their pain is real and deeply felt."
+    },
+    {
+      "enneagram": "sx4",
+      "focus": "Heart-centered",
+      "archetype": "The Hate",
+      "core_traits": {
+        "intensity": "Experience emotions deeply, leading to passionate relationships. They feel everything strongly—love, anger, joy, despair. This intensity can be both captivating and overwhelming.",
+        "desire_for_uniqueness": "Strive to be seen as special or different from others. They need to stand out, to be recognized as one of a kind. This drive can lead to creative expression or rebellious behavior.",
+        "competitive_nature": "Engage in rivalry to assert individuality and worth. They compete not just to win, but to prove they are better, more unique. This can create drama in relationships."
+      },
+      "emotional_landscape": {
+        "emotional_highs_and_lows": "Oscillate between intense joy and profound despair. Their moods are volatile, and they can swing from ecstasy to rage in moments. This makes them exciting but exhausting partners.",
+        "fear_of_abandonment": "Worry about being left or unloved by close connections. They fear that their intensity will drive people away, so they may test partners to see if they will stay.",
+        "expressive_anger": "May display anger openly when feeling misunderstood or rejected. Their anger is a defense against vulnerability, a way to push others away before they can be hurt."
+      },
+      "behavioral_tendencies": {
+        "dramatic_expression": "Use expressive gestures and language to convey emotions. They are not subtle; their feelings are on full display. This can be theatrical, but it's genuine.",
+        "deep_connections": "Form intense bonds, often seeking soulful relationships. They want to merge with another person, to feel understood at a profound level. But this intensity can scare people off.",
+        "boundary_testing": "Challenge norms and expectations to assert individuality. They may dress unconventionally, speak bluntly, or reject societal standards. This is a way to say, 'I am not like everyone else.'"
+      },
+      "traits": [
+        "hateful to self and others, but rationalizing",
+        "hysterical intensity",
+        "may repress emotions to be recognized",
+        "identity-obsessed",
+        "intimacy-possessed",
+        "fears betrayal",
+        "authenticity-driven",
+        "passionate",
+        "competitive",
+        "dramatic"
+      ],
+      "anti_traits": [
+        "running from feelings",
+        "neutral",
+        "emotionally distant",
+        "bland",
+        "superficial",
+        "emotionally even",
+        "complacent"
+      ],
+      "often_confused_with": [
+        "sx1",
+        "sx6",
+        "sx8",
+        "sx2",
+        "so4"
+      ],
+      "neurosis": "Fear of being unlovable exaggerates emotional extremes, conflating intensity with authenticity. They believe that if they feel deeply, they are real. But this intensity can become a performance, a way to get attention and validation.",
+      "childhood": "Experienced intense emotional highs and lows in close relationships, seeking depth to fill inner voids. They may have had a volatile parent or experienced loss, leading them to crave intense connections as a way to feel alive.",
+      "growth_path": "For sx4s, growth involves learning to moderate their intensity and find stability within themselves. They need to realize that they are lovable even when they are calm. Developing emotional regulation and mindfulness can help. They also benefit from channeling their intensity into creative projects rather than relationships.",
+      "stress_response": "Under stress, sx4s become more volatile and may lash out or withdraw dramatically. They may become jealous and possessive, or they may engage in self-destructive behaviors. In extreme stress, they can have emotional breakdowns or become paranoid about betrayal.",
+      "key_quote": "I feel everything so deeply that it consumes me.",
+      "famous_examples": [
+        "Frida Kahlo",
+        "Jim Morrison",
+        "Kurt Cobain",
+        "characters like Heathcliff"
+      ],
+      "relationship_dynamics": "In relationships, sx4s are passionate and intense, but they can be draining. They need partners who can handle their emotional storms and who are secure enough not to take it personally. They are most compatible with types who are grounding and patient, such as sp9 or so6.",
+      "common_misconceptions": "sx4s are often mistaken for sx8s because of their intensity and anger, but sx8s are driven by a need for control and power, while sx4s are driven by a need for identity and authenticity. They are not just 'angry'; their anger is a shield for deep vulnerability."
+    },
+    {
+      "enneagram": "sp5",
+      "focus": "Head-centered",
+      "archetype": "The Observance",
+      "core_traits": {
+        "self_sufficiency": "Prioritize autonomy and independence, often minimizing needs to avoid reliance on others. They pride themselves on needing little and being able to handle things alone. This self-sufficiency is a fortress against the demands of the world.",
+        "privacy": "Highly value personal space and boundaries, creating a 'castle' to retreat into. Their home is their sanctuary, and they guard it fiercely. They need time alone to recharge and think.",
+        "emotional_detachment": "Tend to suppress emotions, focusing on intellectual pursuits over emotional expression. They view emotions as messy and irrational, preferring the clarity of ideas. This detachment can make them seem cold or unfeeling."
+      },
+      "emotional_landscape": {
+        "fear_of_intrusion": "Experience anxiety about others encroaching on their personal space or resources. They need to control who has access to them and their environment. Unexpected visitors or demands can throw them off balance.",
+        "aversion_to_dependency": "Discomfort with relying on others, leading to isolation. They would rather do without than ask for help. This aversion can make them miss out on support and connection.",
+        "need_for_control": "Desire to manage their environment to prevent unexpected demands or intrusions. They plan and organize to minimize surprises. This need for control can become rigid and limiting."
+      },
+      "behavioral_tendencies": {
+        "minimalism": "Adopt a minimalist lifestyle to reduce external dependencies. They own few possessions, live simply, and avoid commitments that would tie them down. This freedom is essential to their sense of security.",
+        "withdrawal": "Pull away from social interactions to conserve energy. They have a limited social battery and need regular retreats. They may decline invitations without explanation, which can be misinterpreted as aloofness.",
+        "information_hoarding": "Accumulate knowledge as a means of feeling secure and prepared. They read voraciously, research thoroughly, and become experts in their areas of interest. Knowledge is power and protection."
+      },
+      "traits": [
+        "cynical, but humble",
+        "self-contained",
+        "knowledge-focused",
+        "truth-seeking over identity-seeking",
+        "withdrawn",
+        "minimalist thinker",
+        "detached",
+        "introverted",
+        "observant",
+        "analytical",
+        "private"
+      ],
+      "anti_traits": [
+        "loud",
+        "needy",
+        "exposing",
+        "emotionally expressive",
+        "team-dependent",
+        "engaged",
+        "socially demanding"
+      ],
+      "often_confused_with": [
+        "so6",
+        "sp7",
+        "sp9",
+        "so5",
+        "sp1"
+      ],
+      "neurosis": "Fear of incompetence isolates behind knowledge-hoarding, withdrawing to avoid demands. They believe that if they know enough, they will be safe from criticism and failure. But this pursuit can become an endless quest, never feeling ready.",
+      "childhood": "Felt overwhelmed by demands, retreating into solitude and valuing self-sufficiency. They may have had intrusive or demanding parents, leading them to seek refuge in their own mind. They learned that the world is demanding and that they need to protect themselves.",
+      "growth_path": "For sp5s, growth involves learning to engage with the world and share their knowledge. They need to realize that connection does not have to be intrusive. Taking small steps to open up and ask for help can build trust. They also benefit from exploring their emotions through creative expression or therapy.",
+      "stress_response": "Under stress, sp5s become more isolated and may cut off contact entirely. They may hoard information obsessively or become cynical and dismissive. In extreme stress, they can experience severe anxiety or paranoia about being overwhelmed.",
+      "key_quote": "Knowledge is my shield against the world.",
+      "famous_examples": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "J.D. Salinger",
+        "characters like Sherlock Holmes"
+      ],
+      "relationship_dynamics": "In relationships, sp5s are loyal but need space. They show love by sharing their knowledge and being reliable. They need partners who respect their boundaries and don't take their withdrawal personally. They are most compatible with types who are independent and understanding, such as sp9 or so5.",
+      "common_misconceptions": "sp5s are often mistaken for sp9s because of their withdrawal, but sp9s withdraw to avoid conflict and maintain peace, while sp5s withdraw to protect their autonomy and resources. They are not antisocial; they simply need solitude to recharge."
+    },
+    {
+      "enneagram": "so5",
+      "focus": "Head-centered",
+      "archetype": "The Intellectualism",
+      "core_traits": {
+        "intellectual_engagement": "Seek to understand complex systems and ideas, often becoming experts in specific fields. They love to dive deep into subjects and master them. This intellectual pursuit gives them a sense of control and identity.",
+        "abstract_thinking": "Focus on theoretical concepts and overarching principles. They are less interested in practical applications than in the ideas themselves. Their minds are always exploring possibilities and connections.",
+        "community_observation": "Observe social structures and dynamics, often from a detached standpoint. They study groups and societies like a scientist, noting patterns and behaviors. This observation helps them feel involved without being immersed."
+      },
+      "emotional_landscape": {
+        "fear_of_incompetence": "Concerned about not knowing enough or being seen as uninformed. They feel a constant pressure to learn and stay updated. Being wrong or ignorant is a source of shame.",
+        "desire_for_recognition": "Seek acknowledgment for their knowledge and insights. They want to be seen as experts and thought leaders. Recognition validates their intellectual efforts.",
+        "emotional_distance": "Maintain a level of detachment to preserve objectivity. They believe emotions cloud judgment, so they keep them at bay. This distance can make them seem aloof or unfeeling."
+      },
+      "behavioral_tendencies": {
+        "knowledge_sharing": "Engage in teaching or mentoring roles to disseminate information. They enjoy explaining complex ideas and helping others understand. This sharing also reinforces their own expertise.",
+        "network_building": "Form connections based on shared intellectual interests. They seek out like-minded people, attending conferences, joining online forums, and collaborating on projects. Their social circle is often academic or professional.",
+        "idealism": "Pursue high ideals and abstract goals, sometimes at the expense of practical considerations. They may get lost in theories and neglect everyday needs. Their idealism can inspire others but also lead to disappointment when reality falls short."
+      },
+      "traits": [
+        "hyper-intellectual",
+        "observer",
+        "coldly analytical",
+        "disconnected from emotions",
+        "elitist",
+        "detached",
+        "introverted",
+        "anti-sensory",
+        "theoretical",
+        "scholarly",
+        "abstract"
+      ],
+      "anti_traits": [
+        "emotionally reactive",
+        "tribal",
+        "assertive",
+        "warm",
+        "tribally expressive",
+        "practical",
+        "grounded"
+      ],
+      "often_confused_with": [
+        "so1",
+        "sp5",
+        "so6",
+        "so7",
+        "so3"
+      ],
+      "neurosis": "Fear of helplessness detaches into cold analysis, rejecting emotion to feel in control. They believe that if they can understand everything, they can master life. But this intellectualization leaves them disconnected from their own humanity.",
+      "childhood": "Believed that knowledge and expertise were necessary to gain social standing and avoid feelings of inadequacy. They may have been praised for being smart or teased for being nerdy, leading them to invest heavily in their intellect.",
+      "growth_path": "For so5s, growth involves integrating emotions with intellect. They need to recognize that feelings are not a threat but a source of wisdom. Engaging in creative arts or therapy can help them connect with their emotional side. They also benefit from applying their knowledge to practical, real-world problems.",
+      "stress_response": "Under stress, so5s become more arrogant and dismissive of others' opinions. They may retreat into abstract theories, losing touch with reality. In extreme stress, they can become paranoid or nihilistic, feeling that nothing matters.",
+      "key_quote": "Understanding everything is the only way to be safe.",
+      "famous_examples": [
+        "Noam Chomsky",
+        "Stephen Hawking",
+        "Jean-Paul Sartre",
+        "characters like Dr. House"
+      ],
+      "relationship_dynamics": "In relationships, so5s are intellectually stimulating but may struggle with emotional intimacy. They show love by sharing ideas and engaging in deep conversations. They need partners who appreciate their mind and don't demand constant emotional expression. They are most compatible with types who are intellectually curious and independent, such as sp5 or so7.",
+      "common_misconceptions": "so5s are often mistaken for so1s because of their idealism and intellectual rigor, but so1s are driven by a need for moral perfection, while so5s are driven by a need for knowledge and understanding. They are not cold; they simply prioritize the mind over the heart."
+    },
+    {
+      "enneagram": "sx5",
+      "focus": "Head-centered",
+      "archetype": "The Exclusivity",
+      "core_traits": {
+        "intensity": "Experience emotions deeply, leading to passionate interests and relationships. They are not the typical detached 5; they have a hidden fire. When they connect, they connect deeply.",
+        "romanticism": "Hold idealized views of love and connection. They dream of a soulmate, a perfect union where they can share their inner world. This romanticism can lead to disappointment when reality doesn't match.",
+        "emotional_expressiveness": "More openly display emotions compared to other Type 5 subtypes. With a trusted few, they can be warm and vulnerable. This expressiveness is a gift they offer only to those who earn it."
+      },
+      "emotional_landscape": {
+        "fear_of_rejection": "Anxiety about being misunderstood or emotionally exposed. They want to share their depths but fear that others will not understand or will reject them. This fear makes them cautious in opening up.",
+        "desire_for_connection": "Seek deep, meaningful relationships while fearing vulnerability. They long for intimacy but are terrified of being hurt. This push-pull can be confusing for partners.",
+        "inner_conflict": "Struggle between the need for intimacy and the desire for independence. They want to merge with another, but they also need their solitude. This conflict can lead to a pattern of intense connection followed by withdrawal."
+      },
+      "behavioral_tendencies": {
+        "creative_expression": "Channel intense emotions into artistic or creative pursuits. They may write poetry, compose music, or create visual art that expresses their inner world. This creativity is a way to communicate without direct exposure.",
+        "selective_sharing": "Open up emotionally to a chosen few, seeking profound connections. They have a small circle of trusted confidants with whom they share their deepest thoughts. These relationships are intense and meaningful.",
+        "idealization": "Place partners or close connections on a pedestal, leading to potential disappointment. They see the best in others, sometimes projecting their ideals. When the person falls short, they may feel betrayed."
+      },
+      "traits": [
+        "mystical",
+        "focused on deep connections",
+        "conceptual intensity",
+        "prone to weaponize psychology",
+        "romantic",
+        "detached",
+        "introverted",
+        "anti-sensory",
+        "passionate",
+        "secretive",
+        "intimate"
+      ],
+      "anti_traits": [
+        "loud and chaotic",
+        "open-hearted",
+        "practical",
+        "surface-level",
+        "grounded",
+        "emotionally clear",
+        "casual"
+      ],
+      "often_confused_with": [
+        "so2",
+        "so4",
+        "sx4",
+        "sp5",
+        "sx2"
+      ],
+      "neurosis": "Fear of intrusion obsesses over mystical depth, using concepts to guard against vulnerability. They hide behind big ideas and spiritual explorations, but these are also a way to connect without being fully exposed.",
+      "childhood": "Sought deep connections but feared intrusion, leading to a push-pull dynamic in relationships. They may have had a parent who was either intrusive or emotionally absent, creating a confusion about intimacy.",
+      "growth_path": "For sx5s, growth involves learning to trust that they can be vulnerable without being overwhelmed. They need to practice opening up gradually and accepting that relationships have ups and downs. Developing a sense of self that is not dependent on the intensity of connection can help. They also benefit from grounding practices that bring them into the present moment.",
+      "stress_response": "Under stress, sx5s become more withdrawn and may cut off contact with loved ones. They may indulge in obsessive intellectual pursuits or mystical fantasies to escape. In extreme stress, they can become paranoid about being betrayed or consumed.",
+      "key_quote": "I want to merge with you, but I'm afraid of losing myself.",
+      "famous_examples": [
+        "Carl Jung",
+        "Rumi",
+        "Leonardo da Vinci",
+        "characters like Tristan from 'Legends of the Fall'"
+      ],
+      "relationship_dynamics": "In relationships, sx5s are deeply romantic and loyal, but they need space. They seek a partner who can understand their need for both intimacy and solitude. They are most compatible with types who are secure and non-intrusive, such as sp9 or so7.",
+      "common_misconceptions": "sx5s are often mistaken for sx4s because of their intensity and romanticism, but sx4s are driven by a need for identity and authenticity, while sx5s are driven by a need for knowledge and deep connection. They are not just 'mystical'; their spirituality is a way to connect with the world."
+    },
+    {
+      "enneagram": "sp6",
+      "focus": "Head-centered",
+      "archetype": "The Warmth",
+      "core_traits": {
+        "warmth": "Exhibit a friendly and affable demeanor to foster alliances and ensure personal safety. They are the 'people persons' of the 6 family, using charm to build a support network. Their warmth is a strategy to keep threats at bay.",
+        "phobic_tendencies": "Highly aware of fear, often seeking protection through relationships. They are anxious by nature and look to trusted others for reassurance. This dependence can make them seem clingy.",
+        "dependency": "Rely on trusted individuals for guidance and reassurance. They need a 'safe base' from which to navigate the world. Without it, they feel lost and vulnerable."
+      },
+      "emotional_landscape": {
+        "anxiety": "Experience persistent worry about potential threats and uncertainties. Their mind is always scanning for danger. This anxiety can be exhausting and lead to avoidance behaviors.",
+        "self-doubt": "Frequently question their decisions and seek external validation. They are not confident in their own judgment and need others to confirm they are on the right track. This can make them indecisive.",
+        "conflict_avoidance": "Suppress anger to maintain harmony and avoid confrontation. They fear that conflict will lead to abandonment or attack. So they swallow their feelings and try to keep the peace."
+      },
+      "behavioral_tendencies": {
+        "relationship_building": "Invest in forming close bonds to create a sense of security. They are loyal friends and partners, always ready to help. Their network is their safety net.",
+        "hesitation": "Display indecisiveness due to fear of making wrong choices. They may overthink and seek advice before acting. This hesitation can frustrate others who want quick decisions.",
+        "support_seeking": "Look to others for protection and affirmation. They need regular reassurance that they are safe and loved. This can be draining for their partners if not balanced."
+      },
+      "traits": [
+        "prepared and anticipating",
+        "responsible and realistic",
+        "warm and soft, but logical",
+        "emotionally fragile",
+        "avoidance of violence and power",
+        "seeks security, but not validation",
+        "anxiety-driven",
+        "introverted",
+        "loyal",
+        "cautious",
+        "friendly"
+      ],
+      "anti_traits": [
+        "impulsive",
+        "naive",
+        "chaotic",
+        "carefree",
+        "unstructured",
+        "deceptive",
+        "aggressive"
+      ],
+      "often_confused_with": [
+        "sp2",
+        "sx5",
+        "sx9",
+        "sp9",
+        "so6"
+      ],
+      "neurosis": "Fear of uncertainty fixates on preparedness, masking anxiety with skeptical warmth. They try to control the future by anticipating every possibility, but this only increases their anxiety. Their warmth is a way to bind others to them for protection.",
+      "childhood": "Grew up in unpredictable environments, leading to heightened anxiety and reliance on close people. They may have had inconsistent care, making them vigilant and dependent. They learned that safety comes from alliances.",
+      "growth_path": "For sp6s, growth involves learning to trust their own judgment and to tolerate uncertainty. They need to build inner confidence and gradually take risks. Mindfulness and grounding techniques can help manage anxiety. They also benefit from asserting themselves and expressing anger appropriately.",
+      "stress_response": "Under stress, sp6s become more anxious and may seek constant reassurance. They may become clingy or paranoid, imagining threats. In extreme stress, they can have panic attacks or become completely dependent on others.",
+      "key_quote": "I need to know I'm safe before I can relax.",
+      "famous_examples": [
+        "Woody Allen (sp6?)",
+        "Princess Diana (sp6?)",
+        "characters like Eeyore"
+      ],
+      "relationship_dynamics": "In relationships, sp6s are loyal and caring, but they need reassurance. They seek partners who are stable and dependable. They are most compatible with types who are grounding and patient, such as sp9 or so2.",
+      "common_misconceptions": "sp6s are often mistaken for sp2s because of their warmth and need for connection, but sp2s are driven by a need to be loved and cared for, while sp6s are driven by a need for security and safety. They are not just 'anxious'; their anxiety is a response to real or perceived threats."
+    },
+    {
+      "enneagram": "so6",
+      "focus": "Head-centered",
+      "archetype": "The Duty",
+      "core_traits": {
+        "duty_oriented": "Adhere strictly to rules and authority to find security within structures. They believe that following the rules will keep them safe. They are the backbone of institutions, reliable and hardworking.",
+        "loyalty": "Demonstrate unwavering commitment to groups or ideologies they trust. They are fiercely loyal to their family, country, or organization. This loyalty gives them a sense of belonging and purpose.",
+        "responsibility": "Take on roles that emphasize accountability and service. They are the ones who show up, do the work, and hold others accountable. Their sense of duty is strong."
+      },
+      "emotional_landscape": {
+        "fear_of_disapproval": "Anxious about being judged or rejected by their community or authority figures. They need to be seen as good and reliable. Disapproval feels like a threat to their security.",
+        "ideological_rigidity": "Struggle with ambiguity, preferring clear guidelines and beliefs. They like to know where they stand and what is expected. This rigidity can make them resistant to change.",
+        "internal_conflict": "Experience tension between personal doubts and the need to appear certain. They may have inner questions but suppress them to maintain a united front. This can lead to stress and burnout."
+      },
+      "behavioral_tendencies": {
+        "rule_following": "Strictly observe societal norms and expectations. They are the ones who follow the law, respect authority, and uphold traditions. This gives them a sense of order.",
+        "group_alignment": "Align with organizations or movements that provide a clear sense of purpose. They join clubs, churches, or political parties that share their values. This alignment reinforces their identity.",
+        "skepticism": "Question new ideas until they align with established beliefs. They are cautious about change and need proof before adopting new ways. This skepticism can be seen as closed-mindedness."
+      },
+      "traits": [
+        "structured and self-critical",
+        "skeptical loyalist",
+        "rigid and hyperrational",
+        "deeply lawful and dutiful",
+        "responsible and committed",
+        "anxiety-driven",
+        "introverted",
+        "loyal",
+        "dependable",
+        "conventional"
+      ],
+      "anti_traits": [
+        "rebellious",
+        "independent",
+        "apathetic",
+        "chaotic",
+        "emotionally unstable",
+        "deceptive",
+        "unreliable"
+      ],
+      "often_confused_with": [
+        "sp1",
+        "so5",
+        "so7",
+        "so3",
+        "sp6"
+      ],
+      "neurosis": "Fear of disloyalty enforces rigid rationality, projecting stability to protect the group. They suppress their own doubts to appear solid and trustworthy. This self-sacrifice can lead to resentment and exhaustion.",
+      "childhood": "Felt the need to adhere strictly to group norms to find security and avoid rejection. They may have been praised for being 'good' and punished for stepping out of line. They learned that safety lies in conformity.",
+      "growth_path": "For so6s, growth involves learning to trust their own inner authority and to question external rules when necessary. They need to develop flexibility and allow themselves to have doubts. Engaging in critical thinking and exploring different perspectives can help. They also benefit from expressing their individuality in safe ways.",
+      "stress_response": "Under stress, so6s become more rigid and may double down on rules. They may become authoritarian or paranoid about threats to the group. In extreme stress, they can become dogmatic and intolerant of dissent.",
+      "key_quote": "I find safety in belonging and following the rules.",
+      "famous_examples": [
+        "George Washington",
+        "Queen Elizabeth II",
+        "characters like Ned Stark"
+      ],
+      "relationship_dynamics": "In relationships, so6s are loyal and dependable, but they may be overly traditional. They seek partners who share their values and are committed. They are most compatible with types who are also loyal and responsible, such as sp1 or so9.",
+      "common_misconceptions": "so6s are often mistaken for so1s because of their sense of duty, but so1s are driven by a need for moral perfection, while so6s are driven by a need for security and loyalty. They are not just 'rigid'; their adherence to rules is a way to manage anxiety."
+    },
+    {
+      "enneagram": "sx6",
+      "focus": "Head-centered",
+      "archetype": "The Strength",
+      "core_traits": {
+        "counterphobic_behavior": "Confront fears head-on, often displaying assertiveness or aggression. They face danger directly, sometimes recklessly. This is a way to prove they are not afraid, to themselves and others.",
+        "intensity": "Engage deeply in relationships, seeking strong emotional connections. They are passionate and loyal, but also volatile. Their relationships are often intense and dramatic.",
+        "rebelliousness": "Challenge authority and norms as a means of asserting independence. They distrust power and may fight against it. This rebellion can be a way to test loyalty and strength."
+      },
+      "emotional_landscape": {
+        "inner_turmoil": "Experience a mix of fear and defiance, leading to emotional volatility. They are constantly battling their own anxiety, which can erupt in anger or aggression. This inner war is exhausting.",
+        "trust_issues": "Struggle with trusting others, leading to testing behaviors in relationships. They need to know if someone is loyal, so they may push them away to see if they come back. This can be self-sabotaging.",
+        "vulnerability": "Mask insecurities with boldness, fearing exposure of true feelings. They project strength to hide their fear. Admitting vulnerability feels like defeat."
+      },
+      "behavioral_tendencies": {
+        "risk-taking": "Engage in daring activities to prove courage and suppress fear. They may seek adrenaline rushes through extreme sports or dangerous situations. This is a way to feel alive and in control.",
+        "protectiveness": "Defend loved ones fiercely, sometimes to the point of overbearing behavior. They are the 'guardian' who will fight for their people. This protectiveness can be suffocating if not balanced.",
+        "emotional_testing": "Assess the loyalty and reliability of close connections through challenges. They may provoke arguments or create crises to see who will stand by them. This tests the strength of the bond."
+      },
+      "traits": [
+        "the lone wolf",
+        "no-nonsense and hyperrational",
+        "fight over flight",
+        "violent and aggressive",
+        "denies emotions to stay vigilant",
+        "anxiety-driven",
+        "introverted",
+        "anti-intuitive",
+        "brave",
+        "protective",
+        "rebellious"
+      ],
+      "anti_traits": [
+        "puppetmaster",
+        "emotional",
+        "introspective",
+        "idealistic",
+        "deceptive",
+        "treacherous",
+        "chill and stoic"
+      ],
+      "often_confused_with": [
+        "sp4",
+        "sx4",
+        "sp8",
+        "sx8",
+        "so6"
+      ],
+      "neurosis": "Fear of danger forms through tension, oscillating between loyalty and aggression. They are in a constant state of alert, ready to fight or flee. This tension can lead to explosive outbursts or chronic anxiety.",
+      "childhood": "Experienced trust issues in close relationships, oscillating between dependence and skepticism. They may have been betrayed or let down by someone they trusted, leading them to adopt a 'strength first' attitude.",
+      "growth_path": "For sx6s, growth involves learning to trust and to allow vulnerability. They need to recognize that not everyone is a threat and that showing weakness can actually strengthen bonds. Therapy or support groups can provide a safe space to explore these fears. They also benefit from calming practices like meditation to reduce their hypervigilance.",
+      "stress_response": "Under stress, sx6s become more aggressive and confrontational. They may pick fights or engage in reckless behavior. In extreme stress, they can become paranoid and isolate themselves, seeing enemies everywhere.",
+      "key_quote": "I will face my fears head-on, even if it destroys me.",
+      "famous_examples": [
+        "Ernest Hemingway",
+        "Bruce Lee",
+        "James Dean",
+        "characters like Tyler Durden"
+      ],
+      "relationship_dynamics": "In relationships, sx6s are fiercely loyal and protective, but they can be volatile. They need partners who are strong and can handle their intensity. They are most compatible with types who are grounding and secure, such as sp9 or so6.",
+      "common_misconceptions": "sx6s are often mistaken for sp8s because of their aggression and protectiveness, but sp8s are driven by a need for control and autonomy, while sx6s are driven by a need to confront fear and prove strength. They are not just 'angry'; their anger is a defense against anxiety."
+    },
+    {
+      "enneagram": "sp7",
+      "focus": "Head-centered",
+      "archetype": "The Family",
+      "core_traits": {
+        "pragmatic_hedonism": "Pursue pleasure through tangible, material means, focusing on comfort and security. They enjoy good food, nice homes, and financial stability. Pleasure for them is about having enough and being comfortable.",
+        "opportunistic": "Identify and exploit opportunities to fulfill desires, often with a persuasive charm. They are savvy about getting what they want, whether it's a deal, a connection, or a experience. Their charm opens doors.",
+        "selective_generosity": "Extend warmth and kindness to chosen individuals who align with their interests. They are generous with their 'family'—those they consider part of their inner circle. This generosity creates loyalty."
+      },
+      "emotional_landscape": {
+        "avoidance_of_pain": "Distract from discomfort through indulgence in pleasurable activities. They don't like to dwell on negative feelings; instead, they seek out fun and excitement. This avoidance can lead to a shallow emotional life.",
+        "fear_of_deprivation": "Anxiety about lacking resources or experiences drives their pursuit of abundance. They need to have enough—money, love, opportunities—to feel safe. This fear can make them greedy or restless.",
+        "self-justification": "Rationalize actions to maintain a positive self-image despite possible manipulative behaviors. They convince themselves that their actions are for the best, even when they might be using others."
+      },
+      "behavioral_tendencies": {
+        "network_cultivation": "Build and maintain 'families' that provide mutual access to desired experiences or resources. They create a tribe of like-minded people who can help each other. This network is their safety net.",
+        "persuasive_communication": "Utilize charm and wit to influence others for personal gain. They are skilled at selling ideas and themselves. Their enthusiasm is contagious, but it can also be manipulative.",
+        "risk_of_addiction": "Prone to overindulgence in substances or activities that offer immediate gratification. They may struggle with food, alcohol, or spending. The pursuit of pleasure can become compulsive."
+      },
+      "traits": [
+        "future planner and strategist",
+        "charlatanic trickster",
+        "deceitful and libertarian",
+        "tends to build alliances/families",
+        "may be cynical or charismatic",
+        "escapes through stimulation",
+        "curiously avoids boredom",
+        "intellectual narcissist",
+        "charming",
+        "opportunistic",
+        "materialistic"
+      ],
+      "anti_traits": [
+        "systematically ascetic",
+        "boring",
+        "rigid",
+        "consistent",
+        "apathetic",
+        "unambitious"
+      ],
+      "often_confused_with": [
+        "so3",
+        "so7",
+        "sp8",
+        "sp9",
+        "so2"
+      ],
+      "neurosis": "Fear of deprivation escapes into stimulation, planning futures to avoid present pain. They are always looking ahead, scheming for the next pleasure, to avoid feeling empty. This constant motion can be exhausting.",
+      "childhood": "Learned to seek pleasure and avoid pain by focusing on material comforts and planning for security. They may have experienced deprivation or instability, leading them to overcompensate with abundance.",
+      "growth_path": "For sp7s, growth involves learning to sit with discomfort and to appreciate the present moment without needing constant stimulation. They need to develop emotional depth and face their fears of deprivation. Mindfulness and gratitude practices can help. They also benefit from scaling back on overindulgence and finding joy in simplicity.",
+      "stress_response": "Under stress, sp7s become more frantic in their pursuit of pleasure, possibly engaging in reckless spending or substance abuse. They may become manipulative to get what they want. In extreme stress, they can crash into depression when their distractions fail.",
+      "key_quote": "I need to have enough to feel safe and happy.",
+      "famous_examples": [
+        "Jay Gatsby",
+        "Donald Trump (sp7/so3)",
+        "Hugh Hefner",
+        "characters like Tony Stark"
+      ],
+      "relationship_dynamics": "In relationships, sp7s are fun and generous, but they may avoid emotional depth. They seek partners who share their love for pleasure and adventure. They are most compatible with types who are grounding and accepting, such as sp9 or so6.",
+      "common_misconceptions": "sp7s are often mistaken for so7s because of their charm and networking, but so7s are driven by a need for altruistic image and idealism, while sp7s are driven by a need for material security and pleasure. They are not just 'hedonists'; their pursuit of pleasure is a defense against pain."
+    },
+    {
+      "enneagram": "so7",
+      "focus": "Head-centered",
+      "archetype": "The Pharisaism",
+      "core_traits": {
+        "idealistic_altruism": "Strive to be seen as selfless and morally upright, often suppressing personal desires to serve others. They want to be the 'good person' who makes a difference. This idealism can be inspiring but also self-deceptive.",
+        "false_altruism": "Engage in acts of service not solely out of genuine concern, but to reinforce a self-image of goodness and gain recognition. They may not be aware of this hidden motive. Their altruism has a performative aspect.",
+        "saintness": "Adopt a persona of moral purity and self-sacrifice, sometimes masking underlying self-interest. They project an image of being above selfishness, which can be a way to feel superior."
+      },
+      "emotional_landscape": {
+        "image_consciousness": "Desire to be perceived as altruistic and virtuous, leading to internal conflict when personal needs arise. They may deny their own needs to maintain the image, leading to resentment.",
+        "repressed_gluttony": "Suppress personal desires, leading to hidden cravings that may manifest in indirect ways. They might indulge in secret pleasures or become passive-aggressive when their needs are ignored.",
+        "self-deception": "Convince themselves of their selflessness, while unconsciously seeking validation and admiration. They truly believe they are good, but they also need others to confirm it."
+      },
+      "behavioral_tendencies": {
+        "sacrificial_service": "Take on responsibilities and help others, sometimes beyond their capacity, to maintain their altruistic image. They may burn out from overgiving. Their sacrifice is a way to feel worthy.",
+        "avoidance_of_selfishness": "Deny personal needs and desires to avoid appearing self-centered. They may feel guilty when they want something for themselves. This avoidance can lead to a lack of self-care.",
+        "seeking_validation": "Look for acknowledgment and appreciation for their sacrifices, reinforcing their self-image. They need to hear 'thank you' and to be seen as a good person. Without it, they feel unappreciated."
+      },
+      "traits": [
+        "hyper-intellectual",
+        "egoistic altruist",
+        "self-sacrificing charlatan",
+        "self-ordering visionary",
+        "abstract narcissist",
+        "ascetic and idealistic",
+        "curiously avoids boredom",
+        "rebellious and willful",
+        "divine machinery",
+        "moralistic",
+        "performative"
+      ],
+      "anti_traits": [
+        "emotional",
+        "grounded",
+        "pointless",
+        "aloof",
+        "selfish",
+        "unprincipled"
+      ],
+      "often_confused_with": [
+        "sp1",
+        "so1",
+        "so2",
+        "so5",
+        "so3"
+      ],
+      "neurosis": "Fear of suffering masks as saintly optimism, avoiding gloom through performative altruism. They keep busy with good deeds to avoid facing their own pain. Their optimism can be a shield against despair.",
+      "childhood": "Felt the need to be entertaining and 'saint' to gain social acceptance and distract from inner anxieties. They may have been praised for being good or helpful, learning that this was their ticket to love.",
+      "growth_path": "For so7s, growth involves acknowledging their own needs and desires without guilt. They need to realize that true altruism comes from a place of abundance, not from a need for validation. Therapy can help them uncover hidden motives. They also benefit from allowing themselves to be imperfect and to receive care.",
+      "stress_response": "Under stress, so7s become more dogmatic in their altruism, possibly becoming preachy or judgmental. They may double down on their 'good person' image, or they may collapse into self-pity if not appreciated. In extreme stress, they can have a breakdown where their repressed needs erupt.",
+      "key_quote": "I am good because I sacrifice for others.",
+      "famous_examples": [
+        "Mother Teresa (speculated)",
+        "Gandhi (speculated)",
+        "characters like Jean Valjean"
+      ],
+      "relationship_dynamics": "In relationships, so7s are caring and idealistic, but they may neglect their own needs. They seek partners who appreciate their goodness and who are also altruistic. They are most compatible with types who are grounding and real, such as sp9 or so6.",
+      "common_misconceptions": "so7s are often mistaken for so1s because of their moralism, but so1s are driven by a need for perfection and justice, while so7s are driven by a need to be seen as good and to avoid suffering. They are not just 'saints'; their altruism has a shadow side."
+    },
+    {
+      "enneagram": "sx7",
+      "focus": "Head-centered",
+      "archetype": "The Imagination",
+      "core_traits": {
+        "romanticism": "View the world through an idealized lens, often envisioning perfect scenarios. They are dreamers who imagine a better life, a perfect love, a grand adventure. This romanticism fuels their optimism.",
+        "intensity": "Experience emotions deeply, leading to passionate pursuits and relationships. They throw themselves into experiences with abandon. Their intensity is contagious.",
+        "suggestibility": "Easily influenced by captivating ideas or individuals, sometimes leading to naivety. They are open to new possibilities and can be swept up in a charismatic person's vision. This can lead to disappointment."
+      },
+      "emotional_landscape": {
+        "escapism": "Use imagination and fantasy to avoid confronting unpleasant realities. They retreat into their dreams when life gets hard. This escapism can prevent them from dealing with problems.",
+        "fear_of_boredom": "Anxiety about monotony drives the constant search for new and exciting experiences. They need novelty to feel alive. Boredom feels like a kind of death.",
+        "emotional_volatility": "Rapid shifts in mood based on the intensity of experiences or relationships. They can go from elation to despair quickly. This volatility can be confusing for those around them."
+      },
+      "behavioral_tendencies": {
+        "novelty_seeking": "Pursue new adventures, ideas, or relationships to maintain a sense of excitement. They are always planning the next trip, the next project, the next love. This restlessness can prevent commitment.",
+        "idealization": "Place people or experiences on a pedestal, potentially leading to disappointment. They see the best in things, but when reality hits, they may feel let down. This cycle repeats.",
+        "boundary_challenging": "Test limits in pursuit of deeper connections or heightened experiences. They may push boundaries in relationships, seeking intensity. This can be thrilling but also destabilizing."
+      },
+      "traits": [
+        "idealistic, but humble",
+        "curious and scattered",
+        "romantic escapist",
+        "playfully seductive",
+        "spontaneous connector",
+        "charlatanic trickster",
+        "curiously avoids boredom",
+        "extraverted",
+        "anti-sensory",
+        "dreamer",
+        "adventurous"
+      ],
+      "anti_traits": [
+        "cautious",
+        "emotionally closed",
+        "predictable",
+        "self-controlled",
+        "introspective",
+        "boring"
+      ],
+      "often_confused_with": [
+        "sp2",
+        "so4",
+        "sx4",
+        "sx8",
+        "sx2"
+      ],
+      "neurosis": "Fear of boredom seeks endless, often pointless novelty, using spontaneity to evade emotional depth. They keep moving to avoid feeling stagnant. But this motion can be a flight from intimacy and self-knowledge.",
+      "childhood": "Pursued intense experiences and relationships to escape feelings of emptiness or limitation. They may have had a dull or restrictive upbringing, leading them to seek excitement elsewhere.",
+      "growth_path": "For sx7s, growth involves learning to find depth in the present moment and to commit to people and projects. They need to tolerate boredom and discover the richness of ordinary life. Mindfulness and grounding practices can help. They also benefit from exploring their emotions rather than running from them.",
+      "stress_response": "Under stress, sx7s become more scattered and may engage in reckless behavior. They may jump from one thing to another, unable to focus. In extreme stress, they can become depressed when their distractions fail.",
+      "key_quote": "I need excitement to feel alive.",
+      "famous_examples": [
+        "Peter Pan",
+        "Jack Kerouac",
+        "Elizabeth Taylor",
+        "characters like Amélie"
+      ],
+      "relationship_dynamics": "In relationships, sx7s are fun and spontaneous, but they may struggle with commitment. They seek partners who share their love for adventure and who can keep up with their energy. They are most compatible with types who are grounding and patient, such as sp9 or so6.",
+      "common_misconceptions": "sx7s are often mistaken for sx4s because of their intensity and romanticism, but sx4s are driven by a need for identity and authenticity, while sx7s are driven by a need for novelty and excitement. They are not just 'flighty'; their restlessness is a fear of being trapped in pain."
+    },
+    {
+      "enneagram": "sp8",
+      "focus": "Gut-centered",
+      "archetype": "The Survival",
+      "core_traits": {
+        "self_reliance": "Prioritize autonomy and independence, focusing on securing personal resources and survival. They need to know they can take care of themselves. Dependency feels like a trap.",
+        "pragmatism": "Approach situations with a practical mindset, emphasizing tangible results over emotional considerations. They are doers, not dreamers. Their focus is on what works.",
+        "protectiveness": "Guard personal boundaries fiercely, often acting as a protector for themselves and close ones. They will fight to defend what's theirs. This protectiveness can be territorial."
+      },
+      "emotional_landscape": {
+        "emotional_repression": "Tend to suppress emotions to maintain control and avoid vulnerability. They see emotions as weaknesses. This repression can lead to sudden outbursts when the pressure builds.",
+        "fear_of_dependency": "Avoid relying on others, viewing dependence as a potential weakness. They would rather struggle alone than ask for help. This fear can isolate them.",
+        "intolerance_for_weakness": "May struggle to empathize with perceived weakness in themselves or others. They value strength and resilience. Weakness is to be overcome, not coddled."
+      },
+      "behavioral_tendencies": {
+        "assertiveness": "Take decisive actions to secure needs and protect interests. They are not afraid to be forceful. Their assertiveness can be intimidating.",
+        "resource_accumulation": "Focus on gathering resources to ensure stability and self-sufficiency. They save money, stock up, and prepare for hard times. This accumulation gives them a sense of security.",
+        "boundary_enforcement": "Set and enforce strict personal boundaries to maintain autonomy. They say no firmly and do not let others encroach. Their boundaries are like walls."
+      },
+      "traits": [
+        "territorial solitude",
+        "amoral",
+        "reckless and non-strategic",
+        "pragmatic power-seeker",
+        "stoically dominant",
+        "seeking adrenaline",
+        "anti-social",
+        "anti-intellectual",
+        "anti-intuitive",
+        "self-reliant",
+        "protective",
+        "assertive"
+      ],
+      "anti_traits": [
+        "manipulative",
+        "introspective",
+        "sly",
+        "calculating",
+        "intellectual",
+        "plotting",
+        "idealistic",
+        "strategic",
+        "dependent"
+      ],
+      "often_confused_with": [
+        "sx6",
+        "sp7",
+        "sx8",
+        "sp9",
+        "so8"
+      ],
+      "neurosis": "Fear of vulnerability drives compulsive control over their environment, rejecting emotions to avoid perceived weakness. They build fortresses around themselves, but these fortresses can become prisons.",
+      "childhood": "Grew up in environments where vulnerability was unsafe, leading to a focus on control and self-protection. They may have had to fend for themselves or faced aggression. They learned that showing weakness invites attack.",
+      "growth_path": "For sp8s, growth involves learning to trust others and to allow themselves to be vulnerable. They need to realize that strength also includes the ability to ask for help and to show emotion. Therapy or close relationships can provide a safe space to soften. They also benefit from activities that require cooperation rather than domination.",
+      "stress_response": "Under stress, sp8s become more controlling and may lash out aggressively. They may isolate themselves or engage in reckless behavior to prove their strength. In extreme stress, they can become paranoid and see threats everywhere.",
+      "key_quote": "I need to be strong and self-sufficient to survive.",
+      "famous_examples": [
+        "Ernest Hemingway",
+        "John Wayne",
+        "Mad Max",
+        "characters like Wolverine"
+      ],
+      "relationship_dynamics": "In relationships, sp8s are protective and loyal, but they may struggle with intimacy. They show love through actions and by providing security. They need partners who are strong and independent, yet able to soften them. They are most compatible with types who are grounding and gentle, such as sp9 or so2.",
+      "common_misconceptions": "sp8s are often mistaken for sx8s because of their intensity and assertiveness, but sx8s are driven by a need for passionate connection and possessiveness, while sp8s are driven by a need for survival and autonomy. They are not just 'aggressive'; their toughness is a defense against vulnerability."
+    },
+    {
+      "enneagram": "so8",
+      "focus": "Gut-centered",
+      "archetype": "The Complicity",
+      "core_traits": {
+        "group_loyalty": "Demonstrate strong allegiance to groups or communities they identify with. They are tribe builders and defenders. Their identity is tied to the group.",
+        "protective_leadership": "Assume leadership roles to safeguard and advocate for their group. They are the ones who step up to protect the vulnerable. Their leadership is about service, not ego.",
+        "social_rebellion": "Challenge societal norms and injustices, especially those affecting their community. They are activists and advocates. They fight for the underdog."
+      },
+      "emotional_landscape": {
+        "empathy_for_underdogs": "Feel a deep responsibility to defend and uplift marginalized individuals. They have a soft spot for the weak and oppressed. This empathy fuels their activism.",
+        "fear_of_betrayal": "Remain vigilant against potential disloyalty within their social circles. They need to know who is truly with them. Betrayal feels like a personal attack.",
+        "controlled_expression": "Manage emotional displays to maintain authority and group cohesion. They show strength and confidence to inspire others. But they may suppress their own vulnerabilities."
+      },
+      "behavioral_tendencies": {
+        "community_advocacy": "Actively work to improve conditions for their group or community. They organize, protest, and lobby for change. Their energy is directed outward.",
+        "network_building": "Cultivate connections to strengthen their group's influence and security. They bring people together, creating alliances. Their network is their power.",
+        "norm_challenging": "Question and confront societal structures that they perceive as unjust. They are not afraid to rock the boat. Their rebellion is in service of justice."
+      },
+      "traits": [
+        "tribe leader",
+        "publicly assertive",
+        "justice-driven",
+        "mobilizing",
+        "anti-social",
+        "extraverted",
+        "anti-intuitive",
+        "seeking adrenaline",
+        "anti-intellectual",
+        "protective",
+        "charismatic",
+        "activist"
+      ],
+      "anti_traits": [
+        "intellectual",
+        "apathetic",
+        "submissive",
+        "sly and plotting",
+        "manipulative",
+        "indecisive",
+        "self-doubting",
+        "strategic",
+        "puppetmaster"
+      ],
+      "often_confused_with": [
+        "sx1",
+        "so2",
+        "so7",
+        "sx8",
+        "so6"
+      ],
+      "neurosis": "Fear of social powerlessness manifests as hyper-assertiveness and tribal dominance, masking insecurity through public justice enforcement. They need to feel powerful to protect themselves and their group. This drive can become overbearing.",
+      "childhood": "Felt responsible for protecting others, developing a strong sense of justice and leadership. They may have been the big brother or sister, or they witnessed injustice that sparked their fire.",
+      "growth_path": "For so8s, growth involves learning to balance their protective instincts with humility and to trust that others can also lead. They need to recognize that not every fight is theirs to win. Developing introspection and allowing themselves to be vulnerable can deepen their connections. They also benefit from stepping back and letting others take the lead.",
+      "stress_response": "Under stress, so8s become more authoritarian and may bulldoze over others in the name of justice. They may become paranoid about betrayal and crack down on dissent. In extreme stress, they can become tyrannical or isolated.",
+      "key_quote": "I will fight for my people, no matter the cost.",
+      "famous_examples": [
+        "Malcolm X",
+        "Che Guevara",
+        "Winston Churchill",
+        "characters like Katniss Everdeen"
+      ],
+      "relationship_dynamics": "In relationships, so8s are fiercely loyal and protective, but they may be overbearing. They need partners who share their values and who can stand their ground. They are most compatible with types who are grounding and diplomatic, such as sp9 or so7.",
+      "common_misconceptions": "so8s are often mistaken for sx8s because of their intensity and assertiveness, but sx8s are driven by a need for passionate connection and possessiveness, while so8s are driven by a need for group loyalty and justice. They are not just 'bullies'; their aggression is in service of protecting others."
+    },
+    {
+      "enneagram": "sx8",
+      "focus": "Gut-centered",
+      "archetype": "The Possessiveness",
+      "core_traits": {
+        "intensity": "Engage with the world in a passionate and forceful manner, seeking deep connections. They throw themselves into relationships with full force. Their intensity can be overwhelming but also captivating.",
+        "dominance": "Desire to assert control in relationships, often testing boundaries. They need to be the one in charge, or at least to know they are not being controlled. This dominance can be a way to protect vulnerability.",
+        "magnetism": "Exude a charismatic presence that draws others in. They have a powerful aura that people find attractive. Their magnetism is both alluring and intimidating."
+      },
+      "emotional_landscape": {
+        "emotional_volatility": "Experience strong emotions that can lead to impulsive actions. They feel everything intensely—love, anger, jealousy. This volatility can make relationships turbulent.",
+        "fear_of_vulnerability": "Guard against emotional exposure, fearing loss of control. They equate vulnerability with weakness. So they keep their guard up, even with loved ones.",
+        "possessiveness": "Develop intense attachments, sometimes leading to controlling behaviors. They need to know their partner is theirs. This possessiveness stems from a fear of abandonment."
+      },
+      "behavioral_tendencies": {
+        "relationship_testing": "Challenge partners to prove loyalty and strength. They may provoke arguments or create drama to see if the other will stay. This testing can be exhausting for partners.",
+        "confrontational_approach": "Address conflicts directly, often with intensity. They don't shy away from confrontation; they meet it head-on. This can be intimidating but also clears the air.",
+        "passion_pursuit": "Seek out experiences and relationships that offer emotional and physical intensity. They crave the rush of passion. Without it, they feel bored and empty."
+      },
+      "traits": [
+        "explosive temper",
+        "seeking adrenaline",
+        "intense primal-like bonds",
+        "unhinged and hyperemotional",
+        "magnetically dangerous",
+        "anti-social",
+        "extraverted, but bad at smooth talking",
+        "anti-intellectual",
+        "anti-intuitive",
+        "anti-manipulative",
+        "passionate",
+        "possessive"
+      ],
+      "anti_traits": [
+        "intelligent",
+        "intellectual",
+        "puppetmaster",
+        "cold",
+        "avoidant",
+        "team-switching",
+        "diplomatic",
+        "restrained",
+        "calm"
+      ],
+      "often_confused_with": [
+        "sx2",
+        "sx4",
+        "sp8",
+        "sx6",
+        "so8"
+      ],
+      "neurosis": "Fear of betrayal fuels possessive loyalty, conflating intensity with safety in relationships. They believe that if they love hard enough, they can prevent abandonment. But this intensity can push people away.",
+      "childhood": "Experienced betrayal or loss in close relationships, leading to intense and sometimes confrontational bonds, while recklessly seeking adrenaline. They may have had a parent who left or was unreliable, teaching them that love is dangerous.",
+      "growth_path": "For sx8s, growth involves learning to trust and to moderate their intensity. They need to realize that love doesn't have to be a battle. Developing emotional regulation and allowing themselves to be vulnerable can help. They also benefit from channeling their passion into creative or constructive outlets.",
+      "stress_response": "Under stress, sx8s become more possessive and may act out aggressively. They may try to control their partner or lash out in jealousy. In extreme stress, they can become violent or self-destructive.",
+      "key_quote": "I love with all my being, and I expect the same.",
+      "famous_examples": [
+        "Frank Sinatra",
+        "Mike Tyson",
+        "Scarlett O'Hara",
+        "characters like Rhett Butler"
+      ],
+      "relationship_dynamics": "In relationships, sx8s are passionate and intense, but they can be overwhelming. They need partners who are strong and can handle their fire. They are most compatible with types who are grounding and secure, such as sp9 or so6.",
+      "common_misconceptions": "sx8s are often mistaken for sp8s because of their assertiveness, but sp8s are driven by a need for survival and autonomy, while sx8s are driven by a need for passionate connection and possessiveness. They are not just 'controlling'; their possessiveness is a fear of loss."
+    },
+    {
+      "enneagram": "sp9",
+      "focus": "Gut-centered",
+      "archetype": "The Appetite",
+      "core_traits": {
+        "comfort_seeking": "Prioritize routines and physical comforts, often engaging in activities like eating, reading, or watching television to maintain a sense of peace. They find solace in the familiar. Their home is their haven.",
+        "practicality": "Grounded and concrete in their approach, focusing on tangible experiences over abstract ideas. They are doers, not thinkers. They like to keep things simple.",
+        "stubbornness": "Exhibit resistance to change, especially when their comfort is threatened. They dig in their heels when pushed. This stubbornness is a way to preserve their peace."
+      },
+      "emotional_landscape": {
+        "anger_repression": "Suppress anger to avoid conflict, which may manifest as passive-aggressive behavior or irritability. They don't like to show anger, but it comes out sideways. They may become grumpy or withdrawn.",
+        "emotional_detachment": "Tend to 'go to sleep' to their own emotions, avoiding awareness of internal discomfort. They numb out with routines and comforts. This detachment can lead to a lack of self-awareness.",
+        "self-neglect": "Overlook personal needs and desires in favor of maintaining external peace. They put others first to avoid rocking the boat. But this can lead to resentment and burnout."
+      },
+      "behavioral_tendencies": {
+        "routine_adherence": "Stick to familiar habits and routines to create a sense of stability. They like predictability. Change is stressful, so they avoid it.",
+        "solitude_preference": "Enjoy spending time alone, finding it more relaxing and grounding. They recharge in solitude. Socializing can be draining.",
+        "resistance_to_pressure": "React to external demands with passive resistance, often digging in their heels when feeling pressured. They may agree outwardly but then not follow through. This is their way of maintaining control."
+      },
+      "traits": [
+        "anti-intuitive",
+        "resistant to disruption",
+        "quietly stubborn",
+        "routine-bound",
+        "grounded and overly physical",
+        "dissociated",
+        "comfort-seeking",
+        "easygoing",
+        "unassuming",
+        "peaceful"
+      ],
+      "anti_traits": [
+        "confrontational",
+        "attention-seeking",
+        "emotionally volatile",
+        "impulsive",
+        "showy",
+        "romantic",
+        "existential",
+        "ambitious"
+      ],
+      "often_confused_with": [
+        "sp1",
+        "sp5",
+        "sp7",
+        "sp6",
+        "so9"
+      ],
+      "neurosis": "Fear of disruption leads to passive stubbornness, prioritizing comfort over authentic engagement. They avoid anything that might disturb their peace, even if it means missing out on life. This inertia can become a trap.",
+      "childhood": "Felt overlooked or unimportant, leading to a focus on comfort and routine to maintain peace. They may have learned that staying quiet and not making waves was the safest way to be.",
+      "growth_path": "For sp9s, growth involves learning to engage with life and to express their needs and opinions. They need to tolerate discomfort and conflict as part of growth. Therapy or assertiveness training can help. They also benefit from trying new things and breaking routines.",
+      "stress_response": "Under stress, sp9s become more stubborn and may withdraw into their routines. They may indulge in comfort activities excessively. In extreme stress, they can become completely numb and dissociated.",
+      "key_quote": "I just want to be comfortable and at peace.",
+      "famous_examples": [
+        "Winnie the Pooh",
+        "Jeff Bridges",
+        "characters like 'The Dude'"
+      ],
+      "relationship_dynamics": "In relationships, sp9s are easygoing and supportive, but they may avoid conflict. They need partners who are patient and who can gently encourage them to engage. They are most compatible with types who are warm and initiating, such as so2 or sp2.",
+      "common_misconceptions": "sp9s are often mistaken for sp5s because of their withdrawal, but sp5s withdraw to protect their autonomy and resources, while sp9s withdraw to maintain peace and comfort. They are not just 'lazy'; their inertia is a defense against disruption."
+    },
+    {
+      "enneagram": "so9",
+      "focus": "Gut-centered",
+      "archetype": "The Harmony",
+      "core_traits": {
+        "group_oriented": "Focus on being part of a group, often working hard to meet the group's needs. They are the glue that holds communities together. Their identity is tied to the collective.",
+        "outgoing": "Display sociable and congenial behavior, appearing fun-loving and friendly. They are the ones who organize gatherings and make everyone feel welcome. Their warmth is genuine.",
+        "self-forgetting": "Neglect personal needs by prioritizing the needs of the group. They lose themselves in service to others. This can lead to burnout and resentment."
+      },
+      "emotional_landscape": {
+        "fear_of_disconnection": "Experience anxiety about not belonging, leading to overcompensation through group participation. They need to be included. Exclusion feels like a threat.",
+        "emotional_flatness": "Maintain a cheerful exterior while feeling a persistent sense of not belonging. They may feel like an impostor, even in the group. This inner emptiness is masked by a smile.",
+        "self-doubt": "Question their own existence and sense of self due to constant focus on others. They don't know who they are apart from the group. This can lead to identity crises."
+      },
+      "behavioral_tendencies": {
+        "workaholism": "Engage in excessive work to support the group, often at the expense of personal well-being. They are the ones who do the behind-the-scenes labor. Their work is a way to feel valuable.",
+        "conflict_avoidance": "Strive to maintain harmony within the group, avoiding personal conflicts. They smooth over disagreements and keep the peace. But this can suppress important issues.",
+        "overcommitment": "Take on numerous responsibilities to ensure inclusion and acceptance. They say yes to everything, spreading themselves thin. This overcommitment can lead to exhaustion."
+      },
+      "traits": [
+        "chill peacemaker",
+        "group-oriented and dutiful",
+        "optimistically detached",
+        "conflict-easing charisma",
+        "dissociated",
+        "comfort-seeking",
+        "extraverted",
+        "anti-intuitive",
+        "sociable",
+        "selfless",
+        "harmonious"
+      ],
+      "anti_traits": [
+        "aggressive",
+        "isolated",
+        "rigid",
+        "aloof",
+        "contrarian",
+        "selfish",
+        "confrontational"
+      ],
+      "often_confused_with": [
+        "sp2",
+        "sx3",
+        "sp4",
+        "so7",
+        "so6"
+      ],
+      "neurosis": "Fear of conflict creates over-identification with group harmony, detaching from personal needs. They become the peacekeeper, but at the cost of their own voice. This self-sacrifice can lead to feeling invisible.",
+      "childhood": "Believed that merging with group expectations was necessary to avoid conflict and gain acceptance. They may have been praised for being 'good' and 'easy' and learned to suppress their own needs.",
+      "growth_path": "For so9s, growth involves learning to assert their own needs and to tolerate conflict as a natural part of relationships. They need to develop a sense of self separate from the group. Therapy or individual pursuits can help. They also benefit from saying no and setting boundaries.",
+      "stress_response": "Under stress, so9s become more withdrawn and may neglect their duties. They may feel overwhelmed and unable to cope. In extreme stress, they can become depressed and isolate themselves.",
+      "key_quote": "I find peace in belonging and keeping harmony.",
+      "famous_examples": [
+        "Mr. Rogers",
+        "Jimmy Carter",
+        "characters like Ned Flanders"
+      ],
+      "relationship_dynamics": "In relationships, so9s are supportive and easygoing, but they may lose themselves. They need partners who encourage their individuality and who don't take advantage of their selflessness. They are most compatible with types who are assertive and appreciative, such as so8 or sp8.",
+      "common_misconceptions": "so9s are often mistaken for so2s because of their helpfulness, but so2s are driven by a need for recognition and love, while so9s are driven by a need for harmony and belonging. They are not just 'doormats'; their selflessness is a way to maintain peace."
+    },
+    {
+      "enneagram": "sx9",
+      "focus": "Gut-centered",
+      "archetype": "The Symbiosis",
+      "core_traits": {
+        "merging": "Blend with significant others, adopting their attitudes, opinions, and feelings. They lose themselves in the other person. This merging is a way to feel connected and safe.",
+        "gentleness": "Exhibit kind, gentle, and shy characteristics, often avoiding assertiveness. They are soft and accommodating. Their gentleness draws others in.",
+        "identity_through_others": "Seek a sense of self by connecting deeply with another person. They don't know who they are alone. Their partner becomes their mirror."
+      },
+      "emotional_landscape": {
+        "boundary_dissolution": "Experience a lack of personal boundaries, leading to difficulty distinguishing their own feelings from others'. They absorb the emotions of those around them. This can be overwhelming.",
+        "emotional_suppression": "Avoid expressing true thoughts and feelings to maintain harmony in relationships. They fear that disagreeing will cause separation. So they stay silent.",
+        "dependency": "Rely on close relationships to provide a sense of purpose and identity. Without a partner, they feel lost and empty. This dependency can be suffocating for both."
+      },
+      "behavioral_tendencies": {
+        "agreement_seeking": "Tend to agree with others to avoid conflict, often suppressing personal opinions. They nod and smile, even when they disagree. This can lead to resentment.",
+        "relationship_fusion": "Become deeply involved in relationships, sometimes losing their own identity. They do everything together and can't imagine life apart. This fusion can be romantic but also unhealthy.",
+        "passivity": "Display a lack of initiative, waiting for others to take the lead. They are followers, not leaders. This passivity can make them seem lazy or uninterested."
+      },
+      "traits": [
+        "grounded and submissive",
+        "relationship-focused",
+        "soul-merging",
+        "dissociated",
+        "emotionally diffused",
+        "anti-intuitive",
+        "gentle",
+        "accommodating",
+        "passive"
+      ],
+      "anti_traits": [
+        "emotionally intense",
+        "dominant",
+        "assertively independent",
+        "calculative",
+        "individualistic",
+        "confrontational"
+      ],
+      "often_confused_with": [
+        "sp2",
+        "sx3",
+        "sp4",
+        "so4",
+        "sx5",
+        "sp6"
+      ],
+      "neurosis": "Fear of losing identity in relationships results in emotional diffusion, idealizing connection to avoid confrontation. They merge to feel safe, but this fusion prevents them from developing a solid self.",
+      "childhood": "Prioritized harmony in close relationships, often suppressing personal desires to maintain connection. They may have had a parent who was controlling or emotionally needy, teaching them that their needs don't matter.",
+      "growth_path": "For sx9s, growth involves learning to individuate and to assert their own needs. They need to develop a sense of self separate from their partner. Therapy or solo activities can help. They also benefit from practicing disagreement and tolerating the discomfort.",
+      "stress_response": "Under stress, sx9s become more passive and may cling to their partner. They may feel anxious and lost. In extreme stress, they can become completely dependent and unable to function alone.",
+      "key_quote": "I am only whole when I am with you.",
+      "famous_examples": [
+        "Prince Charles (speculated)",
+        "characters like 'Bella Swan' from Twilight"
+      ],
+      "relationship_dynamics": "In relationships, sx9s are devoted and gentle, but they may lose themselves. They need partners who encourage their independence and who are patient with their need for merging. They are most compatible with types who are grounding and assertive, such as sp8 or so8.",
+      "common_misconceptions": "sx9s are often mistaken for sx3s because of their focus on relationships, but sx3s are driven by a need for admiration and desirability, while sx9s are driven by a need for merging and harmony. They are not just 'clingy'; their merging is a way to feel secure."
+    },
+    {
+      "enneagram": "sp1",
+      "focus": "Gut-centered",
+      "archetype": "The Conscience",
+      "core_traits": {
+        "anxiety_and_vigilance": "Driven by a need to foresee and manage problems, SP1s are highly vigilant and strive to maintain control. They are always scanning for what could go wrong. This vigilance is exhausting but feels necessary.",
+        "perfectionism": "They pursue flawlessness and are often harsh self-critics when mistakes occur. Nothing is ever good enough. Their inner critic is relentless.",
+        "responsibility": "Often take on serious responsibilities early in life, becoming dependable and self-reliant. They are the ones others count on. This responsibility can be a burden.",
+        "control_and_structure": "Feel compelled to maintain order and structure, making it hard to relax. They need things to be just so. Chaos is intolerable."
+      },
+      "emotional_landscape": {
+        "inner_critic": "Possess a strong internal judge that causes guilt or a sense of inadequacy. They constantly measure themselves against an impossible standard. This critic can be paralyzing.",
+        "suppressed_anger": "Anger is present but usually turned inward, feeding perfectionist tendencies. They are angry at themselves for not being perfect. This anger can lead to resentment and self-punishment.",
+        "fear_of_relaxation": "Struggle to let go of control, even in situations they cannot influence. Relaxing feels like letting down their guard. They are always on alert."
+      },
+      "behavioral_tendencies": {
+        "moral_rigor": "Adhere strictly to personal ethics and expect others to do the same. They have a strong sense of right and wrong. They can be judgmental of those who don't meet their standards.",
+        "self_sacrifice": "Neglect their own needs in favor of duty, which can lead to resentment and tension. They put work and obligations first. Their own desires are secondary.",
+        "efficiency": "Organized, practical, and excel in detail-oriented tasks. They are the ones who get things done right. Their efficiency is admired but can be obsessive."
+      },
+      "traits": [
+        "simple and disciplined",
+        "private conscience",
+        "compliant and non-rebellious",
+        "submissive and shy",
+        "stubborn and self-restraining",
+        "overly practical and grounded",
+        "efficiency-driven",
+        "morally rigid",
+        "anti-intuitive",
+        "responsible",
+        "perfectionist"
+      ],
+      "anti_traits": [
+        "complex or impulsive",
+        "loudly moralizing",
+        "hedonistic",
+        "reckless",
+        "attention-hungry",
+        "rebellious",
+        "calculating or plotting",
+        "charismatic or manipulative"
+      ],
+      "often_confused_with": [
+        "sp4",
+        "so6",
+        "sp3",
+        "so7",
+        "sp5"
+      ],
+      "neurosis": "Fear of imperfection enforces rigid self-discipline, suppressing impulses to maintain moral purity. They believe that if they can be perfect, they will be safe from criticism and rejection. But this perfectionism is a cage.",
+      "childhood": "Felt love was conditional upon being 'good' or perfect, leading to internalized anger and self-criticism. They may have had parents who were critical or demanding, teaching them that they must earn love through perfection.",
+      "growth_path": "For sp1s, growth involves learning to accept imperfection and to be kind to themselves. They need to realize that mistakes are part of being human. Therapy or self-compassion practices can help. They also benefit from letting go of control and allowing spontaneity.",
+      "stress_response": "Under stress, sp1s become more rigid and critical, both of themselves and others. They may become obsessive about details. In extreme stress, they can have anxiety attacks or become depressed from the weight of their own expectations.",
+      "key_quote": "I must be perfect to be worthy.",
+      "famous_examples": [
+        "St. Augustine",
+        "Martha Stewart",
+        "characters like Monica Geller"
+      ],
+      "relationship_dynamics": "In relationships, sp1s are reliable and conscientious, but they can be critical. They need partners who are patient and who can help them relax. They are most compatible with types who are warm and accepting, such as so9 or sp2.",
+      "common_misconceptions": "sp1s are often mistaken for sp3s because of their diligence, but sp3s are driven by a need for achievement and recognition, while sp1s are driven by a need for perfection and morality. They are not just 'workaholics'; their work is about being good, not just successful."
+    },
+    {
+      "enneagram": "so1",
+      "focus": "Gut-centered",
+      "archetype": "The Righteousness",
+      "core_traits": {
+        "social_consciousness": "Focused on improving communities and social structures, often taking on leadership roles. They want to make the world a better place. Their vision is grand.",
+        "role_modeling": "Strive to exemplify moral behavior, setting standards for others to follow. They lead by example. Their integrity is their calling card.",
+        "systematic_thinking": "Approach problems with a structured mindset, aiming for societal betterment. They think in systems and policies. Their solutions are logical and principled."
+      },
+      "emotional_landscape": {
+        "externalized_anger": "Express frustration when societal norms don't align with their ideals. They get angry at injustice and corruption. This anger fuels their activism.",
+        "sense_of_duty": "Feel a strong obligation to guide others towards moral correctness. They see it as their mission. This duty can become a burden.",
+        "identity_tied_to_roles": "Self-worth is often linked to their perceived effectiveness in social roles. They need to see themselves as making a difference. If they feel ineffective, they feel worthless."
+      },
+      "behavioral_tendencies": {
+        "community_involvement": "Actively participate in social causes and community development. They are on boards, committees, and front lines. Their involvement is deep.",
+        "educational_drive": "Passionate about teaching and mentoring others in ethical practices. They want to spread their values. Education is a tool for change.",
+        "perfectionism_in_others": "Hold high standards not just for themselves but also for those around them. They can be critical of others' moral failings. This can make them seem self-righteous."
+      },
+      "traits": [
+        "principled narcissist",
+        "punishing and authoritarian",
+        "serious moral imposer",
+        "corrective of society",
+        "boldly defies ethics with no trickstery",
+        "brutally honest and virtue-signaling",
+        "self-righteous and machiavellian",
+        "efficiency-driven",
+        "idealistic",
+        "reformer"
+      ],
+      "anti_traits": [
+        "doubtful",
+        "socially passive",
+        "reckless",
+        "trickster",
+        "ambivalent",
+        "socially slippery",
+        "unprincipled"
+      ],
+      "often_confused_with": [
+        "so3",
+        "so7",
+        "so6",
+        "so2",
+        "so5"
+      ],
+      "neurosis": "Fear of moral failure compels public correction of others, conflating criticism with righteousness. They need to see themselves as morally superior to feel safe. This can lead to a judgmental attitude.",
+      "childhood": "Grew up feeling responsible for upholding moral standards, suppressing personal emotions to meet societal expectations. They may have been praised for being 'good' and internalized that their worth depends on being moral.",
+      "growth_path": "For so1s, growth involves learning to tolerate moral ambiguity and to accept that others have different paths. They need to develop humility and recognize their own flaws. Therapy or self-reflection can help them see the shadow side of their righteousness. They also benefit from engaging in activities that are not about improving the world, just for fun.",
+      "stress_response": "Under stress, so1s become more authoritarian and may impose their views on others. They can become harsh and punitive. In extreme stress, they may feel disillusioned and withdraw from their causes.",
+      "key_quote": "I must make the world a better place, even if it means being harsh.",
+      "famous_examples": [
+        "Mahatma Gandhi (so1?)",
+        "Ralph Nader",
+        "characters like Javert from Les Misérables"
+      ],
+      "relationship_dynamics": "In relationships, so1s are principled and loyal, but they can be critical. They need partners who share their values and who can tolerate their idealism. They are most compatible with types who are grounding and flexible, such as sp9 or so7.",
+      "common_misconceptions": "so1s are often mistaken for so3s because of their public roles, but so3s are driven by a need for success and image, while so1s are driven by a need for moral perfection and justice. They are not just 'preachy'; their righteousness is a defense against their own imperfections."
+    },
+    {
+      "enneagram": "sx1",
+      "focus": "Gut-centered",
+      "archetype": "The Zeal",
+      "core_traits": {
+        "intensity_in_relationships": "Seek deep, transformative connections, often idealizing partners. They throw themselves into relationships with passion. Their love is intense and demanding.",
+        "passionate_reformer": "Driven to improve others, channeling energy into close relationships. They want to 'fix' their partner, to help them become better. This can be intrusive.",
+        "emotional_expressiveness": "More openly display emotions compared to other subtypes. They are not afraid to show anger, joy, or frustration. Their emotions are raw and real."
+      },
+      "emotional_landscape": {
+        "outward_anger": "Less repressed anger, which can manifest in passionate advocacy or criticism. They get angry at injustice, especially in their relationships. This anger can be constructive or destructive.",
+        "desire_for_perfection_in_others": "Focus on refining and perfecting those they are close to. They see potential and want to help realize it. But this can feel like nagging.",
+        "emotional_highs_and_lows": "Experience intense emotional fluctuations, especially in personal relationships. They can go from adoration to disappointment quickly. This volatility is challenging."
+      },
+      "behavioral_tendencies": {
+        "assertiveness": "Bold in pursuing what they believe is right, especially in close relationships. They speak their mind and expect others to do the same. Their assertiveness can be intimidating.",
+        "transformational_focus": "Aim to bring about significant change in others, sometimes at the expense of self-care. They invest heavily in their partner's growth, neglecting their own needs.",
+        "boundary_challenges": "May struggle with setting and respecting personal boundaries due to intense involvement. They want to be deeply involved, which can blur lines. This can lead to enmeshment."
+      },
+      "traits": [
+        "extraverted",
+        "law-enforcing",
+        "no-nonsense",
+        "zealously attached",
+        "critical to self and others",
+        "anger about corruption",
+        "efficiency-driven",
+        "morally rigid",
+        "anti-intuitive",
+        "passionate",
+        "reforming"
+      ],
+      "anti_traits": [
+        "funny",
+        "careless",
+        "emotionally distant",
+        "neutral in values",
+        "hedonistic",
+        "ambivalent",
+        "manipulative",
+        "calm"
+      ],
+      "often_confused_with": [
+        "sx4",
+        "sx6",
+        "sx8",
+        "sx2",
+        "so1"
+      ],
+      "neurosis": "Fear of moral compromise creates black-and-white loyalty, idealizing relationships to avoid ambiguity. They need their partner to be perfect to feel safe. This idealization sets them up for disappointment.",
+      "childhood": "Experienced inconsistency in close relationships, prompting a desire to correct or perfect others to ensure safety. They may have had a parent who was unpredictable, leading them to seek control through moral clarity.",
+      "growth_path": "For sx1s, growth involves learning to accept imperfection in themselves and others. They need to realize that love doesn't require perfection. Developing flexibility and tolerance for ambiguity can help. They also benefit from focusing on their own growth rather than trying to fix others.",
+      "stress_response": "Under stress, sx1s become more critical and may lash out at their partner. They may become obsessive about flaws. In extreme stress, they can become self-righteous and isolated.",
+      "key_quote": "I will help you become the best version of yourself, even if it hurts.",
+      "famous_examples": [
+        "Martin Luther King Jr. (sx1?)",
+        "Joan of Arc",
+        "characters like Professor Higgins"
+      ],
+      "relationship_dynamics": "In relationships, sx1s are passionate and devoted, but they can be controlling. They need partners who are open to growth and who can handle their intensity. They are most compatible with types who are grounding and accepting, such as sp9 or so6.",
+      "common_misconceptions": "sx1s are often mistaken for sx4s because of their intensity and passion, but sx4s are driven by a need for identity and authenticity, while sx1s are driven by a need for moral perfection and reform. They are not just 'angry'; their anger is a passion for improvement."
+    }
+  ]
+}

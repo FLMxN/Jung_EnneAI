@@ -6,6 +6,9 @@ import json
 from g4f.Provider import PollinationsAI
 from g4f.client import ClientFactory
 
+model = 'kimi'
+model_translate = 'gemini-fast'
+
 dotenv.load_dotenv()
 client = ClientFactory.create_client("pollinations")
 
@@ -91,7 +94,7 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
 
     if not is_image:
         r = client.chat.completions.create(
-            model='openai',
+            model=model,
             messages=[
                 {
                     'role':'system',
@@ -109,8 +112,8 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
     
     else:
         r = client.chat.completions.create(
-            model='openai',
-            image=message[1],
+            model=model,
+            image=message['url'],
             messages=[
                 {
                     'role':'system',
@@ -118,7 +121,7 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
                 },
                 {
                     'role':'user',
-                    'content': f'Replying to: \n    "{reply}"\n{message[0]}'
+                    'content': f'Replying to: \n    "{reply}"\n{message['caption']}'
                 }
             ],
             api_key = dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
@@ -126,5 +129,22 @@ async def req(ennea, psychosophy, socionics, corr, examples, username, message, 
 
         return r.choices[0].message.content
 
+async def translate(text, message):
+    r = client.chat.completions.create(
+            model=model_translate,
+            messages=[
+                {
+                    'role':'system',
+                    'content': f'Translate the text providen below into the language of this message: "{message}" (for reference, it`s either ru-RU or en-US). Make sure to keep translation shorter than 2048 characters and keep all formatting + emojis/kaomojis. If formatting is absent, add it with <i>italic</i> and <b>bold</b>.'
+                },
+                {
+                    'role':'user',
+                    'content': f'Text to translate: "{text}"'
+                }
+            ],
+            api_key = dotenv.get_key(dotenv_path='.env', key_to_get="PAI_TOKEN")
+        )
+        
+    return r.choices[0].message.content
 
 # asyncio.run(req(prompt))
